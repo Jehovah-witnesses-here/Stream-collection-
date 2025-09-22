@@ -201,8 +201,8 @@ jobs:
               print(f"\n🔧 Now checking and fixing all streams...")
               
               for stream in streams:
-                  total_checked += 1
-                  print(f"Checking ({total_checked}/{total_streams}): {stream['name'][:50]}...")
+                  checked_streams += 1
+                  print(f"Checking ({checked_streams}/{total_streams}): {stream['name'][:50]}...")
                   
                   # Check if current stream works
                   if check_stream(stream['url']):
