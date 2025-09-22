@@ -1,4 +1,4 @@
-name: moj Auto-FixStreams
+name: Auto-Fix M3U Streams
 
 on:
   workflow_dispatch:
@@ -161,10 +161,10 @@ jobs:
                   
                   # Check if current stream works
                   if check_stream(stream['url']):
-                      print(f"  ✅ Working")
+                      print(f"  ✅ Working - no changes needed")
                       continue
                   
-                  print(f"  ❌ Failed, searching for alternatives...")
+                  print(f"  ❌ Stream failed, searching for alternatives...")
                   
                   # Look for fl pattern and try variations
                   if 'fl' in stream['url'] and re.search(r'fl\d+', stream['url']):
@@ -172,25 +172,36 @@ jobs:
                       found_working = False
                       
                       for i, variation in enumerate(variations):
-                          print(f"    Testing variation {i+1}/{len(variations)}...")
+                          print(f"    Testing alternative {i+1}/{len(variations)}: {variation}")
                           
+                          # Double-check the alternative works before updating
                           if check_stream(variation):
-                              print(f"    ✅ Found working alternative!")
+                              print(f"    ✅ Alternative confirmed working!")
                               
-                              # Update the file
-                              update_m3u_file(m3u_file, lines, stream['url_line'], variation)
+                              # Re-parse the file to get fresh line data (in case other changes happened)
+                              current_streams, current_lines = parse_m3u(m3u_file)
                               
-                              fixed_streams.append({
-                                  'name': stream['name'],
-                                  'file': m3u_file,
-                                  'original_url': stream['url'],
-                                  'new_url': variation
-                              })
-                              
-                              total_fixed += 1
-                              file_fixed += 1
-                              found_working = True
+                              # Find the matching stream in current data
+                              for current_stream in current_streams:
+                                  if current_stream['name'] == stream['name'] and current_stream['url'] == stream['url']:
+                                      # Update with the working alternative
+                                      update_m3u_file(m3u_file, current_lines, current_stream['url_line'], variation)
+                                      
+                                      fixed_streams.append({
+                                          'name': stream['name'],
+                                          'file': m3u_file,
+                                          'original_url': stream['url'],
+                                          'new_url': variation
+                                      })
+                                      
+                                      total_fixed += 1
+                                      file_fixed += 1
+                                      found_working = True
+                                      print(f"    📝 Updated {stream['name']} with working stream")
+                                      break
                               break
+                          else:
+                              print(f"    ❌ Alternative failed")
                           
                           # Small delay to avoid overwhelming servers
                           time.sleep(0.2)
