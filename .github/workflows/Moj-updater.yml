@@ -28,7 +28,7 @@ jobs:
 
       - name: Auto-Fix Streams
         run: |
-          python - << 'EOF'
+          python - <<EOF
           import requests
           import os
           import re
