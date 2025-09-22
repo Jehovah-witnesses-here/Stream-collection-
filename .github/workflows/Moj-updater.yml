@@ -63,13 +63,20 @@ jobs:
           
           def is_event_channel(channel_name):
               """Check if a channel is event-based (PPV, etc.) and expected to be offline"""
-              event_keywords = ['PPV', 'PPV_', 'NBA_', 'NFL_', 'NHL_', 'MLB_']
-              channel_upper = channel_name.upper()
+              event_keywords = ['PPV', 'NBA ', 'NFL ', 'NHL ', 'MLB ']
+              channel_name = channel_name.strip()
               
-              # Check if it's a numbered sports channel (PPV1, NBA 1, etc.)
+              # Check for exact matches with numbered sports channels
               for keyword in event_keywords:
-                  if keyword in channel_upper:
-                      return True
+                  if channel_name.startswith(keyword) and len(channel_name.split()) >= 2:
+                      # Check if second part is a number (like "MLB 1", "NBA 10")
+                      try:
+                          parts = channel_name.split()
+                          if len(parts) >= 2:
+                              int(parts[1])  # This will raise ValueError if not a number
+                              return True
+                      except (ValueError, IndexError):
+                          continue
               
               return False
               """Generate different fl variations to test"""
@@ -204,18 +211,50 @@ jobs:
                   checked_streams += 1
                   print(f"Checking ({checked_streams}/{total_streams}): {stream['name'][:50]}...")
                   
-                  # Check if current stream works
+                  is_event = is_event_channel(stream['name'])
+                  
+                  if is_event:
+                      print(f"  📺 Event channel - updating fl number without testing connectivity")
+                      # For event channels, just update fl number if we have a working one and it's different
+                      if working_fl_number and 'fl' in stream['url'] and re.search(r'fl\d+', stream['url']):
+                          current_fl = re.search(r'fl(\d+)', stream['url']).group(1)
+                          
+                          if current_fl != working_fl_number:
+                              new_url = re.sub(r'fl\d+', f'fl{working_fl_number}', stream['url'])
+                              print(f"    📝 Updating fl number from fl{current_fl} to fl{working_fl_number}")
+                              
+                              # Update the file
+                              current_streams, current_lines = parse_m3u(m3u_file)
+                              for current_stream in current_streams:
+                                  if current_stream['name'] == stream['name'] and current_stream['url'] == stream['url']:
+                                      update_m3u_file(m3u_file, current_lines, current_stream['url_line'], new_url)
+                                      
+                                      fixed_streams.append({
+                                          'name': stream['name'],
+                                          'file': m3u_file,
+                                          'original_url': stream['url'],
+                                          'new_url': new_url,
+                                          'old_fl': current_fl,
+                                          'new_fl': working_fl_number,
+                                          'is_event_channel': True
+                                      })
+                                      
+                                      total_fixed += 1
+                                      file_fixed += 1
+                                      break
+                          else:
+                              print(f"    ✅ Already using current working fl{working_fl_number}")
+                      else:
+                          print(f"    ℹ️  Waiting for working fl number to be determined by regular channels")
+                      continue
+                  
+                  # Regular channel - test connectivity
+                  print(f"  🔍 Testing regular channel connectivity...")
                   if check_stream(stream['url']):
                       print(f"  ✅ Working - no changes needed")
                       continue
                   
-                  # Stream is offline/broken
-                  is_event = is_event_channel(stream['name'])
-                  
-                  if is_event:
-                      print(f"  📺 Event channel offline - will still update fl number to keep URLs current")
-                  else:
-                      print(f"  ❌ Regular channel failed - needs fixing")
+                  print(f"  ❌ Regular channel failed - needs fixing")
                   
                   # For both event and regular channels: update fl number if we know a working one
                   if 'fl' in stream['url'] and re.search(r'fl\d+', stream['url']):
