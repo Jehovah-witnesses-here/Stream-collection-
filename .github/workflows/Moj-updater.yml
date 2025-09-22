@@ -34,9 +34,8 @@ jobs:
           import re
           import time
           from datetime import datetime
-          
+
           def check_stream(url, timeout=10):
-              """Check if a stream URL is accessible"""
               try:
                   headers = {
                       'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -45,86 +44,62 @@ jobs:
                       'Connection': 'keep-alive',
                       'Referer': 'https://github.com/'
                   }
-                  
-                  # Try HEAD request first (faster)
                   try:
                       response = requests.head(url, timeout=timeout, headers=headers, allow_redirects=True)
                       if response.status_code < 400:
                           return True
                   except:
                       pass
-                  
-                  # If HEAD fails, try GET
                   response = requests.get(url, timeout=timeout, headers=headers, stream=True, allow_redirects=True)
                   return response.status_code < 400
-                  
               except:
                   return False
-          
+
           def is_event_channel(channel_name):
-              """Check if a channel is event-based (PPV, etc.) and expected to be offline"""
               event_keywords = ['PPV', 'NBA ', 'NFL ', 'NHL ', 'MLB ']
               channel_name = channel_name.strip()
-              
-              # Check for exact matches with numbered sports channels
               for keyword in event_keywords:
                   if channel_name.startswith(keyword) and len(channel_name.split()) >= 2:
-                      # Check if second part is a number (like "MLB 1", "NBA 10")
                       try:
                           parts = channel_name.split()
                           if len(parts) >= 2:
-                              int(parts[1])  # This will raise ValueError if not a number
+                              int(parts[1])
                               return True
                       except (ValueError, IndexError):
                           continue
-              
               return False
-              """Generate different fl variations to test"""
+
+          def find_fl_variations(url):
               variations = []
-              
-              # Pattern to match fl followed by digits
               fl_pattern = r'fl(\d+)'
               match = re.search(fl_pattern, url)
-              
               if match:
                   original_num = int(match.group(1))
-                  
-                  # Test range around the original number
                   test_range = list(range(max(1, original_num - 10), original_num + 21))
-                  # Remove the original number since we know it's not working
                   if original_num in test_range:
                       test_range.remove(original_num)
-                  
                   for num in test_range:
                       new_url = re.sub(fl_pattern, f'fl{num}', url)
                       variations.append(new_url)
-              
               return variations
-          
+
           def parse_m3u(file_path):
-              """Parse M3U file and return streams with their line numbers"""
               if not os.path.exists(file_path):
                   print(f"File not found: {file_path}")
                   return [], []
-                  
               try:
                   with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                       lines = f.readlines()
               except Exception as e:
                   print(f"Error reading {file_path}: {str(e)}")
                   return [], []
-              
               streams = []
-              
               for i in range(len(lines)):
                   line = lines[i].strip()
                   if line.startswith('#EXTINF'):
                       try:
-                          # Extract channel name
                           name_part = line.split(',')[-1].strip()
                           name = name_part if name_part else "Unknown Channel"
-                          
-                          # Get URL from next line
                           if i + 1 < len(lines):
                               url = lines[i + 1].strip()
                               if url and not url.startswith('#') and 'http' in url:
@@ -137,51 +112,43 @@ jobs:
                       except Exception as e:
                           print(f"Error parsing line {i}: {str(e)}")
                           continue
-              
               return streams, lines
-          
+
           def update_m3u_file(file_path, lines, url_line, new_url):
-              """Update M3U file with new URL"""
               lines[url_line] = new_url + '\n'
-              
-              # Write updated file
               with open(file_path, 'w', encoding='utf-8') as f:
                   f.writelines(lines)
-          
-          # Your M3U files
+
           m3u_files = [
               'moj.m3u'
           ]
-          
-          # Initialize tracking variables
+
           total_streams = 0
           total_fixed = 0
           failed_streams = []
           fixed_streams = []
           checked_streams = 0
           skipped_event_channels = 0
-          working_fl_number = None  # Track what fl number is currently working
-          
+          working_fl_number = None
+
           print("Starting auto-fix process...")
-          
+
           for m3u_file in m3u_files:
               if not os.path.exists(m3u_file):
                   print(f"File not found: {m3u_file}")
                   continue
-                  
+
               print(f"\nProcessing {m3u_file}...")
-              
+
               streams, lines = parse_m3u(m3u_file)
               file_fixed = 0
               total_streams = len(streams)
-              
+
               print(f"Found {len(streams)} streams")
-              
-              # First pass: find a working fl number by testing a few streams
+
               if working_fl_number is None:
                   print("\n🔍 First, finding which 'fl' number is currently working...")
-                  test_streams = streams[:5]  # Test first 5 streams
-                  
+                  test_streams = streams[:5]
                   for stream in test_streams:
                       if 'fl' in stream['url'] and re.search(r'fl\d+', stream['url']):
                           print(f"Testing {stream['name']} to find working fl number...")
@@ -191,44 +158,36 @@ jobs:
                               print(f"✅ Found working fl number: fl{working_fl_number}")
                               break
                           else:
-                              # Try to find what fl number works for this stream
                               variations = find_fl_variations(stream['url'])
-                              for variation in variations[:10]:  # Test first 10 variations
+                              for variation in variations[:10]:
                                   if check_stream(variation):
                                       working_fl_number = re.search(r'fl(\d+)', variation).group(1)
                                       print(f"✅ Found working fl number: fl{working_fl_number}")
                                       break
                               if working_fl_number:
                                   break
-                  
                   if not working_fl_number:
                       print("❌ Could not determine working fl number, will test each stream individually")
-              
-              # Second pass: fix all streams using the working fl number
+
               print(f"\n🔧 Now checking and fixing all streams...")
-              
+
               for stream in streams:
                   checked_streams += 1
                   print(f"Checking ({checked_streams}/{total_streams}): {stream['name'][:50]}...")
-                  
+
                   is_event = is_event_channel(stream['name'])
-                  
+
                   if is_event:
                       print(f"  📺 Event channel - updating fl number without testing connectivity")
-                      # For event channels, just update fl number if we have a working one and it's different
                       if working_fl_number and 'fl' in stream['url'] and re.search(r'fl\d+', stream['url']):
                           current_fl = re.search(r'fl(\d+)', stream['url']).group(1)
-                          
                           if current_fl != working_fl_number:
                               new_url = re.sub(r'fl\d+', f'fl{working_fl_number}', stream['url'])
                               print(f"    📝 Updating fl number from fl{current_fl} to fl{working_fl_number}")
-                              
-                              # Update the file
                               current_streams, current_lines = parse_m3u(m3u_file)
                               for current_stream in current_streams:
                                   if current_stream['name'] == stream['name'] and current_stream['url'] == stream['url']:
                                       update_m3u_file(m3u_file, current_lines, current_stream['url_line'], new_url)
-                                      
                                       fixed_streams.append({
                                           'name': stream['name'],
                                           'file': m3u_file,
@@ -238,7 +197,6 @@ jobs:
                                           'new_fl': working_fl_number,
                                           'is_event_channel': True
                                       })
-                                      
                                       total_fixed += 1
                                       file_fixed += 1
                                       break
@@ -247,32 +205,24 @@ jobs:
                       else:
                           print(f"    ℹ️  Waiting for working fl number to be determined by regular channels")
                       continue
-                  
-                  # Regular channel - test connectivity
+
                   print(f"  🔍 Testing regular channel connectivity...")
                   if check_stream(stream['url']):
                       print(f"  ✅ Working - no changes needed")
                       continue
-                  
+
                   print(f"  ❌ Regular channel failed - needs fixing")
-                  
-                  # For both event and regular channels: update fl number if we know a working one
+
                   if 'fl' in stream['url'] and re.search(r'fl\d+', stream['url']):
                       if working_fl_number:
-                          # Try the known working fl number first
                           new_url = re.sub(r'fl\d+', f'fl{working_fl_number}', stream['url'])
                           current_fl = re.search(r'fl(\d+)', stream['url']).group(1)
-                          
-                          # Only update if the fl number is different
                           if current_fl != working_fl_number:
                               print(f"    📝 Updating fl number from fl{current_fl} to fl{working_fl_number}")
-                              
-                              # Update the file
                               current_streams, current_lines = parse_m3u(m3u_file)
                               for current_stream in current_streams:
                                   if current_stream['name'] == stream['name'] and current_stream['url'] == stream['url']:
                                       update_m3u_file(m3u_file, current_lines, current_stream['url_line'], new_url)
-                                      
                                       fixed_streams.append({
                                           'name': stream['name'],
                                           'file': m3u_file,
@@ -282,7 +232,6 @@ jobs:
                                           'new_fl': working_fl_number,
                                           'is_event_channel': is_event
                                       })
-                                      
                                       total_fixed += 1
                                       file_fixed += 1
                                       break
@@ -290,34 +239,23 @@ jobs:
                           else:
                               print(f"    ✅ Already using current working fl{working_fl_number}")
                               continue
-                      
-                      # If we don't know working fl number yet, or the known one doesn't work
-                      if not is_event:  # Only test alternatives for regular channels
+                      if not is_event:
                           print(f"    🔍 Testing alternatives for regular channel...")
                           variations = find_fl_variations(stream['url'])
                           found_working = False
-                          
                           for i, variation in enumerate(variations):
                               if working_fl_number and f"fl{working_fl_number}" in variation:
-                                  continue  # Skip the one we already tested
-                                  
+                                  continue
                               new_fl = re.search(r'fl(\d+)', variation).group(1)
                               print(f"    Testing fl{new_fl}...")
-                              
                               if check_stream(variation):
                                   print(f"    ✅ fl{new_fl} works! Updating and setting as new working fl...")
-                                  
-                                  # Update working fl number for future streams
                                   working_fl_number = new_fl
-                                  
-                                  # Update the file
                                   current_streams, current_lines = parse_m3u(m3u_file)
                                   for current_stream in current_streams:
                                       if current_stream['name'] == stream['name'] and current_stream['url'] == stream['url']:
                                           update_m3u_file(m3u_file, current_lines, current_stream['url_line'], variation)
-                                          
                                           old_fl = re.search(r'fl\d+', stream['url']).group(1)
-                                          
                                           fixed_streams.append({
                                               'name': stream['name'],
                                               'file': m3u_file,
@@ -327,16 +265,13 @@ jobs:
                                               'new_fl': new_fl,
                                               'is_event_channel': False
                                           })
-                                          
                                           total_fixed += 1
                                           file_fixed += 1
                                           found_working = True
                                           print(f"    📝 Updated: fl{old_fl} → fl{new_fl}")
                                           break
                                   break
-                              
                               time.sleep(0.1)
-                          
                           if not found_working:
                               print(f"    ❌ No working alternatives found")
                               failed_streams.append({
@@ -354,86 +289,80 @@ jobs:
                               'file': m3u_file,
                               'url': stream['url']
                           })
-                  
-                  time.sleep(0.1)  # Short delay
-              
+                  time.sleep(0.1)
+
               print(f"\nFile {m3u_file}: Fixed {file_fixed} streams")
               if working_fl_number:
                   print(f"Current working fl number: fl{working_fl_number}")
-          
-          # Generate report
+
           report = f"""# 🔧 M3U Auto-Fix Report
-          
+
           **Generated on:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC
-          
+
           ## 📊 Summary
-          
+
           | Metric | Count |
           |--------|-------|
-          | **Total Streams Checked** | {total_checked} |
+          | **Total Streams Checked** | {checked_streams} |
           | **✅ Streams Fixed** | {total_fixed} |
           | **❌ Streams Still Failing** | {len(failed_streams)} |
-          
+
           """
-          
+
           if fixed_streams:
               report += f"""## 🔄 Fixed Streams ({len(fixed_streams)})
-          
+
           | Channel Name | File | Status |
           |-------------|------|--------|
           """
-              
               for stream in fixed_streams:
                   name = stream['name'].replace('|', '\\|')
                   file_name = stream['file'].replace('|', '\\|')
-                  # Extract fl numbers for comparison
                   old_match = re.search(r'fl(\d+)', stream['original_url'])
                   new_match = re.search(r'fl(\d+)', stream['new_url'])
                   old_fl = old_match.group(1) if old_match else 'N/A'
                   new_fl = new_match.group(1) if new_match else 'N/A'
-                  
                   report += f"| {name} | {file_name} | fl{old_fl} → fl{new_fl} |\n"
-          
+
           if failed_streams:
               report += f"""
           ## ❌ Still Failing ({len(failed_streams)})
-          
+
           | Channel Name | File | Issue |
           |-------------|------|-------|
           """
-              
               for stream in failed_streams:
                   name = stream['name'].replace('|', '\\|')
                   file_name = stream['file'].replace('|', '\\|')
                   has_fl = "No fl pattern" if not re.search(r'fl\d+', stream['url']) else "No working alternatives"
                   report += f"| {name} | {file_name} | {has_fl} |\n"
-          
+
+          max_fl = max([int(re.search(r'fl(\d+)', s['url']).group(1)) for s in fixed_streams if re.search(r'fl\d+', s['url'])] + [20])
           report += f"""
           ## 📝 Process Details
-          
-          - **Method:** Tests fl1 through fl{max([int(re.search(r'fl(\d+)', s['url']).group(1)) for s in streams if re.search(r'fl\d+', s['url'])] + [20]) + 10} for each failed stream
+
+          - **Method:** Tests fl1 through fl{max_fl + 10} for each failed stream
           - **Timeout:** 10 seconds per test
           - **Backup:** Original files backed up as .backup before modification
           - **Pattern:** Only attempts fixes for URLs containing 'fl' followed by digits
-          
+
           ## 🚀 Next Steps
-          
+
           {"✅ Files have been automatically updated with working streams!" if fixed_streams else "ℹ️  No fixes were possible for the failed streams."}
-          
+
           ---
           *Report generated automatically by GitHub Actions*  
           *Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC*
           """
-          
-          # Write report
+
           with open('auto-fix-report.md', 'w', encoding='utf-8') as f:
               f.write(report)
-          
+
           print(f"\n🎯 Final Summary:")
           print(f"   Checked: {checked_streams} streams")
           print(f"   Fixed: {total_fixed} streams")
           print(f"   Still failing: {len(failed_streams)} streams")
-          
+
           if total_fixed > 0:
               print(f"\n✅ Successfully fixed {total_fixed} streams!")
           EOF
