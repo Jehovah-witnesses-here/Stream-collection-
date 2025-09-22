@@ -311,8 +311,8 @@ jobs:
           |-------------|------|--------|
           """
               for stream in fixed_streams:
-                  name = stream['name'].replace('|', '\\|')
-                  file_name = stream['file'].replace('|', '\\|')
+                  name = stream['name'].replace('|', '\\\\|')
+                  file_name = stream['file'].replace('|', '\\\\|')
                   old_match = re.search(r'fl(\d+)', stream['original_url'])
                   new_match = re.search(r'fl(\d+)', stream['new_url'])
                   old_fl = old_match.group(1) if old_match else 'N/A'
@@ -327,8 +327,8 @@ jobs:
           |-------------|------|-------|
           """
               for stream in failed_streams:
-                  name = stream['name'].replace('|', '\\|')
-                  file_name = stream['file'].replace('|', '\\|')
+                  name = stream['name'].replace('|', '\\\\|')
+                  file_name = stream['file'].replace('|', '\\\\|')
                   has_fl = "No fl pattern" if not re.search(r'fl\d+', stream['url']) else "No working alternatives"
                   report += f"| {name} | {file_name} | {has_fl} |\n"
 
