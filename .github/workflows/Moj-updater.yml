@@ -430,7 +430,7 @@ jobs:
               f.write(report)
           
           print(f"\n🎯 Final Summary:")
-          print(f"   Checked: {total_checked} streams")
+          print(f"   Checked: {checked_streams} streams")
           print(f"   Fixed: {total_fixed} streams")
           print(f"   Still failing: {len(failed_streams)} streams")
           
