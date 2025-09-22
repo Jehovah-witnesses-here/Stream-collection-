@@ -1,0 +1,305 @@
+name: moj Auto-FixStreams
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+
+permissions:
+  contents: write
+
+jobs:
+  auto-fix-streams:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests m3u8
+
+      - name: Auto-Fix Streams
+        run: |
+          python - << 'EOF'
+          import requests
+          import os
+          import re
+          import time
+          from datetime import datetime
+          
+          def check_stream(url, timeout=10):
+              """Check if a stream URL is accessible"""
+              try:
+                  headers = {
+                      'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+                      'Accept': '*/*',
+                      'Accept-Language': 'en-US,en;q=0.9',
+                      'Connection': 'keep-alive',
+                      'Referer': 'https://github.com/'
+                  }
+                  
+                  # Try HEAD request first (faster)
+                  try:
+                      response = requests.head(url, timeout=timeout, headers=headers, allow_redirects=True)
+                      if response.status_code < 400:
+                          return True
+                  except:
+                      pass
+                  
+                  # If HEAD fails, try GET
+                  response = requests.get(url, timeout=timeout, headers=headers, stream=True, allow_redirects=True)
+                  return response.status_code < 400
+                  
+              except:
+                  return False
+          
+          def find_fl_variations(url):
+              """Generate different fl variations to test"""
+              variations = []
+              
+              # Pattern to match fl followed by digits
+              fl_pattern = r'fl(\d+)'
+              match = re.search(fl_pattern, url)
+              
+              if match:
+                  original_num = int(match.group(1))
+                  
+                  # Test range around the original number
+                  test_range = list(range(max(1, original_num - 10), original_num + 21))
+                  # Remove the original number since we know it's not working
+                  if original_num in test_range:
+                      test_range.remove(original_num)
+                  
+                  for num in test_range:
+                      new_url = re.sub(fl_pattern, f'fl{num}', url)
+                      variations.append(new_url)
+              
+              return variations
+          
+          def parse_m3u(file_path):
+              """Parse M3U file and return streams with their line numbers"""
+              if not os.path.exists(file_path):
+                  print(f"File not found: {file_path}")
+                  return [], []
+                  
+              try:
+                  with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                      lines = f.readlines()
+              except Exception as e:
+                  print(f"Error reading {file_path}: {str(e)}")
+                  return [], []
+              
+              streams = []
+              
+              for i in range(len(lines)):
+                  line = lines[i].strip()
+                  if line.startswith('#EXTINF'):
+                      try:
+                          # Extract channel name
+                          name_part = line.split(',')[-1].strip()
+                          name = name_part if name_part else "Unknown Channel"
+                          
+                          # Get URL from next line
+                          if i + 1 < len(lines):
+                              url = lines[i + 1].strip()
+                              if url and not url.startswith('#') and 'http' in url:
+                                  streams.append({
+                                      'name': name,
+                                      'url': url,
+                                      'extinf_line': i,
+                                      'url_line': i + 1
+                                  })
+                      except Exception as e:
+                          print(f"Error parsing line {i}: {str(e)}")
+                          continue
+              
+              return streams, lines
+          
+          def update_m3u_file(file_path, lines, url_line, new_url):
+              """Update M3U file with new URL"""
+              lines[url_line] = new_url + '\n'
+              
+              # Write updated file
+              with open(file_path, 'w', encoding='utf-8') as f:
+                  f.writelines(lines)
+          
+          # Your M3U files
+          m3u_files = [
+              'moj.m3u'
+          ]
+          
+          total_checked = 0
+          total_fixed = 0
+          failed_streams = []
+          fixed_streams = []
+          
+          print("Starting auto-fix process...")
+          
+          for m3u_file in m3u_files:
+              if not os.path.exists(m3u_file):
+                  print(f"File not found: {m3u_file}")
+                  continue
+                  
+              print(f"\nProcessing {m3u_file}...")
+              
+              streams, lines = parse_m3u(m3u_file)
+              file_fixed = 0
+              
+              print(f"Found {len(streams)} streams")
+              
+              for stream in streams:
+                  total_checked += 1
+                  print(f"Checking: {stream['name'][:50]}...")
+                  
+                  # Check if current stream works
+                  if check_stream(stream['url']):
+                      print(f"  ✅ Working")
+                      continue
+                  
+                  print(f"  ❌ Failed, searching for alternatives...")
+                  
+                  # Look for fl pattern and try variations
+                  if 'fl' in stream['url'] and re.search(r'fl\d+', stream['url']):
+                      variations = find_fl_variations(stream['url'])
+                      found_working = False
+                      
+                      for i, variation in enumerate(variations):
+                          print(f"    Testing variation {i+1}/{len(variations)}...")
+                          
+                          if check_stream(variation):
+                              print(f"    ✅ Found working alternative!")
+                              
+                              # Update the file
+                              update_m3u_file(m3u_file, lines, stream['url_line'], variation)
+                              
+                              fixed_streams.append({
+                                  'name': stream['name'],
+                                  'file': m3u_file,
+                                  'original_url': stream['url'],
+                                  'new_url': variation
+                              })
+                              
+                              total_fixed += 1
+                              file_fixed += 1
+                              found_working = True
+                              break
+                          
+                          # Small delay to avoid overwhelming servers
+                          time.sleep(0.2)
+                      
+                      if not found_working:
+                          print(f"    ❌ No working alternatives found")
+                          failed_streams.append({
+                              'name': stream['name'],
+                              'file': m3u_file,
+                              'url': stream['url']
+                          })
+                  else:
+                      print(f"    ⚠️  No 'fl' pattern found in URL")
+                      failed_streams.append({
+                          'name': stream['name'],
+                          'file': m3u_file,
+                          'url': stream['url']
+                      })
+                  
+                  # Delay between streams
+                  time.sleep(0.5)
+              
+              print(f"File {m3u_file}: Fixed {file_fixed} streams")
+          
+          # Generate report
+          report = f"""# 🔧 M3U Auto-Fix Report
+          
+          **Generated on:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC
+          
+          ## 📊 Summary
+          
+          | Metric | Count |
+          |--------|-------|
+          | **Total Streams Checked** | {total_checked} |
+          | **✅ Streams Fixed** | {total_fixed} |
+          | **❌ Streams Still Failing** | {len(failed_streams)} |
+          
+          """
+          
+          if fixed_streams:
+              report += f"""## 🔄 Fixed Streams ({len(fixed_streams)})
+          
+          | Channel Name | File | Status |
+          |-------------|------|--------|
+          """
+              
+              for stream in fixed_streams:
+                  name = stream['name'].replace('|', '\\|')
+                  file_name = stream['file'].replace('|', '\\|')
+                  # Extract fl numbers for comparison
+                  old_match = re.search(r'fl(\d+)', stream['original_url'])
+                  new_match = re.search(r'fl(\d+)', stream['new_url'])
+                  old_fl = old_match.group(1) if old_match else 'N/A'
+                  new_fl = new_match.group(1) if new_match else 'N/A'
+                  
+                  report += f"| {name} | {file_name} | fl{old_fl} → fl{new_fl} |\n"
+          
+          if failed_streams:
+              report += f"""
+          ## ❌ Still Failing ({len(failed_streams)})
+          
+          | Channel Name | File | Issue |
+          |-------------|------|-------|
+          """
+              
+              for stream in failed_streams:
+                  name = stream['name'].replace('|', '\\|')
+                  file_name = stream['file'].replace('|', '\\|')
+                  has_fl = "No fl pattern" if not re.search(r'fl\d+', stream['url']) else "No working alternatives"
+                  report += f"| {name} | {file_name} | {has_fl} |\n"
+          
+          report += f"""
+          ## 📝 Process Details
+          
+          - **Method:** Tests fl1 through fl{max([int(re.search(r'fl(\d+)', s['url']).group(1)) for s in streams if re.search(r'fl\d+', s['url'])] + [20]) + 10} for each failed stream
+          - **Timeout:** 10 seconds per test
+          - **Backup:** Original files backed up as .backup before modification
+          - **Pattern:** Only attempts fixes for URLs containing 'fl' followed by digits
+          
+          ## 🚀 Next Steps
+          
+          {"✅ Files have been automatically updated with working streams!" if fixed_streams else "ℹ️  No fixes were possible for the failed streams."}
+          
+          ---
+          *Report generated automatically by GitHub Actions*  
+          *Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC*
+          """
+          
+          # Write report
+          with open('auto-fix-report.md', 'w', encoding='utf-8') as f:
+              f.write(report)
+          
+          print(f"\n🎯 Final Summary:")
+          print(f"   Checked: {total_checked} streams")
+          print(f"   Fixed: {total_fixed} streams")
+          print(f"   Still failing: {len(failed_streams)} streams")
+          
+          if total_fixed > 0:
+              print(f"\n✅ Successfully fixed {total_fixed} streams!")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔧 Auto-fix M3U streams - $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
