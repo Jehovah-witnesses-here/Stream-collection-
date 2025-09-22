@@ -1,6 +1,6 @@
 # 🔧 M3U Auto-Fix Report
 
-**Generated on:** 2025-09-22 18:49:22 UTC
+**Generated on:** 2025-09-22 21:32:19 UTC
 
 ## 📊 Summary
 
@@ -13,7 +13,7 @@
 
 ## 📝 Process Details
 
-- **Method:** Tests fl1 through fl30 for each failed stream
+- **Method:** Tests fl1 through fl61 for each failed stream
 - **Timeout:** 10 seconds per test
 - **Backup:** Original files backed up as .backup before modification
 - **Pattern:** Only attempts fixes for URLs containing 'fl' followed by digits
@@ -24,4 +24,4 @@
 
 ---
 *Report generated automatically by GitHub Actions*  
-*Last updated: 2025-09-22 18:49:22 UTC*
+*Last updated: 2025-09-22 21:32:19 UTC*
