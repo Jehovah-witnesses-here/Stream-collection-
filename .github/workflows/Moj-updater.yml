@@ -3,7 +3,7 @@ name: Auto-Fix M3U Streams
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
+    - cron: '0 0 * * *'  # Runs every 6 hours
 
 permissions:
   contents: write
