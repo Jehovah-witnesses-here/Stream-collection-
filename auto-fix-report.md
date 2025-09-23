@@ -1,78 +1,56 @@
-# 🔧 M3U Auto-Fix Report
+# 🔧 M3U Stream Status Report
     
-    **Generated on:** 2025-09-23 06:11:26 UTC
+    **Last Updated:** September 23, 2025 at 06:23 UTC
     
-    ## 📊 Summary
+    ## 📊 Quick Summary
     
-    | Metric | Count |
-    |--------|-------|
-    | **Total Streams** | 216 |
-    | **📺 Event Channels** | 51 |
-    | **🔍 Regular Channels** | 165 |
-    | **✅ Total Updates** | 27 |
-    | **❌ Still Failing** | 11 |
-    | **Working FL Number** | fl1 |
-    
-    ## 🔄 Fixed Regular Channels (27)
-    
-    | Channel Name | File | FL Change | Status |
-    |-------------|------|-----------|--------|
-    | Starz Encore Action | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| STARZ ENCORE CLASSIC | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| Starz Encore Westerns | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| STARZ WEST | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| SundanceTV | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| SYFY | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TBS | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TCM | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| Tennis Channel | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TLC | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TNT | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| Travel Channel | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| truTV | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TSN 1 | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TSN 2 | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TSN 3 | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TSN 4 | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TSN 5 | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| TVOne | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| VH1 | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| Vice | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| W NETWORK | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| Weather Channel | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| WeTV | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| WGN | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| WORLD FISHING NETWORK | moj.m3u | fl7 → fl1 | ✅ Fixed |
-| YES Network | moj.m3u | fl7 → fl1 | ✅ Fixed |
-
-    ## ❌ Still Failing (11)
-    
-    | Channel Name | File | Issue |
-    |-------------|------|-------|
-    | Antenna | moj.m3u | No working alternatives |
-| CINEMAX MOREMAX | moj.m3u | No working alternatives |
-| Curiosity Stream | moj.m3u | No working alternatives |
-| DISNEY CHANNEL | moj.m3u | No working alternatives |
-| FS2 | moj.m3u | No working alternatives |
-| GAME SHOW NETWORK | moj.m3u | No working alternatives |
-| NBC Golf | moj.m3u | No working alternatives |
-| OUTER MAX | moj.m3u | No working alternatives |
-| Starz Encore | moj.m3u | No working alternatives |
-| TVLand | moj.m3u | No working alternatives |
-| USA Network | moj.m3u | No working alternatives |
-
-    ## 📝 Process Details
-    
-    - **Method:** Tests fl1 through fl61 for failed streams
-    - **Timeout:** 10 seconds per test
-    - **Smart Detection:** Finds working fl number first, then applies to similar channels
-    - **Event Channels:** Updated without connectivity testing to keep URLs current
-    
-    ## 🚀 Next Steps
-    
-    ✅ Files have been automatically updated with working streams!
+    **Overall Health:** 94.9% of streams are working  
+    **Current FL Server:** fl7  
+    **Changes Made:** 0 streams updated  
+    **Issues Found:** 11 streams need attention  
     
     ---
-    *Report generated automatically by GitHub Actions*  
-    *Last updated: 2025-09-23 06:11:26 UTC*
+    
+    ## 📈 Detailed Breakdown
+    
+    | Category | Working | Fixed | Failed | Total |
+    |----------|---------|-------|--------|-------|
+    | Regular Channels | 154 | 0 | 11 | 165 |
+    | Event Channels | N/A | 0 | 0 | 51 |
+    | **TOTAL** | **205** | **0** | **11** | **216** |
+    
+    
+    ## ❌ Channels Still Having Issues (11 channels)
+    
+    These channels couldn't be fixed and may need manual attention:
+    
+    • **Antenna** - No working fl server found  
+• **CINEMAX MOREMAX** - No working fl server found  
+• **Curiosity Stream** - No working fl server found  
+• **DISNEY CHANNEL** - No working fl server found  
+• **FS2** - No working fl server found  
+• **GAME SHOW NETWORK** - No working fl server found  
+• **NBC Golf** - No working fl server found  
+• **OUTER MAX** - No working fl server found  
+• **Starz Encore** - No working fl server found  
+• **TVLand** - No working fl server found  
+• **USA Network** - No working fl server found  
+
+    > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
+    
+    ## 👍 All Good!
+    
+    No updates were needed - your streams are already current and working well.
+    
+    
+    ---
+    
+    ## 🔧 Technical Details
+    
+    **Process:** Automatically tested fl1 through fl61 to find working servers  
+    **Detection:** Smart system finds working FL number first, then applies it efficiently  
+    **Safety:** Event channels (PPV, NBA, NFL, etc.) updated without connectivity testing  
+    **Next Check:** This will run again automatically in 6 hours  
+    
+    *Generated by GitHub Actions • Report v2.0*
     
