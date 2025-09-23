@@ -382,20 +382,28 @@ jobs:
               regular_channels = len([s for s in streams if not is_event_channel(s['name'])])
               event_channels = total_streams - regular_channels
               
-              report = f"""# 🔧 M3U Auto-Fix Report
+              success_rate = ((total_streams - len(failed_streams)) / total_streams * 100) if total_streams > 0 else 100
               
-              **Generated on:** {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC
+              report = f"""# 🔧 M3U Stream Status Report
               
-              ## 📊 Summary
+              **Last Updated:** {datetime.utcnow().strftime('%B %d, %Y at %H:%M UTC')}
               
-              | Metric | Count |
-              |--------|-------|
-              | **Total Streams** | {total_streams} |
-              | **📺 Event Channels** | {event_channels} |
-              | **🔍 Regular Channels** | {regular_channels} |
-              | **✅ Total Updates** | {total_fixed} |
-              | **❌ Still Failing** | {len(failed_streams)} |
-              | **Working FL Number** | {f"fl{working_fl_number}" if working_fl_number else "Not determined"} |
+              ## 📊 Quick Summary
+              
+              **Overall Health:** {success_rate:.1f}% of streams are working  
+              **Current FL Server:** fl{working_fl_number if working_fl_number else 'Unknown'}  
+              **Changes Made:** {total_fixed} streams updated  
+              **Issues Found:** {len(failed_streams)} streams need attention  
+              
+              ---
+              
+              ## 📈 Detailed Breakdown
+              
+              | Category | Working | Fixed | Failed | Total |
+              |----------|---------|-------|--------|-------|
+              | Regular Channels | {regular_channels - len([s for s in failed_streams if not is_event_channel(s['name'])])} | {len([s for s in fixed_streams if not s.get('is_event_channel', False)])} | {len([s for s in failed_streams if not is_event_channel(s['name'])])} | {regular_channels} |
+              | Event Channels | N/A | {len([s for s in fixed_streams if s.get('is_event_channel', False)])} | 0 | {event_channels} |
+              | **TOTAL** | **{total_streams - len(failed_streams)}** | **{total_fixed}** | **{len(failed_streams)}** | **{total_streams}** |
               
               """
               
@@ -405,64 +413,82 @@ jobs:
                   event_fixes = [s for s in fixed_streams if s.get('is_event_channel', False)]
                   
                   if regular_fixes:
-                      report += f"""## 🔄 Fixed Regular Channels ({len(regular_fixes)})
+                      report += f"""## ✅ Successfully Fixed ({len(regular_fixes)} channels)
               
-              | Channel Name | File | FL Change | Status |
-              |-------------|------|-----------|--------|
+              These channels were broken but are now working:
+              
               """
-                      
+                      # Group by FL change for cleaner display
+                      fl_groups = {}
                       for stream in regular_fixes:
-                          name = stream['name'].replace('|', '\\|')
-                          file_name = stream['file'].replace('|', '\\|')
                           fl_change = f"fl{stream['old_fl']} → fl{stream['new_fl']}"
-                          
-                          report += f"| {name} | {file_name} | {fl_change} | ✅ Fixed |\n"
-                  
+                          if fl_change not in fl_groups:
+                              fl_groups[fl_change] = []
+                          fl_groups[fl_change].append(stream['name'])
+                      
+                      for fl_change, channels in fl_groups.items():
+                          report += f"**{fl_change}:** {', '.join(channels)}  \n"
+                      
                   if event_fixes:
                       report += f"""
-              ## 📺 Updated Event Channels ({len(event_fixes)})
-              *These channels were updated to keep URLs current for when events go live*
+              ## 🔄 Event Channels Updated ({len(event_fixes)} channels)
               
-              | Channel Name | File | FL Change | Status |
-              |-------------|------|-----------|--------|
+              These event channels were updated to stay current (they're expected to be offline unless there's a live event):
+              
               """
-                      
+                      # Group event fixes too
+                      event_fl_groups = {}
                       for stream in event_fixes:
-                          name = stream['name'].replace('|', '\\|')
-                          file_name = stream['file'].replace('|', '\\|')
                           fl_change = f"fl{stream['old_fl']} → fl{stream['new_fl']}"
-                          
-                          report += f"| {name} | {file_name} | {fl_change} | 📺 Updated |\n"
+                          if fl_change not in event_fl_groups:
+                              event_fl_groups[fl_change] = []
+                          event_fl_groups[fl_change].append(stream['name'])
+                      
+                      for fl_change, channels in event_fl_groups.items():
+                          report += f"**{fl_change}:** {', '.join(channels)}  \n"
               
               if failed_streams:
-                  report += f"""
-              ## ❌ Still Failing ({len(failed_streams)})
-              
-              | Channel Name | File | Issue |
-              |-------------|------|-------|
-              """
+                  regular_failed = [s for s in failed_streams if not is_event_channel(s['name'])]
                   
-                  for stream in failed_streams:
-                      name = stream['name'].replace('|', '\\|')
-                      file_name = stream['file'].replace('|', '\\|')
-                      has_fl = "No fl pattern" if not re.search(r'fl\d+', stream['url']) else "No working alternatives"
-                      report += f"| {name} | {file_name} | {has_fl} |\n"
+                  if regular_failed:
+                      report += f"""
+              ## ❌ Channels Still Having Issues ({len(regular_failed)} channels)
+              
+              These channels couldn't be fixed and may need manual attention:
+              
+              """
+                      for stream in regular_failed:
+                          report += f"• **{stream['name']}** - {stream.get('issue', 'No working fl server found')}  \n"
+                      
+                      report += f"""
+              > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
+              """
+              
+              if total_fixed > 0:
+                  report += f"""
+              ## 🎉 Success!
+              
+              **{total_fixed} streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+              """
+              else:
+                  report += f"""
+              ## 👍 All Good!
+              
+              No updates were needed - your streams are already current and working well.
+              """
               
               report += f"""
-              ## 📝 Process Details
-              
-              - **Method:** Tests fl1 through fl61 for failed streams
-              - **Timeout:** 10 seconds per test
-              - **Smart Detection:** Finds working fl number first, then applies to similar channels
-              - **Event Channels:** Updated without connectivity testing to keep URLs current
-              
-              ## 🚀 Next Steps
-              
-              {"✅ Files have been automatically updated with working streams!" if total_fixed > 0 else "ℹ️  No fixes were needed - all streams are current."}
               
               ---
-              *Report generated automatically by GitHub Actions*  
-              *Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC*
+              
+              ## 🔧 Technical Details
+              
+              **Process:** Automatically tested fl1 through fl61 to find working servers  
+              **Detection:** Smart system finds working FL number first, then applies it efficiently  
+              **Safety:** Event channels (PPV, NBA, NFL, etc.) updated without connectivity testing  
+              **Next Check:** This will run again automatically in 6 hours  
+              
+              *Generated by GitHub Actions • Report v2.0*
               """
               
               # Write report
