@@ -1,4 +1,4 @@
-name: Ppv & dlive M3U8 to M3U
+name: Convert M3U8 to M3U
 
 on:
   workflow_dispatch:  # Allows manual triggering
@@ -37,14 +37,22 @@ jobs:
         
         # Download PPV M3U8 file
         echo "Downloading PPV M3U8 file..."
-        wget -O downloads/ppv.m3u8 "$PPV_URL" || curl -o downloads/ppv.m3u8 "$PPV_URL"
+        wget --timeout=30 --tries=3 -O downloads/ppv.m3u8 "$PPV_URL" || curl --max-time 30 --retry 3 -o downloads/ppv.m3u8 "$PPV_URL"
         
-        # Download DaddyLive M3U8 files
-        echo "Downloading DaddyLive Channels M3U8 file..."
-        wget -O downloads/daddylive-channels.m3u8 "$DLIVE_CHANNELS_URL" || curl -o downloads/daddylive-channels.m3u8 "$DLIVE_CHANNELS_URL"
-        
-        echo "Downloading DaddyLive Events M3U8 file..."
-        wget -O downloads/daddylive-events.m3u8 "$DLIVE_EVENTS_URL" || curl -o downloads/daddylive-events.m3u8 "$DLIVE_EVENTS_URL"
+        # Download DaddyLive M3U8 file with better error handling
+        echo "Downloading DaddyLive M3U8 file..."
+        echo "Attempting to download: $DLIVE_URL"
+        if ! wget --timeout=30 --tries=2 --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -O downloads/dlive.m3u8 "$DLIVE_URL" 2>&1; then
+          echo "wget failed, trying curl..."
+          if ! curl --max-time 30 --retry 2 --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -L -o downloads/dlive.m3u8 "$DLIVE_URL" 2>&1; then
+            echo "Both wget and curl failed for DaddyLive URL"
+            echo "Creating empty placeholder file..."
+            mkdir -p downloads
+            echo "#EXTM3U" > downloads/dlive.m3u8
+            echo "#EXTINF:-1,DaddyLive - Download Failed" >> downloads/dlive.m3u8
+            echo "# Error: Could not download from $DLIVE_URL" >> downloads/dlive.m3u8
+          fi
+        fi
         
     - name: Check downloaded files
       run: |
@@ -161,17 +169,32 @@ jobs:
                 print(f"Error combining files: {str(e)}")
                 return False
         
-        # Convert files directly to root directory
+        # Convert files directly to root directory - ALWAYS run this step
+        echo "Starting conversion process..."
+        
         # Convert PPV file
         if os.path.exists('downloads/ppv.m3u8'):
             convert_m3u8_to_m3u('downloads/ppv.m3u8', 'ppv.m3u')
+            print("PPV conversion completed")
+        else:
+            print("PPV file not found, creating placeholder")
+            with open('ppv.m3u', 'w') as f:
+                f.write('#EXTM3U\n#EXTINF:-1,PPV - File Not Found\n# Error: PPV file was not downloaded\n')
         
-        # Combine DaddyLive channels and events into one M3U file
-        combine_m3u8_files('downloads/daddylive-channels.m3u8', 'downloads/daddylive-events.m3u8', 'dlive.m3u')
+        # Convert DaddyLive file
+        if os.path.exists('downloads/dlive.m3u8'):
+            convert_m3u8_to_m3u('downloads/dlive.m3u8', 'dlive.m3u')
+            print("DaddyLive conversion completed")
+        else:
+            print("DaddyLive file not found, creating placeholder")
+            with open('dlive.m3u', 'w') as f:
+                f.write('#EXTM3U\n#EXTINF:-1,DaddyLive - File Not Found\n# Error: DaddyLive file was not downloaded\n')
+        
+        print("All conversions completed!")
         EOF
         
-        # Run the conversion
-        python3 convert_to_m3u.py
+        # Run the conversion - continue even if downloads failed
+        python3 convert_to_m3u.py || echo "Python script had issues but continuing..."
         
     - name: Display results
       run: |
@@ -201,16 +224,19 @@ jobs:
           downloads/*.m3u8
         retention-days: 7
 
-    - name: Commit and push results (optional)
-      if: github.ref == 'refs/heads/main'
+    - name: Commit and push results
+      if: always()
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
+        # Add the M3U files
+        git add ppv.m3u dlive.m3u
+        
         if [ -n "$(git status --porcelain)" ]; then
-          git add ppv.m3u dlive.m3u
           git commit -m "Auto-update: Convert M3U8 to M3U files $(date '+%Y-%m-%d %H:%M:%S')"
           git push
+          echo "✓ Files committed and pushed to repository"
         else
           echo "No changes to commit"
         fi
