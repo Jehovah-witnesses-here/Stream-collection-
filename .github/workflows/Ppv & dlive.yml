@@ -140,15 +140,13 @@ jobs:
                 print(f"Error combining files: {str(e)}")
                 return False
         
-        # Convert files
-        os.makedirs('output', exist_ok=True)
-        
+        # Convert files directly to root directory
         # Convert PPV file
         if os.path.exists('downloads/ppv.m3u8'):
-            convert_m3u8_to_m3u('downloads/ppv.m3u8', 'output/ppv.m3u')
+            convert_m3u8_to_m3u('downloads/ppv.m3u8', 'ppv.m3u')
         
         # Combine DaddyLive channels and events into one M3U file
-        combine_m3u8_files('downloads/daddylive-channels.m3u8', 'downloads/daddylive-events.m3u8', 'output/dlive.m3u')
+        combine_m3u8_files('downloads/daddylive-channels.m3u8', 'downloads/daddylive-events.m3u8', 'dlive.m3u')
         EOF
         
         # Run the conversion
@@ -157,19 +155,19 @@ jobs:
     - name: Display results
       run: |
         echo "=== Conversion Results ==="
-        if [ -f "output/ppv.m3u" ]; then
+        if [ -f "ppv.m3u" ]; then
           echo "✓ ppv.m3u created successfully"
-          echo "Size: $(ls -lh output/ppv.m3u | awk '{print $5}')"
+          echo "Size: $(ls -lh ppv.m3u | awk '{print $5}')"
         fi
         
-        if [ -f "output/dlive.m3u" ]; then
+        if [ -f "dlive.m3u" ]; then
           echo "✓ dlive.m3u created successfully"
-          echo "Size: $(ls -lh output/dlive.m3u | awk '{print $5}')"
+          echo "Size: $(ls -lh dlive.m3u | awk '{print $5}')"
         fi
         
         echo ""
-        echo "=== Output Directory Contents ==="
-        ls -la output/
+        echo "=== Root Directory Contents ==="
+        ls -la *.m3u
     
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
@@ -177,7 +175,8 @@ jobs:
       with:
         name: converted-m3u-files
         path: |
-          output/*.m3u
+          ppv.m3u
+          dlive.m3u
           downloads/*.m3u8
         retention-days: 7
 
@@ -188,7 +187,7 @@ jobs:
         git config --local user.name "GitHub Action"
         
         if [ -n "$(git status --porcelain)" ]; then
-          git add output/
+          git add ppv.m3u dlive.m3u
           git commit -m "Auto-update: Convert M3U8 to M3U files $(date '+%Y-%m-%d %H:%M:%S')"
           git push
         else
