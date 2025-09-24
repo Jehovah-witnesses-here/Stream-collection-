@@ -26,19 +26,23 @@ jobs:
     - name: Download M3U8 files
       run: |
         # Your M3U8 file URLs
-        M3U8_URL_1="https://iptV-scraper-re.vercel.app/ppv?timezone=cet"
-        M3U8_URL_2="https://world-proxifier.xyz/daddylive/playlist.m3u8?timezone=cet"
+        PPV_URL="https://raw.githubusercontent.com/pigzillaaa/iptv-scraper/refs/heads/main/ppv.m3u8"
+        DLIVE_CHANNELS_URL="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/daddylive-channels.m3u8"
+        DLIVE_EVENTS_URL="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/daddylive-events.m3u8"
         
         # Create output directory
         mkdir -p downloads
         
         # Download PPV M3U8 file
         echo "Downloading PPV M3U8 file..."
-        wget -O downloads/ppv.m3u8 "$M3U8_URL_1" || curl -o downloads/ppv.m3u8 "$M3U8_URL_1"
+        wget -O downloads/ppv.m3u8 "$PPV_URL" || curl -o downloads/ppv.m3u8 "$PPV_URL"
         
-        # Download DaddyLive M3U8 file
-        echo "Downloading DaddyLive M3U8 file..."
-        wget -O downloads/dlive.m3u8 "$M3U8_URL_2" || curl -o downloads/dlive.m3u8 "$M3U8_URL_2"
+        # Download DaddyLive M3U8 files
+        echo "Downloading DaddyLive Channels M3U8 file..."
+        wget -O downloads/daddylive-channels.m3u8 "$DLIVE_CHANNELS_URL" || curl -o downloads/daddylive-channels.m3u8 "$DLIVE_CHANNELS_URL"
+        
+        echo "Downloading DaddyLive Events M3U8 file..."
+        wget -O downloads/daddylive-events.m3u8 "$DLIVE_EVENTS_URL" || curl -o downloads/daddylive-events.m3u8 "$DLIVE_EVENTS_URL"
         
     - name: Convert M3U8 to M3U
       run: |
@@ -86,14 +90,65 @@ jobs:
                 print(f"Error converting {input_file}: {str(e)}")
                 return False
         
-        # Convert both files
+        def combine_m3u8_files(file1, file2, output_file):
+            """Combine two M3U8 files into one M3U format file"""
+            try:
+                combined_content = []
+                files_processed = []
+                
+                # Process each file
+                for input_file in [file1, file2]:
+                    if os.path.exists(input_file):
+                        with open(input_file, 'r', encoding='utf-8') as f:
+                            content = f.read()
+                        
+                        lines = content.split('\n')
+                        for line in lines:
+                            line = line.strip()
+                            if not line:
+                                continue
+                            
+                            # Add M3U header only once
+                            if line.startswith('#EXTM3U'):
+                                if not combined_content:
+                                    combined_content.append(line)
+                            # Keep track info
+                            elif line.startswith('#EXTINF:'):
+                                combined_content.append(line)
+                            # Keep URLs (not starting with #)
+                            elif not line.startswith('#'):
+                                combined_content.append(line)
+                            # Keep some other tags
+                            elif line.startswith('#EXTVLCOPT:'):
+                                combined_content.append(line)
+                        
+                        files_processed.append(input_file)
+                        print(f"Processed {input_file}")
+                
+                # Ensure we have M3U header
+                if not any(line.startswith('#EXTM3U') for line in combined_content):
+                    combined_content.insert(0, '#EXTM3U')
+                
+                # Write combined M3U file
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    f.write('\n'.join(combined_content))
+                
+                print(f"Successfully combined {files_processed} into {output_file}")
+                return True
+                
+            except Exception as e:
+                print(f"Error combining files: {str(e)}")
+                return False
+        
+        # Convert files
         os.makedirs('output', exist_ok=True)
         
+        # Convert PPV file
         if os.path.exists('downloads/ppv.m3u8'):
             convert_m3u8_to_m3u('downloads/ppv.m3u8', 'output/ppv.m3u')
         
-        if os.path.exists('downloads/dlive.m3u8'):
-            convert_m3u8_to_m3u('downloads/dlive.m3u8', 'output/dlive.m3u')
+        # Combine DaddyLive channels and events into one M3U file
+        combine_m3u8_files('downloads/daddylive-channels.m3u8', 'downloads/daddylive-events.m3u8', 'output/dlive.m3u')
         EOF
         
         # Run the conversion
