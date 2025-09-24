@@ -36,9 +36,31 @@ jobs:
         echo "Downloading PPV M3U8 file..."
         wget -O downloads/ppv.m3u8 "$PPV_URL" || curl -o downloads/ppv.m3u8 "$PPV_URL"
         
-        # Download DaddyLive M3U8 file
-        echo "Downloading DaddyLive M3U8 file..."
-        wget -O downloads/dlive.m3u8 "$DLIVE_URL" || curl -o downloads/dlive.m3u8 "$DLIVE_URL"
+        # Download DaddyLive M3U8 files
+        echo "Downloading DaddyLive Channels M3U8 file..."
+        wget -O downloads/daddylive-channels.m3u8 "$DLIVE_CHANNELS_URL" || curl -o downloads/daddylive-channels.m3u8 "$DLIVE_CHANNELS_URL"
+        
+        echo "Downloading DaddyLive Events M3U8 file..."
+        wget -O downloads/daddylive-events.m3u8 "$DLIVE_EVENTS_URL" || curl -o downloads/daddylive-events.m3u8 "$DLIVE_EVENTS_URL"
+        
+    - name: Check downloaded files
+      run: |
+        echo "=== Download Status ==="
+        if [ -f "downloads/ppv.m3u8" ]; then
+          echo "✓ PPV file downloaded successfully"
+          echo "Size: $(ls -lh downloads/ppv.m3u8 | awk '{print $5}')"
+        else
+          echo "✗ PPV file download failed"
+        fi
+        
+        if [ -f "downloads/dlive.m3u8" ]; then
+          echo "✓ DaddyLive file downloaded successfully"
+          echo "Size: $(ls -lh downloads/dlive.m3u8 | awk '{print $5}')"
+          echo "First few lines:"
+          head -n 5 downloads/dlive.m3u8
+        else
+          echo "✗ DaddyLive file download failed"
+        fi
         
     - name: Convert M3U8 to M3U
       run: |
@@ -141,9 +163,8 @@ jobs:
         if os.path.exists('downloads/ppv.m3u8'):
             convert_m3u8_to_m3u('downloads/ppv.m3u8', 'ppv.m3u')
         
-        # Convert DaddyLive file
-        if os.path.exists('downloads/dlive.m3u8'):
-            convert_m3u8_to_m3u('downloads/dlive.m3u8', 'dlive.m3u')
+        # Combine DaddyLive channels and events into one M3U file
+        combine_m3u8_files('downloads/daddylive-channels.m3u8', 'downloads/daddylive-events.m3u8', 'dlive.m3u')
         EOF
         
         # Run the conversion
