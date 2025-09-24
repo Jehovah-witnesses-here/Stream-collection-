@@ -42,16 +42,40 @@ jobs:
         # Download DaddyLive M3U8 file with better error handling
         echo "Downloading DaddyLive M3U8 file..."
         echo "Attempting to download: $DLIVE_URL"
-        if ! wget --timeout=30 --tries=2 --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -O downloads/dlive.m3u8 "$DLIVE_URL" 2>&1; then
-          echo "wget failed, trying curl..."
-          if ! curl --max-time 30 --retry 2 --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -L -o downloads/dlive.m3u8 "$DLIVE_URL" 2>&1; then
-            echo "Both wget and curl failed for DaddyLive URL"
-            echo "Creating empty placeholder file..."
-            mkdir -p downloads
-            echo "#EXTM3U" > downloads/dlive.m3u8
-            echo "#EXTINF:-1,DaddyLive - Download Failed" >> downloads/dlive.m3u8
-            echo "# Error: Could not download from $DLIVE_URL" >> downloads/dlive.m3u8
+        
+        # Try different methods to download
+        SUCCESS=0
+        
+        # Method 1: wget with simple approach
+        if wget --timeout=20 --tries=1 -O downloads/dlive.m3u8 "$DLIVE_URL" 2>/dev/null; then
+          SUCCESS=1
+          echo "✓ wget download successful"
+        else
+          echo "✗ wget failed, trying curl..."
+          
+          # Method 2: curl with simple approach  
+          if curl --max-time 20 --silent --fail -o downloads/dlive.m3u8 "$DLIVE_URL" 2>/dev/null; then
+            SUCCESS=1
+            echo "✓ curl download successful"
+          else
+            echo "✗ curl failed, trying curl with different user agent..."
+            
+            # Method 3: curl with user agent
+            if curl --max-time 20 --silent --fail --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -o downloads/dlive.m3u8 "$DLIVE_URL" 2>/dev/null; then
+              SUCCESS=1
+              echo "✓ curl with user agent successful"
+            fi
           fi
+        fi
+        
+        # If all methods failed, create placeholder
+        if [ $SUCCESS -eq 0 ]; then
+          echo "All download methods failed for DaddyLive URL"
+          echo "Creating placeholder file..."
+          mkdir -p downloads
+          echo "#EXTM3U" > downloads/dlive.m3u8
+          echo "#EXTINF:-1,DaddyLive - Download Failed" >> downloads/dlive.m3u8
+          echo "# Error: Could not download from $DLIVE_URL" >> downloads/dlive.m3u8
         fi
         
     - name: Check downloaded files
@@ -77,124 +101,73 @@ jobs:
       run: |
         # Create conversion script
         cat > convert_to_m3u.py << 'EOF'
-        import os
-        import re
+import os
+import re
+
+def convert_m3u8_to_m3u(input_file, output_file):
+    """Convert M3U8 format to M3U format"""
+    try:
+        with open(input_file, 'r', encoding='utf-8') as f:
+            content = f.read()
         
-        def convert_m3u8_to_m3u(input_file, output_file):
-            """Convert M3U8 format to M3U format"""
-            try:
-                with open(input_file, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                
-                # Remove M3U8 specific tags but keep essential ones
-                lines = content.split('\n')
-                m3u_lines = []
-                
-                for line in lines:
-                    line = line.strip()
-                    if not line:
-                        continue
-                    
-                    # Keep M3U header
-                    if line.startswith('#EXTM3U'):
-                        m3u_lines.append(line)
-                    # Keep track info
-                    elif line.startswith('#EXTINF:'):
-                        m3u_lines.append(line)
-                    # Keep URLs (not starting with #)
-                    elif not line.startswith('#'):
-                        m3u_lines.append(line)
-                    # Optionally keep some other tags
-                    elif line.startswith('#EXTVLCOPT:'):
-                        m3u_lines.append(line)
-                
-                # Write M3U file
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    f.write('\n'.join(m3u_lines))
-                
-                print(f"Successfully converted {input_file} to {output_file}")
-                return True
-                
-            except Exception as e:
-                print(f"Error converting {input_file}: {str(e)}")
-                return False
+        # Remove M3U8 specific tags but keep essential ones
+        lines = content.split('\n')
+        m3u_lines = []
         
-        def combine_m3u8_files(file1, file2, output_file):
-            """Combine two M3U8 files into one M3U format file"""
-            try:
-                combined_content = []
-                files_processed = []
-                
-                # Process each file
-                for input_file in [file1, file2]:
-                    if os.path.exists(input_file):
-                        with open(input_file, 'r', encoding='utf-8') as f:
-                            content = f.read()
-                        
-                        lines = content.split('\n')
-                        for line in lines:
-                            line = line.strip()
-                            if not line:
-                                continue
-                            
-                            # Add M3U header only once
-                            if line.startswith('#EXTM3U'):
-                                if not combined_content:
-                                    combined_content.append(line)
-                            # Keep track info
-                            elif line.startswith('#EXTINF:'):
-                                combined_content.append(line)
-                            # Keep URLs (not starting with #)
-                            elif not line.startswith('#'):
-                                combined_content.append(line)
-                            # Keep some other tags
-                            elif line.startswith('#EXTVLCOPT:'):
-                                combined_content.append(line)
-                        
-                        files_processed.append(input_file)
-                        print(f"Processed {input_file}")
-                
-                # Ensure we have M3U header
-                if not any(line.startswith('#EXTM3U') for line in combined_content):
-                    combined_content.insert(0, '#EXTM3U')
-                
-                # Write combined M3U file
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    f.write('\n'.join(combined_content))
-                
-                print(f"Successfully combined {files_processed} into {output_file}")
-                return True
-                
-            except Exception as e:
-                print(f"Error combining files: {str(e)}")
-                return False
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+            
+            # Keep M3U header
+            if line.startswith('#EXTM3U'):
+                m3u_lines.append(line)
+            # Keep track info
+            elif line.startswith('#EXTINF:'):
+                m3u_lines.append(line)
+            # Keep URLs (not starting with #)
+            elif not line.startswith('#'):
+                m3u_lines.append(line)
+            # Optionally keep some other tags
+            elif line.startswith('#EXTVLCOPT:'):
+                m3u_lines.append(line)
         
-        # Convert files directly to root directory - ALWAYS run this step
-        echo "Starting conversion process..."
+        # Write M3U file
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(m3u_lines))
         
-        # Convert PPV file
-        if os.path.exists('downloads/ppv.m3u8'):
-            convert_m3u8_to_m3u('downloads/ppv.m3u8', 'ppv.m3u')
-            print("PPV conversion completed")
-        else:
-            print("PPV file not found, creating placeholder")
-            with open('ppv.m3u', 'w') as f:
-                f.write('#EXTM3U\n#EXTINF:-1,PPV - File Not Found\n# Error: PPV file was not downloaded\n')
+        print(f"Successfully converted {input_file} to {output_file}")
+        return True
         
-        # Convert DaddyLive file
-        if os.path.exists('downloads/dlive.m3u8'):
-            convert_m3u8_to_m3u('downloads/dlive.m3u8', 'dlive.m3u')
-            print("DaddyLive conversion completed")
-        else:
-            print("DaddyLive file not found, creating placeholder")
-            with open('dlive.m3u', 'w') as f:
-                f.write('#EXTM3U\n#EXTINF:-1,DaddyLive - File Not Found\n# Error: DaddyLive file was not downloaded\n')
+    except Exception as e:
+        print(f"Error converting {input_file}: {str(e)}")
+        return False
+
+print("Starting conversion process...")
+
+# Convert PPV file
+if os.path.exists('downloads/ppv.m3u8'):
+    convert_m3u8_to_m3u('downloads/ppv.m3u8', 'ppv.m3u')
+    print("PPV conversion completed")
+else:
+    print("PPV file not found, creating placeholder")
+    with open('ppv.m3u', 'w') as f:
+        f.write('#EXTM3U\n#EXTINF:-1,PPV - File Not Found\n# Error: PPV file was not downloaded\n')
+
+# Convert DaddyLive file
+if os.path.exists('downloads/dlive.m3u8'):
+    convert_m3u8_to_m3u('downloads/dlive.m3u8', 'dlive.m3u')
+    print("DaddyLive conversion completed")
+else:
+    print("DaddyLive file not found, creating placeholder")
+    with open('dlive.m3u', 'w') as f:
+        f.write('#EXTM3U\n#EXTINF:-1,DaddyLive - File Not Found\n# Error: DaddyLive file was not downloaded\n')
+
+print("All conversions completed!")
+EOF
         
-        print("All conversions completed!")
-        EOF
-        
-        # Run the conversion - continue even if downloads failed
-        python3 convert_to_m3u.py || echo "Python script had issues but continuing..."
+        # Run the conversion
+        python3 convert_to_m3u.py
         
     - name: Display results
       run: |
@@ -230,13 +203,18 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Add the M3U files
-        git add ppv.m3u dlive.m3u
-        
-        if [ -n "$(git status --porcelain)" ]; then
-          git commit -m "Auto-update: Convert M3U8 to M3U files $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
-          echo "✓ Files committed and pushed to repository"
+        # Check if M3U files exist and add them
+        if [ -f "ppv.m3u" ] && [ -f "dlive.m3u" ]; then
+          git add ppv.m3u dlive.m3u
+          
+          if [ -n "$(git diff --cached)" ]; then
+            git commit -m "Auto-update: Convert M3U8 to M3U files $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+            echo "✓ Files committed and pushed to repository"
+          else
+            echo "No changes to commit"
+          fi
         else
-          echo "No changes to commit"
+          echo "M3U files not found, cannot commit"
+          ls -la *.m3u || echo "No M3U files in directory"
         fi
