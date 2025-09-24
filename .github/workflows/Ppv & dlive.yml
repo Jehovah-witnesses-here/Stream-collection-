@@ -99,72 +99,53 @@ jobs:
         
     - name: Convert M3U8 to M3U
       run: |
-        # Create conversion script
+        # Create conversion script with proper YAML formatting
         cat > convert_to_m3u.py << 'EOF'
-import os
-import re
-
-def convert_m3u8_to_m3u(input_file, output_file):
-    """Convert M3U8 format to M3U format"""
-    try:
-        with open(input_file, 'r', encoding='utf-8') as f:
-            content = f.read()
+        import os
+        import re
         
-        # Remove M3U8 specific tags but keep essential ones
-        lines = content.split('\n')
-        m3u_lines = []
+        def convert_m3u8_to_m3u(input_file, output_file):
+            try:
+                with open(input_file, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                lines = content.split('\n')
+                m3u_lines = []
+                for line in lines:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    if line.startswith('#EXTM3U'):
+                        m3u_lines.append(line)
+                    elif line.startswith('#EXTINF:'):
+                        m3u_lines.append(line)
+                    elif not line.startswith('#'):
+                        m3u_lines.append(line)
+                    elif line.startswith('#EXTVLCOPT:'):
+                        m3u_lines.append(line)
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    f.write('\n'.join(m3u_lines))
+                print(f"Successfully converted {input_file} to {output_file}")
+                return True
+            except Exception as e:
+                print(f"Error converting {input_file}: {str(e)}")
+                return False
         
-        for line in lines:
-            line = line.strip()
-            if not line:
-                continue
+        print("Starting conversion process...")
+        
+        if os.path.exists('downloads/ppv.m3u8'):
+            convert_m3u8_to_m3u('downloads/ppv.m3u8', 'ppv.m3u')
+            print("PPV conversion completed")
+        else:
+            print("PPV file not found")
             
-            # Keep M3U header
-            if line.startswith('#EXTM3U'):
-                m3u_lines.append(line)
-            # Keep track info
-            elif line.startswith('#EXTINF:'):
-                m3u_lines.append(line)
-            # Keep URLs (not starting with #)
-            elif not line.startswith('#'):
-                m3u_lines.append(line)
-            # Optionally keep some other tags
-            elif line.startswith('#EXTVLCOPT:'):
-                m3u_lines.append(line)
-        
-        # Write M3U file
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(m3u_lines))
-        
-        print(f"Successfully converted {input_file} to {output_file}")
-        return True
-        
-    except Exception as e:
-        print(f"Error converting {input_file}: {str(e)}")
-        return False
-
-print("Starting conversion process...")
-
-# Convert PPV file
-if os.path.exists('downloads/ppv.m3u8'):
-    convert_m3u8_to_m3u('downloads/ppv.m3u8', 'ppv.m3u')
-    print("PPV conversion completed")
-else:
-    print("PPV file not found, creating placeholder")
-    with open('ppv.m3u', 'w') as f:
-        f.write('#EXTM3U\n#EXTINF:-1,PPV - File Not Found\n# Error: PPV file was not downloaded\n')
-
-# Convert DaddyLive file
-if os.path.exists('downloads/dlive.m3u8'):
-    convert_m3u8_to_m3u('downloads/dlive.m3u8', 'dlive.m3u')
-    print("DaddyLive conversion completed")
-else:
-    print("DaddyLive file not found, creating placeholder")
-    with open('dlive.m3u', 'w') as f:
-        f.write('#EXTM3U\n#EXTINF:-1,DaddyLive - File Not Found\n# Error: DaddyLive file was not downloaded\n')
-
-print("All conversions completed!")
-EOF
+        if os.path.exists('downloads/dlive.m3u8'):
+            convert_m3u8_to_m3u('downloads/dlive.m3u8', 'dlive.m3u')
+            print("DaddyLive conversion completed")
+        else:
+            print("DaddyLive file not found")
+            
+        print("All conversions completed!")
+        EOF
         
         # Run the conversion
         python3 convert_to_m3u.py
@@ -195,7 +176,7 @@ EOF
           ppv.m3u
           dlive.m3u
           downloads/*.m3u8
-        retention-days: 7
+        retention-days: 1
 
     - name: Commit and push results
       if: always()
