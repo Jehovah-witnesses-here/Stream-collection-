@@ -1,4 +1,4 @@
-name: ppv&dlive M3U8 to M3U
+name: Ppv & dlive M3U8 to M3U
 
 on:
   workflow_dispatch:  # Allows manual triggering
@@ -26,8 +26,8 @@ jobs:
     - name: Download M3U8 files
       run: |
         # Your M3U8 file URLs
-        M3U8_URL_1="https://iptV-scraper-re.vercel.app/ppv?timezone=cen"
-        M3U8_URL_2="https://world-proxifier.xyz/daddylive/playlist.m3u8?timezone=cen"
+        M3U8_URL_1="https://iptV-scraper-re.vercel.app/ppv?timezone=cet"
+        M3U8_URL_2="https://world-proxifier.xyz/daddylive/playlist.m3u8?timezone=cet"
         
         # Create output directory
         mkdir -p downloads
