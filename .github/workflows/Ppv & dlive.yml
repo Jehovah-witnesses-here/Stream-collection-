@@ -25,9 +25,12 @@ jobs:
         
     - name: Download M3U8 files
       run: |
-        # Your M3U8 file URLs
+        # Your M3U8 file URLs (verified clean URLs)
         PPV_URL="https://iptv-scraper-re.vercel.app/ppv?timezone=cet"
         DLIVE_URL="https://world-proxifier.xyz/daddylive/playlist.m3u8?timezone=cet"
+        
+        echo "PPV URL: $PPV_URL"
+        echo "DaddyLive URL: $DLIVE_URL"
         
         # Create output directory
         mkdir -p downloads
