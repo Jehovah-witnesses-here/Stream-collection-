@@ -1,4 +1,4 @@
-name: Convert M3U8 to M3U
+name: Ppv & dlive M3U8 to M3U
 
 on:
   workflow_dispatch:  # Allows manual triggering
@@ -12,11 +12,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
-    - name: Setup Node.js (if needed for processing)
-      uses: actions/setup-node@v4
-      with:
-        node-version: '18'
     
     - name: Install dependencies
       run: |
@@ -78,24 +73,45 @@ jobs:
           echo "# Error: Could not download from $DLIVE_URL" >> downloads/dlive.m3u8
         fi
         
-    - name: Check downloaded files
+    - name: Check downloaded files and validate
       run: |
         echo "=== Download Status ==="
+        PPV_VALID=false
+        DLIVE_VALID=false
+        
         if [ -f "downloads/ppv.m3u8" ]; then
-          echo "✓ PPV file downloaded successfully"
-          echo "Size: $(ls -lh downloads/ppv.m3u8 | awk '{print $5}')"
+          PPV_SIZE=$(ls -lh downloads/ppv.m3u8 | awk '{print $5}')
+          echo "✓ PPV file downloaded successfully (${PPV_SIZE})"
+          if grep -q "#EXTINF" downloads/ppv.m3u8; then
+            PPV_COUNT=$(grep -c "#EXTINF" downloads/ppv.m3u8)
+            echo "  - Contains ${PPV_COUNT} playlist entries"
+            PPV_VALID=true
+          else
+            echo "  - Warning: No playlist entries found"
+          fi
         else
           echo "✗ PPV file download failed"
         fi
         
         if [ -f "downloads/dlive.m3u8" ]; then
-          echo "✓ DaddyLive file downloaded successfully"
-          echo "Size: $(ls -lh downloads/dlive.m3u8 | awk '{print $5}')"
+          DLIVE_SIZE=$(ls -lh downloads/dlive.m3u8 | awk '{print $5}')
+          echo "✓ DaddyLive file downloaded successfully (${DLIVE_SIZE})"
+          if grep -q "#EXTINF" downloads/dlive.m3u8; then
+            DLIVE_COUNT=$(grep -c "#EXTINF" downloads/dlive.m3u8)
+            echo "  - Contains ${DLIVE_COUNT} playlist entries"
+            DLIVE_VALID=true
+          else
+            echo "  - Warning: No playlist entries found"
+          fi
           echo "First few lines:"
           head -n 5 downloads/dlive.m3u8
         else
           echo "✗ DaddyLive file download failed"
         fi
+        
+        # Store validation results for next step
+        echo "PPV_VALID=$PPV_VALID" >> $GITHUB_ENV
+        echo "DLIVE_VALID=$DLIVE_VALID" >> $GITHUB_ENV
         
     - name: Convert M3U8 to M3U
       run: |
@@ -103,48 +119,69 @@ jobs:
         cat > convert_to_m3u.py << 'EOF'
         import os
         import re
+        from datetime import datetime
         
-        def convert_m3u8_to_m3u(input_file, output_file):
+        def convert_m3u8_to_m3u(input_file, output_file, source_name):
             try:
                 with open(input_file, 'r', encoding='utf-8') as f:
                     content = f.read()
                 lines = content.split('\n')
                 m3u_lines = []
+                
+                # Add header with timestamp
+                m3u_lines.append('#EXTM3U')
+                m3u_lines.append(f'# {source_name} Playlist')
+                m3u_lines.append(f'# Last updated: {datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")}')
+                m3u_lines.append('')
+                
                 for line in lines:
                     line = line.strip()
                     if not line:
                         continue
                     if line.startswith('#EXTM3U'):
-                        m3u_lines.append(line)
+                        continue  # Skip original header since we added our own
                     elif line.startswith('#EXTINF:'):
                         m3u_lines.append(line)
                     elif not line.startswith('#'):
                         m3u_lines.append(line)
                     elif line.startswith('#EXTVLCOPT:'):
                         m3u_lines.append(line)
+                        
                 with open(output_file, 'w', encoding='utf-8') as f:
                     f.write('\n'.join(m3u_lines))
-                print(f"Successfully converted {input_file} to {output_file}")
-                return True
+                    
+                entry_count = len([line for line in m3u_lines if line.startswith('#EXTINF:')])
+                print(f"Successfully converted {input_file} to {output_file} ({entry_count} entries)")
+                return True, entry_count
             except Exception as e:
                 print(f"Error converting {input_file}: {str(e)}")
-                return False
+                return False, 0
         
         print("Starting conversion process...")
         
+        ppv_count = 0
+        dlive_count = 0
+        
         if os.path.exists('downloads/ppv.m3u8'):
-            convert_m3u8_to_m3u('downloads/ppv.m3u8', 'ppv.m3u')
-            print("PPV conversion completed")
+            success, ppv_count = convert_m3u8_to_m3u('downloads/ppv.m3u8', 'ppv.m3u', 'PPV')
+            if success:
+                print(f"PPV conversion completed ({ppv_count} entries)")
         else:
             print("PPV file not found")
             
         if os.path.exists('downloads/dlive.m3u8'):
-            convert_m3u8_to_m3u('downloads/dlive.m3u8', 'dlive.m3u')
-            print("DaddyLive conversion completed")
+            success, dlive_count = convert_m3u8_to_m3u('downloads/dlive.m3u8', 'dlive.m3u', 'DaddyLive')
+            if success:
+                print(f"DaddyLive conversion completed ({dlive_count} entries)")
         else:
             print("DaddyLive file not found")
             
         print("All conversions completed!")
+        
+        # Save counts for commit message
+        with open('conversion_stats.txt', 'w') as f:
+            f.write(f"PPV_COUNT={ppv_count}\n")
+            f.write(f"DLIVE_COUNT={dlive_count}\n")
         EOF
         
         # Run the conversion
@@ -167,35 +204,53 @@ jobs:
         echo "=== Root Directory Contents ==="
         ls -la *.m3u
     
-    - name: Upload artifacts
-      uses: actions/upload-artifact@v4
-      if: always()
-      with:
-        name: converted-m3u-files
-        path: |
-          ppv.m3u
-          dlive.m3u
-          downloads/*.m3u8
-        retention-days: 1
-
     - name: Commit and push results
       if: always()
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Check if M3U files exist and add them
+        # Check if M3U files exist and have changed
         if [ -f "ppv.m3u" ] && [ -f "dlive.m3u" ]; then
+          # Load conversion stats if available
+          PPV_COUNT=0
+          DLIVE_COUNT=0
+          if [ -f "conversion_stats.txt" ]; then
+            source conversion_stats.txt
+          fi
+          
+          # Check if files have actually changed
           git add ppv.m3u dlive.m3u
           
           if [ -n "$(git diff --cached)" ]; then
-            git commit -m "Auto-update: Convert M3U8 to M3U files $(date '+%Y-%m-%d %H:%M:%S')"
+            # Create informative commit message
+            PPV_SIZE=$(ls -lh ppv.m3u | awk '{print $5}')
+            DLIVE_SIZE=$(ls -lh dlive.m3u | awk '{print $5}')
+            
+            COMMIT_MSG="Update playlists: PPV (${PPV_COUNT} entries, ${PPV_SIZE}), DaddyLive (${DLIVE_COUNT} entries, ${DLIVE_SIZE}) - $(date '+%Y-%m-%d %H:%M UTC')"
+            
+            git commit -m "$COMMIT_MSG"
             git push
-            echo "✓ Files committed and pushed to repository"
+            echo "✓ Files updated and pushed to repository"
+            echo "✓ PPV: ${PPV_COUNT} entries (${PPV_SIZE})"
+            echo "✓ DaddyLive: ${DLIVE_COUNT} entries (${DLIVE_SIZE})"
           else
-            echo "No changes to commit"
+            echo "No changes detected in M3U files - skipping commit"
           fi
         else
           echo "M3U files not found, cannot commit"
           ls -la *.m3u || echo "No M3U files in directory"
         fi
+        
+    - name: Cleanup temporary files
+      if: always()
+      run: |
+        rm -rf downloads/
+        rm -f convert_to_m3u.py conversion_stats.txt
+        echo "✓ Temporary files cleaned up"
+        
+    - name: Notify on failure
+      if: failure()
+      run: |
+        echo "::warning::Workflow failed - check the logs above for details"
+        echo "::notice::Common issues: Network timeout, invalid M3U8 format, or git push permissions"
