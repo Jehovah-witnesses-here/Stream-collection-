@@ -1,13 +1,13 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-09-25 22:13:03 UTC
+# Last updated: 2025-09-25 23:13:57 UTC
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",07:00AM | 24/7 COWS | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family‌​‌‌​​​​​‌‌​‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​‌‌ Guy | 01/18/25
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family​​‌​​‌‌​​​​​​​​​​​​‌​‌‌‌​​​​​​​​​​‌​​‌​‌​‌​​​​​​‌​‌‌‌​‌‌​​‌​​​​​​‌​​‌‌​​​​​‌​‌‌‌​​‌‌​‌​‌‌​‌‌‌‌‌‌​​​​‌‌​​​​‌‌‌‌​‌​‌‌​‌‌‌​​‌‌‌‌​‌‌ Guy | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
@@ -167,11 +167,6 @@ https://gg.poocloud.in/dallascowboys/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/bundesliga_heidenheim/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5d5d574191efdc07471f1120671a8a8d-thumbnail.jpg" group-title="BASEBALL",09:35PM | Houston Astros vs. Athletics | 09/25/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/athletics/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/faf833324d4bc3f8ba7305af787e4931-thumbnail.jpg" group-title="AMERICAN FOOTBALL",10:05PM | Indianapolis Colts vs. Los Angeles Rams | 09/28/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -212,11 +207,6 @@ https://gg.poocloud.in/epl_leeds/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/newyorkgiants/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b426b2bf1c9f8514996d6c2a69460128-thumbnail.jpg" group-title="BASEBALL",09:40PM | Los Angeles Dodgers vs. Arizona Diamondbacks | 09/25/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/d-backs/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0fae23a5aea3e5e24acfed6a522baf79-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Mainz vs. Dortmund | 09/27/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -307,11 +297,6 @@ https://gg.poocloud.in/washingtoncapitals/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/seriea_pisa/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d83bb56841a2fb14e242fcce9cc7a0c1-thumbnail.jpg" group-title="FOOTBALL",09:30PM | Real Oviedo vs. FC Barcelona | 09/25/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/laliga_real-oviedo/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/20d20f25818effdef0df1c7fe425f8f0-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Rennes vs. RC Lens | 09/28/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
