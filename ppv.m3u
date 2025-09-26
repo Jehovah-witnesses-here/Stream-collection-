@@ -1,13 +1,13 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-09-26 13:25:03 UTC
+# Last updated: 2025-09-26 14:14:37 UTC
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",07:00AM | 24/7 COWS | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family​​‌​​‌‌​​​​​​​​​​​​‌​‌‌‌​​​​​​​​​​‌​​‌​‌​‌​​​​​​‌​‌‌‌​‌‌​​‌​​​​​​‌​​‌‌​​​​​‌​‌‌‌​​‌‌​‌​‌‌​‌‌‌‌‌‌​​​​‌‌​​​​‌‌‌‌​‌​‌‌​‌‌‌​​‌‌‌‌​‌‌ Guy | 01/18/25
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family​​‌​​‌‌​​​​​​​‌‌‌‌​​​​​​​​‌​​​‌​‌​​​​​​​​​​​​​​‌‌‌‌‌‌‌​​‌‌‌‌‌‌‌‌​‌‌​​‌​​​​​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌​‌‌​‌‌‌‌​‌​​​​​​‌​​​‌‌​​‌‌​‌​‌‌​​‌ Guy | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
@@ -27,6 +27,11 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGQzNzI5MTE0
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wrestling/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/20c7d4c880b56278ac660d25bc206a0f-thumbnail.jpg" group-title="BASKETBALL",01:30AM | Aces at Fever (Game 3) | 09/27/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/wnba_fever/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d6d9503ab8d99b34578c59f59d9ee825-thumbnail.jpg" group-title="FOOTBALL",05:15PM | Angers SCO vs. Brest | 09/28/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -242,6 +247,11 @@ https://gg.poocloud.in/newyorkgiants/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/mariners/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3cde5481552b2a027bf2a6657cbcddc3-thumbnail.jpg" group-title="BASKETBALL",03:30AM | Lynx at Mercury (Game 3) | 09/27/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/wnba_mercury/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0fae23a5aea3e5e24acfed6a522baf79-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Mainz vs. Dortmund | 09/27/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
