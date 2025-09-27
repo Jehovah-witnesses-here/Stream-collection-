@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-09-27 15:13:37 UTC
+# Last updated: 2025-09-27 16:17:13 UTC
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vamos.png" group-title="24/7 CHANNELS| SPAIN",#Vamos Spain
 https://world-proxifier.xyz/daddylive/p/NkZWWjkoSVIkVltbRCA1SRIEBA==/index.m3u8
@@ -1448,6 +1448,36 @@ https://world-proxifier.xyz/daddylive/p/V1ccGVlIKDYmISVEGA0RGVZEJ1daXj9SSRZFPThE
 https://world-proxifier.xyz/daddylive/p/V1ccGVlIKDYmISVEGA0RGVZEJ1daXj9SSRdFPThEDBE=/index.m3u8
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/bein-sports-mena-premium-3.png" group-title="24/7 CHANNELS| OTHERS",beIN Sports MENA Premium 3
 https://world-proxifier.xyz/daddylive/p/V1ccGVlIKDYmISVEGA0RGVZEJ1daXj9SSRRFPThEBCYz/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| PPV EVENTS",Boxing : Dorin Krasmaru vs Harvey Dykes (05:30PM 09/27/25) [EVENT PPV]
+https://world-proxifier.xyz/daddylive/p/FSEtXkZUSR9FFyEnXkZMEzVXIF9WJz9MLjJFE1MnI08mSQUvWFcgRCA1SQIiUl4hRFhNTlY8PUEFBBE=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",wXw: Pro Wrestling Grand Prix 2025 (05:30PM 09/27/25) [TRILLER TV]
+https://world-proxifier.xyz/daddylive/p/LEgsDVlNKjZFTCJSIDxRU0ldRBcnVkZZSVcmXihEBSYNDVY8PUFBJ0NRVEAmRERDRCA1SRcEOw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",MotoAmerica Superbikes New Jersey (06:00PM 09/27/25) [EVENT PPV]
+https://world-proxifier.xyz/daddylive/p/GCEhJAlSXzVfUFNEQD8tXzVWXl1SIFkRXz5FHVcnIE8mSS88RBUjUkYpSVdEQ0E9PVkNCBY=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",2025 52nd NAPA Fall Final at Stafford Speedway (06:15PM 09/27/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/BT4FAFkICElQRBwURQlMHERYWUERXkZeVFZXIUFAIUtbXjYmUUFAJU9aXD5XLkE9PVkZVDYmVlVeW0FMMC9FBQAF/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",TNT: Effy's Big Gay Brunch UK 3 (08:30PM 09/27/25) [TRILLER TV]
+https://world-proxifier.xyz/daddylive/p/QRxBDVkYXkEvMiVEFUNUSQBXLkEVJz9TXU9FQhtEBlk1MFZAJ1tZWU8vSVNCRDg9RBkLAQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",2025 ValleyStar Credit Union 300 at Martinsville Speedway (08:45PM 09/27/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/BT4FAFlLW0tYUitAIUsvSQQmUlReIVlKVkwlW0EGOyZMWzNFGFMnIUNTLTFfWVxSRF0tX0BQLFMuRCA1SQNYJCJWUENTUVY8PUEEDCY=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",2025 NASCAR Championship Night at Riverhead Raceway (10:30PM 09/27/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/BT4FAFkRGVIXFEJEFkBeVzdfJF4gXUMtSQtfXFghREspSVVfI1cnXU9eXFZGVlVSLEsmSS88RBRZJDpeXUxaXEE9PVkMARY=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",2025 IMCA Creek Classic at 141 Speedway (11:00PM 09/27/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/BT4FAFkUFQQVRBMnUk9QSQRYViUgXk1MWzNFBAIERF0tX0BQLFMuRCA1SQNYJCJWUENTUVY8PUEEDBg=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",2025 Glen Helen Off-Road National (11:00PM 09/27/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/BT4FAFkaVEBaRBZSWU9TSQhSUz1HJEtZSQtXIVskW0tRSS88RBRZJDpeXUxaXEE9PVkMARQ=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",2025 Short Track Super Series Montgomery County Open at Fonda Speedway (11:00PM 09/27/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/BT4FAFlIUDYmIUFBJ0tYVVZBIiBSJ1lIXzVfUiVEGDlTLE4lWlcnLlkeKTBaIStEGjhaVlZXIUERJEZZW1ZBJVdSUTFeI1Y8PUERWTkvW0JfW1lEPSBMCR4G/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",2025 IRA Sprints at Plymouth Dirt Track (11:45PM 09/27/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/BT4FAFkUSgZFQCAnXkYpLVZXIUFFWTNSKTAgXUEXXjopSVMmVlVYRCA1SQNYJCJWUENTUVY8PUEEDB0=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",2025 Victoria Weekend at Utica-Rome Speedway (12:00AM 09/28/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/BT4FAFlLU0IgJCJeVllEX0BZUl5RREspSVAgXlVWOFosV0BFQCBSUkwkWzxFPThEEUQsKkRRXl5cRCA1SRYNAQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",2025 Lucas Oil Jackson 100 at Brownstown Speedway (12:00AM 09/28/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/BT4FAFkXL0JXIEEaXkRMEERRWCUkW1kMNilFViREFTosIUkhISEsW1lIKEBTUSlWLlk1MFYQWSEnVk1WVk5FPThEBBEK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",Bxng Next Generation Baltimore (12:00AM 09/28/25) [BXNG TV]
+https://world-proxifier.xyz/daddylive/p/FShbXFkRXz8gRBdSW08vWzNfJF5EFUtRLExbJCJSRCA1SQdMGRdEQT5MMC9FBAkD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",BKB 46: Empire State Brawl (02:00AM 09/27/25) [EVENT PPV]
+https://world-proxifier.xyz/daddylive/p/FRsVRBoJAFYRWiBeJ09MTTNXIVdEFTpeIUtFPThEED5aVjNFRUBDRCA1SRYNDA==/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",The MeatEater Podcast The MeatEater Running Club (01:30AM 09/28/25) [OUTDOOR CHANNEL]
 https://world-proxifier.xyz/daddylive/p/QVhSRAVaWzMRViRSJ1lNKUNRViUhRFxVX1YZUlMhEEspXzVFRydbW0NTUVYXWSdXRCA1SQgjIVQkJDpMG09XW15SWVk1MFYCBwY=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",Adventures in Love & Birding (2025) Premiere (02:00AM 09/27/25) [THE HALLMARK CHANNEL]
