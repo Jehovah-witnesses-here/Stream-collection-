@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-09-27 16:17:13 UTC
+# Last updated: 2025-09-27 17:12:25 UTC
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vamos.png" group-title="24/7 CHANNELS| SPAIN",#Vamos Spain
 https://world-proxifier.xyz/daddylive/p/NkZWWjkoSVIkVltbRCA1SRIEBA==/index.m3u8
@@ -3230,8 +3230,12 @@ https://world-proxifier.xyz/daddylive/p/FCVeVllJW0tTWyREFj8tSTtFHVMlVkZMSkRRUkEF
 https://world-proxifier.xyz/daddylive/p/ERkURFEsKktQRBVbUT8vW0lRUkEWXUtSKEwlWyVdXjhMFTYgJCJER0tYU0ldRD1EAVkbKTAmIEEkU1kZL01fDUFHVk1aSS88REQZQVlIKDYmISVEB1lKE1Y8PUEGBw==/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| BOXING",BKFC 81 : DeGale vs. Floyd (08:00PM 09/27/25) [DAZN PPV]
 https://world-proxifier.xyz/daddylive/p/FRsRFlkLCVYMRBJSEktRX1YiIDxEEUQsI0NFPThEFwlHFFZERUZEPSBMCSkA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| BOXING",BKFC 81 : DeGale vs. Floyd (08:00PM 09/27/25) [DAZN PPV 2]
+https://world-proxifier.xyz/daddylive/p/FRsRFlkLCVYMRBJSEktRX1YiIDxEEUQsI0NFPThEFwlHFFZERUZEBVk1MFYBOz4F/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| BOXING",Boxing : Ben Crocker vs Sean McComb (08:00PM 09/27/25) [DAZN PPV]
 https://world-proxifier.xyz/daddylive/p/FSEtXkZUSR9FFVdbRAsvKUJZUiJEIz1MTUBXW0EYUAssV0VFPThEFwlHFFZERUZEPSBMCSkD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| BOXING",Boxing : Ben Crocker vs Sean McComb (08:00PM 09/27/25) [DAZN PPV BOXING]
+https://world-proxifier.xyz/daddylive/p/FSEtXkZUSR9FFVdbRAsvKUJZUiJEIz1MTUBXW0EYUAssV0VFPThEFwlHFFZERUZEFTklU0ldRDg9RB0zNhQ=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| BOXING",Boxing : Sol Cudos vs Kim Clavel (02:00AM 09/27/25) [DAZN PPV]
 https://world-proxifier.xyz/daddylive/p/FSEtXkZUSR9FQCFZRAsqXDYhRCYgRANWV1YXWVMjUkRMMC9FFxFPGVlNSFFFPThEBCYL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| BOXING",ProBox Fight Night: Najee Lopez vs. Kalvin Henderson (02:00AM 09/27/25) [PPV FEED]
@@ -3384,10 +3388,62 @@ https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZDFhREVjxME0RaIFMgRF0pWzNTRDg9
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZBJCchXVkcVERWVl9WREspSQslJyRdRFxaIEQhRDg9RA1ISAtDREdAFFk1MFYHBAQ=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Bowling Green at Ohio (06:00PM 09/27/25) [CBS SPORTS NETWORK]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYUJClZXkZUSQAmUldbREspSQhcXiFEPSBMGwdBREUlJDopLVYYUiQsJDpQSS88RAM7Aw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Stetson at Dayton (06:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZBIVchIDlTSUQgRBJWLjwsVlY8PUEQQFgRM1ZDQBFEPSBMCR4H/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : New Haven at Duquesne (06:00PM 09/27/25) [SPORTSNET PITTSBURGH]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYUilEE0srX0lFViREFz8uL0AhW1dEPSBMTTclJyQgGU8pSVdfISQgVz8vUU9FPThEDBgN/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Delaware State at Sacred Heart (06:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYWUlxWLEsvX1ZBIVMhUlleLFZBVlUnUkxMHkBXJyREPSBMHVJEGTtEQl0cSS88RAAEBQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Cornell at Yale (06:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYXJCJbUkRRSUQgREtWWU9MMC9FEEVFGSNMT1IVRDg9RBgMCw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Norfolk State at Wagner (06:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYJCJTJERQSVIgViRSREspSV5XXF5SJ1k1MFYRQEAZPllKTQZFPThEBRkP/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Dartmouth at Central Connecticut State (06:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYWViIhWjkqLE9FViREFk9TLDVXWUEWJEZTX0IgXlUiIVlILEQgUkE9PVkYTVcYPkFCQAlMMC9FBQEA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Penn at Lehigh (06:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZEUl5bREspSQ1TXVtcXVk1MFYRQEAZPllKTQZFPThEBRkJ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Georgetown at Columbia (06:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYTUiEnXE8pKT5aRFMhRAssVDBbV1tWRCA1SQJBRRw-RF9IGVY8PUEFBB8=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Utah State at No. 18 Vanderbilt (06:45PM 09/27/25) [SEC NETWORK USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZDIVNdRF0pWzNTRFMhRAQsNFYFA0FDVkZZXzVWXlwhRCA1SVIRFkEZUjwkKTVZREdAFFk1MFYHAwU=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Eastern Michigan at Central Michigan (07:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYRViUhUjpTSQpfUFheXEtTSUQgRBNSWzwvW0tFGFtQXUNUW0lFPThEEF1NFCxFQkUURCA1SRYAAQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Marist at Butler (07:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZViJeIDxMWzNFFSchWU8vSS88RBVARQQ2SVBBFEE9PVkMDBA=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : LIU at Stonehill (07:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYeHEdEVjxMTTMlW1ddXkRRSS88RBVARQQ2SVBBFEE9PVkMDBE=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Holy Cross at Fordham (07:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYSJFwuRAsvKTIhRFMhRAwsKkNcVl9EPSBMHVJEGTtEQl0cSS88RAEBDA==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : UAlbany at New Hampshire (07:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZDFFxXVkYmSUQgRBxSLFkbW0gkIFheJ09MMC9FEEVFGSNMT1IVRDg9RBkKNg==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Towson at Bryant (07:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZAJCkgJEZMWzNFFSIuVkYpSS88RBVARQQ2SVBBFEE9PVkMDxY=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Morehead State at Presbyterian (07:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZJCJSXU9eXFZBIVMhUlleLFZEJ1cgVzMpXzVfVl5EPSBMHVJEGTtEQl0cSS88RAECBQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Georgia Southern at James Madison (07:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYTUiEnXENeSVIlIiRdUjpTSUQgRBhWWk8oSQpXUVsgJEZMMC9FEEVFGSNMT1IVRDg9RBkKCw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Miles at Morgan State (08:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZXlxSIFleLFYZJCJcVkZMTTNXIVdEPSBMHVJEGTtEQl0cSS88RAECBw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Utah Tech at Austin Peay (08:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZDIVNdRFxaXU9FViREFD8oLExaREBSVjNMMC9FEEVFGSNMT1IVRDg9RBkKDQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : South Dakota at North Dakota State (08:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZBJCchXVkfW0olIVNEVjxMFDYmIVhEF0tQKTNXREUhVjxaSS88RBVARQQ2SVBBFEE9PVkMDxM=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Hampton at Elon (08:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYSVl8lITlTSUQgRBVZJEZMMC9FEEVFGSNMT1IVRDg9RBkKDw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Howard at Richmond (08:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYSJClWJ0xMWzNFR1tQXUcsVkNFPThEEF1NFCxFQkUURCA1SRYDAw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : St. Thomas (MN) at San Diego (08:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZBITxEQUAsV0QhRDYYGSFMWzNFQFNbRApWX04lRDg9RA1ISAs_REdAFFk1MFYFAgk=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Arkansas State at UL Monroe (09:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVJ11WWz1eLVZBIVMhUlleLFZDH0EYJEYvKUBFPThEEF1NFCxFQkUURCA1SRYCOw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Alabama A&M at Bethune-Cookman (09:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVWVNXVkdeSQYwGEFWIVkdXzNcIl5SOAssKUpbVl5EPSBMHVJEGTtEQl0cSS88RAEDBA==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Alabama State at Florida A&M (09:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVWVNXVkdeSVIgViRSREspSQNYJCJeUUtMGSMZRDg9RA1ISAs_REdAFFk1MFYFAwA=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Idaho State at Northern Colorado (09:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYdUVNdJFlILEQgUkFWIVkRKTUgXVcnW1keKUslJ1NRJFk1MFYRQEAZPllKTQZFPThEBB4O/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Mercyhurst at South Dakota State (09:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZUiJQLkAqKjIgRFMhRF0sLzNcRBJWWDkpW1ZBIVMhUlk1MFYRQEAZPllKTQZFPThEBB4P/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : No. 1 Ohio State at Washington (09:30PM 09/27/25) [CBS USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYJDxEBFkSUEwlREUhVjxaSUQgRElWIEBWVk4gJF5EPSBMGwdBREdAFFk1MFYBBQ==/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : No. 1 Ohio State at Washington (09:30PM 09/27/25) [BSNY USA]
@@ -3403,33 +3459,105 @@ https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYJDxEB1kXTVBFViREGTkxSRYHRB9Z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : No. 4 LSU at No. 13 Ole Miss (09:30PM 09/27/25) [SPORTKLUB 3 CROATIA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYJDxEB1kXTVBFViREGTkxSRYHRB9ZUlkQUzIhRDg9RF0tKTUgWFwiV1kOSQQmJFMhXktMMC9FBD4G/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Auburn at No. 9 Texas A&M (09:30PM 09/27/25) [ESPN USA]
-https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVIlIiJ0ZMWzNFGSE5RBFMTEAsViVEFCxeVzcPGEE9PVkYTVcYREdAFFk1MFYGBw==/index.m3u8
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVIlIiJ0ZMWzNFGSE5RBFMTEAsViVEFCwQSS88RBVARQRMT1IVRDg9RBoP/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Utah at West Virginia (09:30PM 09/27/25) [FOX USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZDIVNdREspSV5TICREQ0MvUUxaXlNEPSBMHAhMREdAFFk1MFYBBw==/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Utah at West Virginia (09:30PM 09/27/25) [FOXNY USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZDIVNdREspSV5TICREQ0MvUUxaXlNEPSBMHAhMGUtEQl0cSS88RAcBAw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : No. 11 Indiana at Iowa (09:30PM 09/27/25) [PEACOCK]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYJDxEBBlMEUlQXlNbVlleLFYdJClWRCA1SVdTVlUkUEVMMC9FBT47/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : UCLA at Northwestern (09:30PM 09/27/25) [BTN USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZDFhoUREspSQslJyRdLE8oLEAmW0E9PVkdTAtFQkUURCA1SRQNAg==/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : California at Boston College (09:30PM 09/27/25) [ACC NETWORK USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYXVlxeUzkvVkxXRFMhRAgsLTMlW0EWJERRX05TRDg9RAkeG1YYUiQsJDpQSVBBFEE9PVkJDBU=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Baylor at Oklahoma State (09:30PM 09/27/25) [ESPN2 USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYUVitZJDpMWzNFGl1ZVkAsV0RFQCRWIU9MMC9FEEVFGRhMT1IVRDg9RBoI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : UConn at Buffalo (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZDFiFbW1leLFYUIlZTVkQsSS88RBVARQQ2SVBBFEE9PVkNNhY=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : San Diego State at Northern Illinois (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZBVl5EF0NaUTZFQCRWIU9MWzNFGSEnIUBaKklFHFxZXkYsUzJFPThEEF1NFCxFQkUURCA1SRc6Bg==/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Rice at Navy (09:30PM 09/27/25) [CBS SPORTS NETWORK]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZGXlVSREspSQtXIytEPSBMGwdBREUlJDopLVYYUiQsJDpQSS88RAM7Aw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Akron at Toledo (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVWCIkW1leLFZAJFxSUTlMMC9FEEVFGSNMT1IVRDg9RBgzCg==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Western Carolina at Campbell (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZNUiUhUjpTSQRXJyFZXkZeSUQgRBNWWjhfX0tYRDg9RA1ISAs_REdAFFk1MFYEOwU=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Princeton at Lafayette (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZEJ1tbUE8pKUlFViREH0tbWzxTISRSRCA1SQJBRRw-RF9IGVY8PUEFOxw=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Furman at Samford (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYQIiJaVkZMWzNFQFNaUzkvXFY8PUEQQFgRM1ZDQBFEPSBMCCkD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Merrimack at Stony Brook (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZUiInXkdeXUpFViREQDwsVjxFFSIkJEVMMC9FEEVFGSNMT1IVRDg9RBgzDg==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : William & Mary at Villanova (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZNXlxZXktSSSNFGFMnLlleLFZCXlxZVkYsLkRFPThEEF1NFCxFQkUURCA1SRc6DA==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : North Carolina A&T at Maine (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYJCIhXVkeWzUlWVtbVlkcPFNFViREGEtWVkBFPThEEF1NFCxFQkUURCA1SRcFOw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Lindenwood at Miami (OH) (09:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYeXl5RUkYkKTZQRFMhRAVWW0hfRDYaEyFMMC9FEEVFGSNMT1IVRDg9RBgMCQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : New Mexico State at New Mexico (10:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYUilEGE8lU0IlREUhVjxaSUQgRBxSLFkQXz9fUCFEPSBMHVJEGTtEQl0cSS88RAAEBQ==/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Tulane at Tulsa (10:00PM 09/27/25) [ESPNU USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZAIlxWW09MWzNFQSdZIEtMMC9FEEVFGV9MT1IVRDg9RBsMDA==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Eastern Illinois at Western Illinois (10:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYRViUhUjpTSQ5YWVtbJEMoSUQgRElSIDxaKklFHFxZXkYsUzJFPThEEF1NFCxFQkUURCA1SRcFBg==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Eastern Washington at Montana State (10:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYRViUhUjpTSV5XIFheW0EpKUlFViREGDlTLERaVkFAIUspX1Y8PUEQQFgRM1ZDQBFEPSBMCBYG/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Hawai‘i at Air Force (10:10PM 09/27/25) [FOX SPORTS 1 USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYSVilWXpvs8UxFViREFEMvSQMlJ1VSRCA1SQMlLUFAJTkvLDJFBEFCQAlMMC9FBgk=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : No. 15 Tennessee at Mississippi State (10:15PM 09/27/25) [SEC NETWORK USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYJDxEBB1MTEBaW1cgIE9aSUQgRB1eID1WLTJfJSBeRF0pWzNTRDg9RF0YG1YYUiQsJDpQSVBBFEE9PVkODhI=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Tennessee Tech at Tennessee State (10:30PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZAUl5bUj0oX0BFQVdQXVleLFZAUl5bUj0oX0BFQCRWIU9MMC9FEEVFGSNMT1IVRDg9RBkJCQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Northern Arizona at Portland State (11:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYJCIhXU8vVlYVJ1svJEZeSUQgREAkJzxRW0lQREUhVjxaSS88RBVARQQ2SVBBFEE9PVkMDBM=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Texas Southern at Mississippi Valley State (11:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZAUihWIFlIKTAgXVcnW1leLFYZXiUgXj0oUzckXkFDVkRRXzxFQCRWIU9MMC9FEEVFGSNMT1IVRDg9RBkJDw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Mercer at East Tennessee State (11:00PM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZUiJQUjpMWzNFEFMgIVlJX0laUiUgUk9MTTNXIVdEPSBMHVJEGTtEQl0cSS88RAEBAw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Middle Tennessee at Kennesaw State (12:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZXlRRWU9MTEBaW1cgIE9aSUQgRBtSW0ZaLUQtREUhVjxaSS88RBVARQQ2SVBBFEE9PVkMDB4=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Liberty at Old Dominion (12:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYeXlJSJzwmSUQgRB9ZUVkfKUhfW1skW1k1MFYRQEAZPllKTQZFPThEBB8z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : South Carolina State at Charleston Southern (12:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZBJCchXVkeWzUlWVtbVllILEQgUkFWIVkeUEQmWVcgITlTSVIlIiRdUjpTSS88RBVARQQ2SVBBFEE9PVkMDxY=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Saint Francis (PA) at Bucknell (12:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZBVltbIVkZKkRaUFsgRC5NGS5FViREFT9YVUlTWVxEPSBMHVJEGTtEQl0cSS88RAECBQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Brown at Harvard (12:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYUJyEsW1leLFYSViIjVjpZSS88RBVARQQ2SVBBFEE9PVkMDxQ=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Nicholls at Eastern Kentucky (12:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYXlVdJERRLVZXIUEQVj0pXzVaRBtSWzwqXUovRDg9RA1ISAs_REdAFFk1MFYFAgI=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : The Citadel at Chattanooga (12:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZAXVdEFkMpW0NTWUFWIVkeUEQgIVNbJDlUW1Y8PUEQQFgRM1ZDQBFEPSBMCRAB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Rhode Island at Western Michigan (12:30AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZGXSFRUlkULUtXW1REVjxMQUAhIVcnW1kQU0JcXllWW1k1MFYRQEAZPllKTQZFPThEBB8J/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Arizona at No. 14 Iowa State (01:00AM 09/28/25) [ESPN USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVJ1svJEZeSUQgRBwkOVkMClYdJClWRF0pWzNTRDg9RA1ISAtFQkUURCA1SRUG/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Virginia Tech at NC State The (01:00AM 09/28/25) [CW USA]
-https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZCXiJcXkZWW1ZAUlVdREspSQsXREUhVjxaSVNcUkE9PVkeQVZDQBFEPSBMCyk6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Virginia Tech at NC State The (01:00AM 09/28/25) [CW PIX 11 USA]
-https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZCXiJcXkZWW1ZAUlVdREspSQsXREUhVjxaSVNcUkE9PVkeQVZEHEhEBBlMT1IVRDg9RBgLNg==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Virginia Tech at NC State (01:00AM 09/28/25) [THE CW USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZCXiJcXkZWW1ZAUlVdREspSQsXREUhVjxaSS88RERdUlkeQVZDQBFEPSBMCyk6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Virginia Tech at NC State (01:00AM 09/28/25) [CW PIX 11 USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZCXiJcXkZWW1ZAUlVdREspSQsXREUhVjxaSS88RBNMRFgUQFYFBEFCQAlMMC9FBQY7/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Southeast Missouri State at UT Martin (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZBJCchXU9eLTNFGFsgIDkqKkxFQCRWIU9MWzNFQkREGEsvLExaRDg9RA1ISAs_REdAFFk1MFYFAgc=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Jacksonville State at Southern Miss (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYcVlVYIDlTLkxYWVdEQDxeLEBFViREQDkqLE9TJ15EGEMoLVY8PUEQQFgRM1ZDQBFEPSBMCRAC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Western Kentucky at Missouri State (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZNUiUhUjpTSQxTWyQiUEUmSUQgRB1eID0sLzVfREUhVjxaSS88RBVARQQ2SVBBFEE9PVkMDx4=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Memphis at Florida Atlantic (01:00AM 09/28/25) [ESPN2 USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZUl8lXUMoSUQgRBRZJDpWXERFFCRZVkYpU0JFPThEEF1NFBdFQkUURCA1SRUB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : UTRGV at Southeastern Louisiana (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZDQUISQ1leLFZBJCchXU9eLTNTJ15EHzkqUzJfVl5WRCA1SQJBRRw-RF9IGVY8PUEEAyY=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Abilene Christian at UIW (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVV1tZUkZaSQRcJ1sgIUNeVlZXIUFCHFFMMC9FEEVFGSNMT1IVRDg9RBkLCQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : NC Central at East Texas A&M (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYFkEWUkYpKkRYRFMhRA1eLTNFQVctVj1MGSMZRDg9RA1ISAs_REdAFFk1MFYFAwA=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Central Arkansas at Lamar (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYXUl4hJ0tRSQYmWFNbIEsoSUQgRBpWWksvSS88RBVARQQ2SVBBFEE9PVkMDhQ=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Prairie View A&M at Grambling (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZEJ1NeJ0NaSVFfUilEFCwQSUQgRBcnVkdfVExaXEE9PVkYTVcYPkFCQAlMMC9FBAYH/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Alcorn State at Arkansas–Pine Bluff (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVWVUkJ0ZMTTNXIVdEVjxMGTVZVl4gVj2O6eVEXl5SRAhRL0FSRDg9RA1ISAs_REdAFFk1MFYFAwU=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Jackson State at Southern (01:00AM 09/28/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYcVlVYIDlTSVIgViRSREspSVIlIiRdUjpTSS88RBVARQQ2SVBBFEE9PVkMDhM=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Appalachian State vs Boise State (01:30AM 09/28/25) [FOX SPORTS 1 USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYVJSBWWUtYUExXW0FAIUspX1YiIEEVJEMoX1ZBIVMhUlk1MFYQJChEQDgsKjMhRAFEQl0cSS88RAMM/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : No. 6 Oregon at No. 3 Penn State (01:30AM 09/28/25) [NBC USA]
@@ -3456,6 +3584,18 @@ https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZNViVdXkZULDZaREUhVjxaSUQgRBMk
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZBVl5EHTkoX1ZBIVMhUlleLFZBIVNbUzkvXFY8PUEUFgtMFEAgLCEnWFlKTQZFPThEARwP/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Kentucky at South Carolina (01:45AM 09/28/25) [SEC NETWORK USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYfUl4hIk1QI1ZXIUFAJD8pUFYXViIkWUNTW1Y8PUFAEAtMFEAgLCEnWFlKTQZFPThEBh4I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Marshall vs Louisiana (02:00AM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZViIgXUtRVFYiIEEfJD9WLUxXW1NEPSBMHVJEGTtEQl0cSS88RAEBBQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : McNeese at Stephen F. Austin (02:00AM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYZUBxSUj1aSUQgREUhUjhVX0lFETxEFD8oLExaRDg9RA1ISAs_REdAFFk1MFYFAQM=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : West Georgia at Southern Utah (02:30AM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZNUiUhRA9aKTVdXlNEVjxMTTYjIVhSJ0ZMTzNXXUE9PVkYTVcYPkFCQAlMMC9FBAQH/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Cal Poly at Sacramento State (03:00AM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYXVlxERTlRI1ZXIUFAVk0vW0hTWyQkRF0pWzNTRDg9RA1ISAs_REdAFFk1MFYFAQU=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Louisiana Tech vs UTEP (03:00AM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYeJCdeIENeVkRFQVdQXVkrLVZDQRVFRCA1SQJBRRw-RF9IGVY8PUEEAx8=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : Weber State at UC Davis (04:00AM 09/27/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFZNUlJSJ1lILEQgUkFWIVlKG1YWViZeIFk1MFYRQEAZPllKTQZFPThEBB4L/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : No. 25 BYU at Colorado (04:15AM 09/27/25) [ESPN USA]
 https://world-proxifier.xyz/daddylive/p/GRMUFAxMAFYYJDxEBR1MGFxDRFMhRAssVDYmVlQkRCA1SQJBRRxEQl0cSS88RAIH/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",NCAAF : No. 25 BYU at Colorado (04:15AM 09/27/25) [SPORTKLUB 3 CROATIA]
