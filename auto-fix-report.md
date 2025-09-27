@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** September 26, 2025 at 18:37 UTC
+    **Last Updated:** September 27, 2025 at 01:39 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 94.0% of streams are working  
+    **Overall Health:** 94.9% of streams are working  
     **Current FL Server:** fl1  
-    **Changes Made:** 46 streams updated  
-    **Issues Found:** 13 streams need attention  
+    **Changes Made:** 131 streams updated  
+    **Issues Found:** 11 streams need attention  
     
     ---
     
@@ -15,34 +15,32 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 152 | 1 | 13 | 165 |
-    | Event Channels | N/A | 45 | 0 | 51 |
-    | **TOTAL** | **203** | **46** | **13** | **216** |
+    | Regular Channels | 154 | 125 | 11 | 165 |
+    | Event Channels | N/A | 6 | 0 | 51 |
+    | **TOTAL** | **205** | **131** | **11** | **216** |
     
-    ## ✅ Successfully Fixed (1 channels)
+    ## ✅ Successfully Fixed (125 channels)
     
     These channels were broken but are now working:
     
-    **fl7 → fl1:** Big Ten Network HD  
+    **fl7 → fl1:** Sky Sports Football, ABC (WABC), ACC NETWORK, AMC, American Heroes Channel, Animal Planet, Aspire, BBC AMERICA, BBC WORLD NEWS, BEIN SPORTS, BET, BET GOSPEL, BET HER, BET Jams, BET SOUL, BLOOMBERG, Boomerang, Bounce, BRAVO, Buzzr, C-SPAN, CARTOON NETWORK, CBS, CBS SPORTS NETWORK, CINEMAX EAST, CINEMAX WEST, Cleo TV, CMT, CNBC FHD, CNN INTERNATIONAL, COMEDY CENTRAL, COMET, COOKING, COURT TV, COZI TV, CRAVE 1, CRAVE 2, CRAVE 3, CRAVE 4, Destination America, DISCOVERY FAMILY CHANNEL, DISCOVERY LIFE, Discovery Science, DISNEY JR, DISNEY XD, DIY, E ENTERTAINMENT TELEVISION, ESPN 2, ESPN NEWS, ESPN U, FOOD NETWORK, FOX (WNYW), FOX Business Network, FOX SOUL, Freeform, FS1, Fuse, FX, FXM, FXX, FYI FHD, getTV, GRIT TV, Hallmark Channel, Hallmark Family, Hallmark Mystery, HBO, HBO Comedy, HBO Family, HBO Zone, HBO2, HGTV, HLN, HSN, ID (Investigation Discovery), INSP TV, ION, Lifetime, Lifetime Movies Network, LOVE NATURE, MAVTV, MeTV, MGM+, MGM+ Drive-In, MLB Network, MotorTrend, MSG, MTV, MTV Live, MTV2, mtvU, MUCH, National Geographic, National Geographic Wild, NBA TV, NBC, NewsNation, NFL Network, NFL RedZone, NHL Network, Nickelodeon, NickJr, NickMusic USA, NickToons, Oprah Winfrey Network, Outdoor Channel, OUTSIDE TV, Ovation, Oxygen, Paramount Network, Pursuit Channel, QVC, ReelzChannel, Revolt, Showtime, Showtime 2, Showtime Extreme, Showtime Next, Showtime Women, SMITHSONIAN CHANNEL, Sportsman Channel, Start TV, Starz, Starz Comedy, Starz Edge  
 
-    ## 🔄 Event Channels Updated (45 channels)
+    ## 🔄 Event Channels Updated (6 channels)
     
     These event channels were updated to stay current (they're expected to be offline unless there's a live event):
     
-    **fl7 → fl1:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+    **fl7 → fl1:** PPV1, PPV2, PPV3, PPV4, PPV5, PPV6  
 
-    ## ❌ Channels Still Having Issues (13 channels)
+    ## ❌ Channels Still Having Issues (11 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
     • **Antenna** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
-• **COOKING** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
-• **Hallmark Family** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
 • **Starz Encore** - No working fl server found  
@@ -53,7 +51,7 @@
     
     ## 🎉 Success!
     
-    **46 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    **131 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
