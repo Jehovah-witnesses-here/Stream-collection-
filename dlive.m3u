@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-09-29 17:14:57 UTC
+# Last updated: 2025-09-29 18:24:04 UTC
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vamos.png" group-title="24/7 CHANNELS| SPAIN",#Vamos Spain
 https://world-proxifier.xyz/daddylive/p/YhcCD3B0EBVxAgoOEGlpEVRRUA==/index.m3u8
@@ -1448,7 +1448,7 @@ https://world-proxifier.xyz/daddylive/p/AwZITBAUcXFzdXQRTERNQRARcwcOCnYPEFAQaGkQ
 https://world-proxifier.xyz/daddylive/p/AwZITBAUcXFzdXQRTERNQRARcwcOCnYPEFEQaGkQWFk=/index.m3u8
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/bein-sports-mena-premium-3.png" group-title="24/7 CHANNELS| OTHERS",beIN Sports MENA Premium 3
 https://world-proxifier.xyz/daddylive/p/AwZITBAUcXFzdXQRTERNQRARcwcOCnYPEFIQaGkQUG5v/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| BIG BROTHER NAIJA 2025 LIVE",Big Brother Naija 2025 (11:25AM 09/29/25) [MAINFEED]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| BIG BROTHER NAIJA 2025 LIVE",Big Brother Naija 2025 (08:07PM 09/29/25) [MAINFEED]
 https://world-proxifier.xyz/daddylive/p/QQoIEUFzcHQJBnMRTQIKCgIQUW5RVBBoaRBMAwoPRQcGBRBoaRBRU28=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",Beyond the Gates Season 1 Episode 139 (08:00PM 09/29/25) [CBSNY USA]
 https://world-proxifier.xyz/daddylive/p/QQZ6cQ8FEHQJBhBHAnUGdRAUBgN0cA8RUBBEcAp0cAQGEFBTWBBpaBBCQRVNGhAXFEAQaGkQVlRW/index.m3u8
@@ -2008,6 +2008,8 @@ https://world-proxifier.xyz/daddylive/p/Fg8KdAYFEBV1AnUHdBBsEU1CQEEQTAYOZnQQFXAE
 https://world-proxifier.xyz/daddylive/p/QnB0dAIQEwsEAhBtEBFzCw4GcwMQQwp2CnQKcQ8QWRER85lyBnsQGgYNBgTzgw8Rd3QQTXYPCgUKcQIMEEsKAgZzCgMQaWkRRRYVFhBpaRFR/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| ATHLETIC",Athletic : Modern Pentathlon World Cup Final Premiere (04:00PM 09/29/25) [NLSE]
 https://world-proxifier.xyz/daddylive/p/QHUJDAZ1CgUQWRBNcAUGcg8QEQcPdQJ0CQ1wDhAYcHINBRBDdnEQRAoPAgwQEXMHDgoGcgYQaWgQTUsVRBBpaBBRUw==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - BEIJING",ATP - BEIJING : De Minaur A. vs Mensik J. (07:00AM 09/29/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/QBUREWwQQUVISUhMRhBZEUMGEE0KDwJ3cxBAbBB3dBFMBg91CgwQSG0QaWgQFQYODwp0ERR1cwcCDhBoaRBQVW9X/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - BEIJING",ATP - BEIJING : Sinner J. vs Marozsan F. (08:30AM 09/29/25) [TENNIS STREAM]
 https://world-proxifier.xyz/daddylive/p/QBUREWwQQUVISUhMRhBZERQKDw4GcxBIbRB3dRBMAnJwe3QDDxBFbBBpaREVBg8OCnQQFXVzBgMOEGloEFBUblc=/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - BEIJING",ATP - BEIJING : Sinner J. vs Marozsan F. (08:30AM 09/29/25) [TENNIS STREAM]
