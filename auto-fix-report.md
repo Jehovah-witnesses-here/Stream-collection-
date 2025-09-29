@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** September 29, 2025 at 06:36 UTC
+    **Last Updated:** September 29, 2025 at 12:58 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 94.9% of streams are working  
+    **Overall Health:** 92.1% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 11 streams need attention  
+    **Issues Found:** 17 streams need attention  
     
     ---
     
@@ -15,24 +15,30 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 154 | 0 | 11 | 165 |
+    | Regular Channels | 148 | 0 | 17 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **205** | **0** | **11** | **216** |
+    | **TOTAL** | **199** | **0** | **17** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (11 channels)
+    ## ❌ Channels Still Having Issues (17 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
-    • **Antenna** - No working fl server found  
+    • **AMC** - No working fl server found  
+• **Antenna** - No working fl server found  
+• **CARTOON NETWORK** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
+• **Cleo TV** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **Lifetime Movies Network** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
+• **Revolt** - No working fl server found  
 • **Starz Encore** - No working fl server found  
+• **TCM** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
 
