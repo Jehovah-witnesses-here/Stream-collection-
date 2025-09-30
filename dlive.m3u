@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-09-30 18:21:29 UTC
+# Last updated: 2025-09-30 19:12:45 UTC
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vamos.png" group-title="24/7 CHANNELS| SPAIN",#Vamos Spain
 https://world-proxifier.xyz/daddylive/p/YhcCD3B0EBVxAgoOEGlpEVRRUA==/index.m3u8
@@ -1796,6 +1796,14 @@ https://world-proxifier.xyz/daddylive/p/TQZ1CAZzDQMPBXQRbBBEB3N0dQcQQwp2CnQKBxBZ
 https://world-proxifier.xyz/daddylive/p/TQZ1CAZzDQMPBXQRbBBEB3N0dQcQQwp2CnQKBxBZEEUKDwUIcHcGDhB3dBFDcHMEcwYECHUQaWgQRBQQTRBSEU1LEGhpEFdWVw==/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| ALL SOCCER EVENTS",Netherlands - Eerste Divisie : Emmen vs Vitesse (08:00PM 09/30/25) [ESPN 2 NL]
 https://world-proxifier.xyz/daddylive/p/TQZ1CAZzDQMPBXQRbBBEB3N0dQcQQwp2CnQKBxBZEEUODgYOEHd0ERcKdQd0dAYRaWkQRRQRTRFREE1KEGlpEVJXVQ==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| ALL SOCCER EVENTS",Spain - La Liga : Valencia vs Real Oviedo (08:00PM 09/30/25) [DAZN LALIGA]
+https://world-proxifier.xyz/daddylive/p/FHECCw8QbBFLAhBKCggCEVkQFwMNBg8FCgIQdnQQEwcCDRBPdwoGBHAQaWgQQ0AaTRBLA0sKCAMQaWkRVFJX/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| ALL SOCCER EVENTS",Spain - La Liga : Valencia vs Real Oviedo (08:00PM 09/30/25) [LALIGA TV UK]
+https://world-proxifier.xyz/daddylive/p/FHECCw8QbBFLAhBKCggCEVkQFwMNBg8FCgIQdnQQEwcCDRBPdwoGBHAQaWgQSwJKCggCERUXEBdKEGloEFFWVA==/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| ALL SOCCER EVENTS",Spain - La Liga : Valencia vs Real Oviedo (08:00PM 09/30/25) [MATCH! FUTBOL 2 RUSSIA]
+https://world-proxifier.xyz/daddylive/p/FHECCw8QbBFLAhBKCggCEVkQFwMNBg8FCgIQdnQQEwcCDRBPdwoGBHAQaWgQTEAUQkdgEUV2dQJwDRBQEBN2dXQKAhFpaRBRUlY=/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| ALL SOCCER EVENTS",Spain - La Liga : Valencia vs Real Oviedo (08:00PM 09/30/25) [SUPERSPORT LALIGA]
+https://world-proxifier.xyz/daddylive/p/FHECCw8QbBFLAhBKCggCEVkQFwMNBg8FCgIQdnQQEwcCDRBPdwoGBHAQaWgQFHZwBnMUcHBzdRFLAg0LCAIQaGkQU1FU/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| ALL SOCCER EVENTS",Asia - AFC Champions League Elite : Al Ittihad vs Al Ahli (08:15PM 09/30/25) [ASTRO ARENA BOLA]
 https://world-proxifier.xyz/daddylive/p/QHQKAxBsEEFFQhBDCQIOcApwD3UQSwYDCHYGEUQNCnQGEFkRQA0QSXV1CggCBRB2dBBADBBACQwKEGloEEB0dHNwEEFzBg8DEEFwDAIQaWgQUQ==/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| ALL SOCCER EVENTS",Asia - AFC Champions League Elite : Al Ittihad vs Al Ahli (08:15PM 09/30/25) [NOVA SPORT BULGARIA]
