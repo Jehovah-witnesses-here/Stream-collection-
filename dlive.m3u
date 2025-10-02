@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-10-01 23:13:33 UTC
+# Last updated: 2025-10-02 01:11:14 UTC
 
 #EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vamos.png" group-title="24/7| SPAIN",#Vamos Spain
 https://world-proxifier.xyz/daddylive/p/OABTCKB5G52QGNJTEIVXSGYYCMAQEAI/index.m3u8
@@ -1450,6 +1450,10 @@ https://world-proxifier.xyz/daddylive/p/GEYBSC3SC4ST6NZGHBSRI5D4OIKGAQSVLU5CAPLF
 https://world-proxifier.xyz/daddylive/p/GEYBSC3SC4ST6NZGHBSRI5D4OIKGAQSVLU5CAPLFMFSH66TFMN5XK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",12:30AM| Bristol Motor Speedway (10/03/25) [EVENT PPV]
 https://world-proxifier.xyz/daddylive/p/CETTSNRGFM4XACB5H4VCWELBINIVKVCHKEVHK6TPOIASGNJLEZVRKCLHCIMR4EAFAAAGG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",01:45AM| Millbridge Speedway (10/03/25) [DIRTVISION]
+https://world-proxifier.xyz/daddylive/p/DY6DYKJQGY6DIIRXNMLCSVCXK5BVCSIQDJ4XKFAMAAIAGOJWHMSCW6I3DAJQCAAAAE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",02:00AM| USRA Nationals Lucas Oil Speedway 10/1/25 (10/02/25) [RACINGDIRT]
+https://world-proxifier.xyz/daddylive/p/AYDAEBDSBI2CILB5EUSDKQQSP5AVGUKDCAODYPDFAE2DANJBEUVDY6IAAIOAKHYCAUIHS73QC4ZSOPB6EILCENZNCEMBSFAFAAAAE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",01:00PM| The Starting Lineup Live (10/02/25) [NBA TV USA]
 https://world-proxifier.xyz/daddylive/p/A46TKZIBGA2CEMJ3EURHS7K3LVIUKQAQPQ5CGNLFPBXHKHQHCNVRCDYRM5QHKEA2DIIGOZLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",08:00PM| Beyond the Gates Season 1 Episode 141 (10/02/25) [CBSNY USA]
