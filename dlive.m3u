@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-10-02 20:17:20 UTC
+# Last updated: 2025-10-02 21:13:34 UTC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="24/7| AFRICA",Canal+ Sport 1 Afrique
 https://world-proxifier.xyz/daddylive/p/CA2D4JB6N52QGNJ5HEYXSAASOJJEEWKBIU3HK6TPOJYG2ZQ/index.m3u8
@@ -1448,6 +1448,14 @@ https://world-proxifier.xyz/daddylive/p/AQ6DYKJ5GN2QQEIABJSXGGYSAYGQQ/index.m3u8
 https://world-proxifier.xyz/daddylive/p/BIIAGZI4EEQSOKRAEBSQYYTTCMPBUEAHAZQA/index.m3u8
 #EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vtvplus-uruguay.png" group-title="24/7| URUGUAY",VTV+ Uruguay
 https://world-proxifier.xyz/daddylive/p/AUAQM3TSCETSKIRHFI6HSGYYCMDQSAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",11:00PM| PDRA Brian Olson World Finals (10/03/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/AMIQEBDSAYTTSJB4NMFDKQS5LUKGOX2CLQ3XKFRMHQSTSI3FPBQWKH25LVAVKU2ZLZLXG732MVRXCZY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",01:00AM| OVW Live #1364 (10/04/25) [TRILLER TV]
+https://world-proxifier.xyz/daddylive/p/DQBQOZI6FURTKZLRPJ3G6BISDEPBAZCCLE7TSNJXOIICG4DPPBVXI2IE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| PPV EVENTS",02:00AM| UFC BJJ 3: Musumeci vs. Carrasco (10/03/25) [EVENT PPV]
+https://world-proxifier.xyz/daddylive/p/AYJRGZIQBYPXA5TINMECYQSHLZIVGWIQIYQHW4AGGM3COMJWGESGK4Y3CJ3EEVK6IQIAGBIGMV4G45LBOVSA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",02:00AM| GCW: Josh Barnett's Bloodsport XV - London (10/03/25) [TRILLER TV]
+https://world-proxifier.xyz/daddylive/p/CQLAO73SBY5CGLLSBESCWX2XI5ABOQYQOI7TUPZBEE2DUIRROIJRG6I4CJ7VWXSUL5PHG732MUDDMPB4FE3TSZINI4JBSHQQAEAAO/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",09:00PM| The Kelly Clarkson Show Season 7 Episode 4 (10/03/25) [NBCNY USA]
 https://world-proxifier.xyz/daddylive/p/A46TKZIZEE4TYPDSBAUTQQ2ZIBNV4EDDLA6CE4AWG4SSMPZLOJ6GKHCBLNAFWVCVCACHG732MUOAMFQ6DRZB4FQYCEMBSFAHAYEQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/racing-logo.png" group-title="EVENTS| TV SHOWS",11:00PM| FanDuel Racing Live (10/03/25) [ALTITUDE SPORTS]
