@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 02, 2025 at 06:43 UTC
+    **Last Updated:** October 02, 2025 at 12:45 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 92.1% of streams are working  
+    **Overall Health:** 94.4% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 17 streams need attention  
+    **Issues Found:** 12 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 148 | 0 | 17 | 165 |
+    | Regular Channels | 153 | 0 | 12 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **199** | **0** | **17** | **216** |
+    | **TOTAL** | **204** | **0** | **12** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (17 channels)
+    ## ❌ Channels Still Having Issues (12 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -28,16 +28,11 @@
 • **CINEMAX MOREMAX** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
-• **ESPN 2** - No working fl server found  
+• **E ENTERTAINMENT TELEVISION** - No working fl server found  
 • **FS2** - No working fl server found  
-• **FXX** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
-• **National Geographic** - No working fl server found  
-• **National Geographic Wild** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **Showtime Women** - No working fl server found  
-• **Starz Comedy** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
