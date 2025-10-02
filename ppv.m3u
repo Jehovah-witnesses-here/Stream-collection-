@@ -1,6 +1,6 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-02 03:27:48 UTC
+# Last updated: 2025-10-02 04:18:43 UTC
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",07:00AM | 24/7 COWS | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
@@ -147,11 +147,6 @@ https://gg.poocloud.in/uel_celtic/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/epl_chelsea/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b7e87621b164190127998d6e715f3353-thumbnail.jpg" group-title="BASEBALL",03:00AM | Cincinnati Reds vs. Los Angeles Dodgers | 10/02/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/dodgers/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b9c2769f6bc02b89cd34e407c21f94ad-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | Dallas Cowboys vs. New York Jets | 10/05/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
