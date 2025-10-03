@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 03, 2025 at 12:54 UTC
+    **Last Updated:** October 03, 2025 at 18:37 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 91.7% of streams are working  
+    **Overall Health:** 94.0% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 18 streams need attention  
+    **Issues Found:** 13 streams need attention  
     
     ---
     
@@ -15,30 +15,25 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 147 | 0 | 18 | 165 |
+    | Regular Channels | 152 | 0 | 13 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **198** | **0** | **18** | **216** |
+    | **TOTAL** | **203** | **0** | **13** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (18 channels)
+    ## ❌ Channels Still Having Issues (13 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
     • **Antenna** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
+• **Discovery Science** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
-• **ESPN 2** - No working fl server found  
 • **FS2** - No working fl server found  
-• **FXX** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
-• **HBO Comedy** - No working fl server found  
-• **National Geographic** - No working fl server found  
-• **National Geographic Wild** - No working fl server found  
+• **HLN** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **Showtime Women** - No working fl server found  
-• **Starz Comedy** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
