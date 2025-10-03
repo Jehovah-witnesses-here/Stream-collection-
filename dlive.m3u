@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-10-03 16:18:52 UTC
+# Last updated: 2025-10-03 17:13:47 UTC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="24/7| AFRICA",Canal+ Sport 1 Afrique
 https://world-proxifier.xyz/daddylive/p/CA2D4JB6N52QGNJ5HEYXSAASOJJEEWKBIU3HK6TPOJYG2ZQ/index.m3u8
@@ -1448,6 +1448,26 @@ https://world-proxifier.xyz/daddylive/p/AQ6DYKJ5GN2QQEIABJSXGGYSAYGQQ/index.m3u8
 https://world-proxifier.xyz/daddylive/p/BIIAGZI4EEQSOKRAEBSQYYTTCMPBUEAHAZQA/index.m3u8
 #EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vtvplus-uruguay.png" group-title="24/7| URUGUAY",VTV+ Uruguay
 https://world-proxifier.xyz/daddylive/p/AUAQM3TSCETSKIRHFI6HSGYYCMDQSAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",11:30PM| 2025 NAPA Champions Night at Stafford Speedway (10/04/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/MFSWE4DSBIKAABDSBAWTQXCCLJNV4QYQPY5DEOBROISSC4AWEYVCGP26IBLRIY2AKVKTOIRRHRZG473QAM7CINZYKJNV2UYQDINBA23D/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",11:45PM| 2025 Lucas Oil Pittsburgher at Pittsburgh's Pennsylvania Motor Speedway (10/04/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/MFSWE4DSBAQDGJBBNMFDAXISMNOUIRCDKITCONZNG43HKMJROINSYLKFIFIUCQSXLALSA5IAEA6CUJRJFESCUKZQKAJH4W2EL5BBAABFGUQDMMZUFFSXQYLFD5OV2QKVKNMV4V3TP55GKY3UMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",12:30AM| 2025 MARS FALS Frenzy at Fairbury Speedway (10/05/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/MFSWE4DSBEKAEFTSBUCBKYQSOVDFKXSKJFZTIJDFCQSTYIRHE44TY6LCIJLFCVCHKFEXG732MUKCQORCEQYSEKZ6CEMBSFABAADA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",12:30AM| 2025 USAC Tony Hulman Classic at Terre Haute Action Track (10/05/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/MFSWE4DSCEDBCBTSD4VDOSASPNAVYXKRLZZRMPBEEE3TYM3FGM7WKDKUIBAVCEDYKFCSOMDQAQYTAPB7FNZB6NZYKJMRGHQ2CB3FYPBHGETDWKRSOBXXQ23UNEDA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",12:45AM| World of Outlaws Sprint Cars Williams Grove (10/05/25) [EVENT PPV]
+https://world-proxifier.xyz/daddylive/p/AQ5CEKJWMQ5DMZI5HYYTKUCFIAKGGQCCLE6SC4AGGM3CM4ASHMTSSMCQL5ABI52CL5DDM5L2N5ZACIZVFMTGWFIJM4JBSHQQAEAAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",01:00AM| Xtreme Outlaw Midgets Jacksonville (10/05/25) [EVENT PPV]
+https://world-proxifier.xyz/daddylive/p/BMQSEIB7EF2R6MBGE4SC4EL7LJIFOVKEINZR6MJGHE3TUPRTHMTSSPARDAMRI5KGKVPCO5IACUCGI732MVRXW7A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",02:00AM| IWS: Hell Awaits 2025 (10/04/25) [TRILLER TV]
+https://world-proxifier.xyz/daddylive/p/DIBAG73SBQYDYKLSBIZDQWCGIAKAEAACAVZX66TFAY3DYPBJG44WKDKHCIMR4EABAEAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",02:00AM| Wrestling Revolver: Tales from the Ring 2025 (10/04/25) [TRILLER TV]
+https://world-proxifier.xyz/daddylive/p/AQTTKNRGFA6D4ITSDEQC6XS6IVIUECQQMQZDSNJWOIRCOPZIOI7S2PARMBNFUVYQAIAGCYDQN54GIAJCFQ7COIBLCFTEKFA2DIIACZTE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",02:15AM| World of Outlaws late Models Humboldt (10/04/25) [EVENT PPV]
+https://world-proxifier.xyz/daddylive/p/AQ5CEKJWMQ5DMZI5HYYTKUCFIAKFYUKEKVZRQPZBG4UCM4ANE4TCONS5KZDRIGQ2CB2SKMB6GFZBIBIGMV4GCZLIAQAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",03:00AM| Power Slap 15: BORDEAUX vs QUINONES 3 (10/04/25) [EVENT PPV]
+https://world-proxifier.xyz/daddylive/p/AM5COIBAMQDDYJBCNN2GYCYSOF5WE5DVOEDA24BTEFSAIBIMDQCAWHDCCIABIGQ2CB2SKMB6GFZBIBIGMV4GCZLIAQAQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOW",04:00PM| The Starting Lineup Live (10/04/25) [NBA TV USA]
 https://world-proxifier.xyz/daddylive/p/A46TKZIBGA2CEMJ3EURHS7K3LVIUKQAQPQ5CGNLFPBXHKHQHCNVRCDYRM5QHKEA2DIIGOZLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOW",09:00PM| The Kelly Clarkson Show Season 7 Episode 5 (10/04/25) [NBCNY USA]
