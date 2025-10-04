@@ -1,13 +1,13 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-04 18:20:24 UTC
+# Last updated: 2025-10-04 19:10:57 UTC
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",07:00AM | 24/7 COWS | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family​​‌​​‌‌​​​​​​​‌‌‌‌​​​​​​​​‌​​​‌​‌​​​​​​​​​​​​​​‌‌‌‌‌‌‌​​‌‌‌‌‌‌‌‌​‌‌​​‌​​​​​‌‌‌‌‌​‌​‌​‌‌‌​‌‌‌​‌​‌‌​‌‌‌‌​‌​​​​​​‌​​​‌‌​​‌‌​‌​‌‌​​‌ Guy | 01/18/25
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family‌​​​‌​‌‌‌​‌​​​‌​‌​​‌‌​‌​​‌‌​‌​​​ Guy | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
@@ -152,21 +152,6 @@ https://gg.poocloud.in/ligue1_havre-ac/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/baltimoreravens/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7283c89f203ebf412220805bc248d13e-thumbnail.jpg" group-title="AMERICAN FOOTBALL",06:00PM | Illinois Fighting Illini vs. Purdue Boilermakers | 10/04/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/BTN/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/29fde65559d423cbc9caaf0c7c37518b-thumbnail.jpg" group-title="FOOTBALL",06:00PM | Inter vs. Cremonese | 10/04/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/seriea_inter/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cb95c119d66d430c8e25623d1c0be41f-thumbnail.jpg" group-title="AMERICAN FOOTBALL",06:00PM | Iowa State Cyclones vs. Cincinnati Bearcats | 10/04/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1f418fc3475ac1fda4a95d9cc91af170-thumbnail.jpg" group-title="BASKETBALL",02:00AM | Jerusalem B.C. at Nets | 10/05/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -187,11 +172,6 @@ https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/SECN/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/159f1c8f0bfbe4cee837394736aaad0c-thumbnail.jpg" group-title="AMERICAN FOOTBALL",06:00PM | Kentucky Wildcats vs. Georgia Bulldogs | 10/04/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/ABC/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6200da1fa4f60cbad3ce3b75f1ae9f66-thumbnail.jpg" group-title="FOOTBALL",08:45PM | LOSC vs. PSG | 10/05/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -387,11 +367,6 @@ https://gg.poocloud.in/ESPN2/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/losangeleschargers/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/641052455bfa9974eb7002a88aaefb76-thumbnail.jpg" group-title="AMERICAN FOOTBALL",06:00PM | Wisconsin Badgers vs. Michigan Wolverines | 10/04/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4014fcccceecbe8309ded235c2b8e863-thumbnail.jpg" group-title="FOOTBALL",03:00PM | Wolverhampton Wanderers vs. Brighton and Hove Albion | 10/05/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
