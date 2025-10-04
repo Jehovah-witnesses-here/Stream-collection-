@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-10-04 19:10:57 UTC
+# Last updated: 2025-10-04 20:15:36 UTC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="24/7| AFRICA",Canal+ Sport 1 Afrique
 https://world-proxifier.xyz/daddylive/p/CA2D4JB6N52QGNJ5HEYXSAASOJJEEWKBIU3HK6TPOJYG2ZQ/index.m3u8
@@ -3450,6 +3450,8 @@ https://world-proxifier.xyz/daddylive/p/AAQCAIBANEBDKKJGFY3S4VC3KROEIEAKCAADIPBE
 https://world-proxifier.xyz/daddylive/p/CEPBMBTSPRTXA73SAYWDUWKTKZMBAYCVIIQSY4BTEFSB6NJXG4TDY6LCIZLEIWCVLZBXG732MUDDMPB4FE3TSEIPCEMBSFAFAU/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| BOXING",12:00AM| BKFC 82 : Michael Perry vs Jeremy Stephens (10/06/25) [CANAL+ SPORT 5 POLAND]
 https://world-proxifier.xyz/daddylive/p/CEPBMBTSPRTXA73SAYWDUWKTKZMBAYCVIIQSY4BTEFSB6NJXG4TDY6LCIZLEIWCVLZBXG732MUISKOZRFF4WWFRJLZAEOFAFCBQF6PZUHYQXE3T7OBZGO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| BOXING",12:00AM| BKFC 82 : Michael Perry vs Jeremy Stephens (10/06/25) [BKFC FHD FEED]
+https://world-proxifier.xyz/daddylive/p/CEPBMBTSPRTXA73SAYWDUWKTKZMBAYCVIIQSY4BTEFSB6NJXG4TDY6LCIZLEIWCVLZBXG732MUIA6EYTMUKAGALZO5LVMUAQDINBAZTFMB3Q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mma-logo.png" group-title="EVENTS| MMA",02:00PM| RWS : Aguiar vs. Eduarda (10/05/25) [DAZN PPV]
 https://world-proxifier.xyz/daddylive/p/AEBAGZLIMQKDOMB3FI3XSR2BDUKHKVCFKEQTCMLFPBXHKFAEBACWKCLBMQJR4GQQAECWM/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mma-logo.png" group-title="EVENTS| MMA",02:30PM| ACA 193: Kerimov vs. Selimkhanov (10/05/25) [МАТЧ! БОЕЦ RUSSIA]
@@ -3466,12 +3468,16 @@ https://world-proxifier.xyz/daddylive/p/DQ7CIJBVFM5XA53CPFYHSCYSPBIUEWK5CALDWNZM
 https://world-proxifier.xyz/daddylive/p/DQ7CIJBVFM5XA53CPFYHSCYSPBIUEWK5CALDWNZMFAQT44BTEFVQCNS4LNOV2WYQPBCT4NZFG42SCJ3QN54GWFYUOIJGARC7IJCBAYLVCY3TGKRWGVSXQYLFNABQE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",12:00AM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/06/25) [UFC FIGHT PASS]
 https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXAABTHEUSAELCIFIVYWK5INZW64AIGMTSY4AGHIRCIKSCLVORIRSDCBUTEOZRMUASKOZEFIQWW33TCFTXK5YQOZMVOOZBOAKTGNZGOBXXQ235N4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",12:00AM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/06/25) [UFC FIGHT PASS II]
+https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXAABTHEUSAELCIFIVYWK5INZW64AIGMTSY4AGHIRCIKSCLVORIRSDCBUTEOZRMUASKOZEFIQWW33TCFTXK5YQOZMVOOZBOAKTGNZGOAGBW23POMIQOAYEAE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",12:00AM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/06/25) [FX USA]
 https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXAABTHEUSAELCIFIVYWK5INZW64AIGMTSY4AGHIRCIKSCLVORIRSDCBUTEOZRMUASKOZEFIQWW33TCF2GWFDFMNYRA6L7OB3GG4Y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",12:00AM| UFC 320 Early Prelims : Macy Chiasson vs Yana Santos (10/06/25) [ESPN DEPORTES]
 https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXAABTHEUSAELCIFIVYWK5INZW64AIGMTSY4AGHIRCIKSCLVORIRSDCBUTEOZRMUASKOZEFIQWW33TCF3WAZD6CB2FKIZ2EIYTON3VPJXXE6DSNQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",02:00AM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/05/25) [UFC FIGHT PASS]
 https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXAFJAFYUTAXCBCMHBA4KEKUYTI4ACGMYSCOJAEBVTGKQRPVEU4SIQORMTEL3QN54GIAAWAZZA2LB6LFDBGZCRINBRA6L7OB6WI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",02:00AM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/05/25) [UFC FIGHT PASS II]
+https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXAFJAFYUTAXCBCMHBA4KEKUYTI4ACGMYSCOJAEBVTGKQRPVEU4SIQORMTEL3QN54GIAAWAZZA2LB6LFDBGZCRINBRAGQ4OBXXQZDAMB2WG/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",02:00AM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/05/25) [TNT SPORTS 1 UK]
 https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXAFJAFYUTAXCBCMHBA4KEKUYTI4ACGMYSCOJAEBVTGKQRPVEU4SIQORMTEL3QN54GIAI6CFZBQNJWINDEAFABCBSXW437PJSWC5I/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",02:00AM| UFC 320 Prelims : Ateba Gautier vs Ozzy Diaz (10/05/25) [ESPNEWS]
@@ -3488,6 +3494,8 @@ https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXAFJAFYUTAXCBCMHBA4KEKUYTI4AC
 https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXAFJAFYUTAXCBCMHBA4KEKUYTI4ACGMYSCOJAEBVTGKQRPVEU4SIQORMTEL3QN54GIBY5AZZBQNJWINDBGBIQOZBFCPJWGVSXQ3TVMF2GW/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",04:00AM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/05/25) [UFC FIGHT PASS]
 https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXACBTEIVXS4STIFIBACQQPUZDEPZIG4QHKEJLHEVCSOCUIQJUEQYQOFODMLLQCU3TMMBZG4ZWW33TCFTXK5YQOZMVOOZBOAKTGNZGOBXXQ235N4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",04:00AM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/05/25) [UFC FIGHT PASS II]
+https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXACBTEIVXS4STIFIBACQQPUZDEPZIG4QHKEJLHEVCSOCUIQJUEQYQOFODMLLQCU3TMMBZG4ZWW33TCFTXK5YQOZMVOOZBOAKTGNZGOAGBW23POMIQOAYEAE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",04:00AM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/05/25) [TNT SPORTS 1 UK]
 https://world-proxifier.xyz/daddylive/p/AYJRGZLBOZSXACBTEIVXS4STIFIBACQQPUZDEPZIG4QHKEJLHEVCSOCUIQJUEQYQOFODMLLQCU3TMMBZG4ZWW33TCFTH2YAQMNAF6IJBENSWGZAADNSXQYLFNIAA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ufc-logo.png" group-title="EVENTS| UFC 320 - ANKALAEV VS PEREIRA",04:00AM| UFC 320 Main Card : Magomed Ankalaev vs Alex Pereira (10/05/25) [MATCH TV RUSSIA]
