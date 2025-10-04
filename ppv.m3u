@@ -1,13 +1,13 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-04 15:13:47 UTC
+# Last updated: 2025-10-04 16:17:41 UTC
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",07:00AM | 24/7 COWS | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family‌​‌‌​​​​​‌‌​‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​‌‌ Guy | 01/18/25
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family‌​​​‌​‌‌‌​‌​​​‌​‌​​‌‌​‌​​‌‌​‌​​​ Guy | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
@@ -237,11 +237,6 @@ https://gg.poocloud.in/ligue1_losc/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/indianapoliscolts/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/51ef1f581d86ca9319f8cdb737359b1c-thumbnail.jpg" group-title="FOOTBALL",03:00PM | Lazio vs. Torino | 10/04/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/seriea_lazio/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4d8bd2767961f5dc01b52df37e113d99-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Leverkusen vs. Union Berlin | 10/04/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -332,11 +327,6 @@ https://gg.poocloud.in/epl_newcastle/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/ligue1_ol/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/31a8b2a7ef74dd2ca24d703565e337a3-thumbnail.jpg" group-title="FOOTBALL",03:00PM | Parma vs. Lecce | 10/04/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/seriea_parma/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dec0da26083a46cfc1c523a406801e74-thumbnail.jpg" group-title="AMERICAN FOOTBALL",09:30PM | Penn State Nittany Lions vs. UCLA Bruins | 10/04/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -437,5 +427,3 @@ https://gg.poocloud.in/FOX/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/epl_wolves/index.m3u8
-#EXTINF:-1,Proxy failed. Status: All connection attempts failed
-https://ppv.to
