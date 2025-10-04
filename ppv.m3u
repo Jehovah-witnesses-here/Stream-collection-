@@ -1,3 +1,6 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-04 22:13:27 UTC
+# Last updated: 2025-10-04 23:14:08 UTC
+
+#EXTINF:-1,Proxy failed. Status: All connection attempts failed
+https://ppv.to
