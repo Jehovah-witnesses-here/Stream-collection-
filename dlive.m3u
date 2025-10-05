@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-10-05 03:04:58 UTC
+# Last updated: 2025-10-05 04:18:07 UTC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="24/7| AFRICA",Canal+ Sport 1 Afrique
 https://world-proxifier.xyz/daddylive/p/CA2D4JB6N52QGNJ5HEYXSAASOJJEEWKBIU3HK6TPOJYG2ZQ/index.m3u8
@@ -5858,6 +5858,34 @@ https://world-proxifier.xyz/daddylive/p/DILBGZIFFMTTYILSBAYCSELFLRMVKXQQBJZRYPRB
 https://world-proxifier.xyz/daddylive/p/AA6TKIZUFUYDYILSDAWTAVC6K4KAUEDDL4TCCODFCMYSMJBXGMTSYOARIRABIZSZKNCDYJZZEQ6GIFZFGY5DSJBXKZLUCRYQDINBAAB6FFSQCNB2EIYXE4TFC5VREGI6CACQSBQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| FIELD HOCKEY",12:30AM| College Field Hockey : Rutgers at Michigan (10/07/25) [BIG TEN NETWORK]
 https://world-proxifier.xyz/daddylive/p/CA5DYKJXEMYHAAZ3FYUT2EL2LRLVWVKJCBUXKARQEYRTAIRWOIVDC6L4LNIFYWKXKFPHG732MUIC2MTQCE3SKZIXKRDEIW2CLMIBU6LVMN6GK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",06:30AM| ATP - SHANGHAI : Goffin D. vs Diallo G. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHOX2WKY5DW4ABPRSCGI3FCYRCINK5LUJXGHQQDINHGAJVFM6C2JTQCYTDSIBYLQJBSHQQAECQA2Y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",06:30AM| ATP - SHANGHAI : Humbert U. vs Rune H. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHQRK5KI3COJDFA5VHKJRWOIMTAN2UCJ5RUEA2DIIAOMB6FM5TO5IDGEQC4JBUCEMBSFABAUAAO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",06:30AM| ATP - SHANGHAI : Cash R./Tracy J. vs Bopanna R./Rojer J. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHGUKDLBZQO7TKAY3DIMZ4OIAWW6KHIEJXMX2AKFPD2NDQC56GWBZ7F43TSZITD4JBSHQQMRKV4PJ4ENSQCMBHGUSD623POMIQGBQEBE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",06:30AM| ATP - SHANGHAI : Nys H./Roger-Vasselin E. vs Andreazzi G./Guinard M. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKH4SKDCANXW7YXHURTAITIAQVDMKSULZNFUEDVDYICKJTQAQ6CAJZVEQUDCLDZOYOBY42FLFPFCIJROAEHYZD7PJSQMLRLG5MECE3HIRBFKUJ6OV5G64TVMBQXK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",08:00AM| ATP - SHANGHAI : Cerundolo F. vs Bergs Z. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHGVKCIU6TCPZJHVSBG7TFEQ4GKG2UIBKEOEDKDYIHS73QCE3SUOZZGZZBQMJLKRJV4FA2DIIACZTFNA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",08:00AM| ATP - SHANGHAI : Fritz T. vs Mpetshi Perricard G. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHMQSZIQUXKBDLOIZCM4AIEIXDCKSZLMJWIVKCIJMTANBCEFZAG63QN54GWEJ4L5OFURYQMNCEENRUHVSXQ3TVMFYGE7A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",08:00AM| ATP - SHANGHAI : Doumbia S./Reboul F. vs Krawietz K./Puetz T. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHIX2FLUYTYMLFAFVHUARAGASDANIROQORIRSDCB5SCNBHFQ3TAL3QBZ6GIFJMKRDESFDEDYIBU6LVAQQDYKR4ENSQCPZXHRIF6EY6DIIACBLCMU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",08:00AM| ATP - SHANGHAI : Gonzalez S./Pel D. vs Moutet C./Muller A (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHOX26JIZDSNJ7OILXW7YVG4TWKHI7CJCUOED5L5CSOMBEMUIWU6Q5GA7COIBLCFZRGHQ2CBSFKPJ3HE3HEFZBEIQDGJTFOMNREAQBAAEQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",09:30AM| ATP - SHANGHAI : Nishioka Y. vs Munar J. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKH4WKDLA5DUOZEOIOXW4BTEFVQQLC7KNARI6Q6CANHS5IEEA6CUPBDMUAT6NZ4KBPRGHQ2CAAQKY3N/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",09:30AM| ATP - SHANGHAI : Khachanov K./Rublev A. vs Goransson A./Michelsen A. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHWWCRKM5TIPRKERSB47TKAA7CONKUIQJXKHQQIZBXGER7G4ZSUJRDFI6GWBDXDZ7VUV2YKVOEGNR3OACHYZD7PJSQMLRLG5MECE3HIRBFKUJ6OV5G64TVMBQHY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",09:30AM| ATP - SHANGHAI : Cerundolo F/Darderi L. vs TBD/TBD (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHGVKCIU6TCPZJHVSBG7YBGM4SCPCDLMJXQHQQIZBXGAISAF6RAFYUMV4GCZINKROF2XKDCBRUIIJQGEUHE3T7OB2GO6TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",11:00AM| ATP - SHANGHAI : Vacherot V. vs Machac T. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKGMUKTLA3COPZROIJHW4BTEFVQQOCSLJJFOEDEDYIHS73QCE3SUOZZGZZBQMJLKRJV4FA2DIIACZTFNA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",12:30PM| ATP - SHANGHAI : Hanfmann Y. vs Djokovic N. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHQUK6KY7DIPRLOIOXW4BTEFVQCM26LFOEEWKTCB7H25L2N5ZBAMB6FM5TQZIKIVAFMVK5CANBU43EMV2WK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - SHANGHAI",02:00PM| ATP - SHANGHAI : Griekspoor T. vs Sinner J. (10/06/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDBQBA4BQGRQ6ASBEKHOQSZKU4CMIBKHU3HKBDLOI6TM6LCLNOVUVKCCB5H25L2N5ZBAMB6FM5TQZIKIVAFMVK5CANBU43EMV2WK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - BEIJING",10:30AM| WTA - BEIJING : Kato M./Stollar E. vs Errani S./Paolini J. (10/06/25) [TENNIS STREAM]
 https://world-proxifier.xyz/daddylive/p/AQARCZL7MQLRKDAYAIFR4EIICN7VCRC7CAPHW7YWEYVTSPBEEBVQA5YRIRABI5KCIJIT2PDQCZ6GWBJRFI7CEKZQCF4B2FA2DIIGINR3HYWCCZAGEQ3TOKRIPENRQEYFAUAAC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - BEIJING",10:30AM| WTA - BEIJING : Kato M./Stollar E. vs Errani S./Paolini J. (10/06/25) [TENNIS STREAM]
