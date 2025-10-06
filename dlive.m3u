@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-10-06 19:12:57 UTC
+# Last updated: 2025-10-06 20:17:46 UTC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="24/7| AFRICA",Canal+ Sport 1 Afrique
 https://world-proxifier.xyz/daddylive/p/CA2D4JB6N52QGNJ5HEYXSAASOJJEEWKBIU3HK6TPOJYG2ZQ/index.m3u8
@@ -1912,7 +1912,539 @@ https://world-proxifier.xyz/daddylive/p/AMTTKKB3EETXAFJTF4QDKELWKJGRAAIQDJ4XKAZV
 https://world-proxifier.xyz/daddylive/p/AAYCELBXMQKGCZIFEQUDYXYSBEKHERKDIQ6HKEJXEEWS6OJKOIOGKL2CCJYFWXSVK5ODUNB6FJZBG5L2N5ZBSJBQCFQUGW2CIQIAC4Y4EQSD4PLVDAAXEYLPPEEQUAI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",08:30PM| Serie A1 Women : Monza W vs Bergamo W (10/07/25) [ZONA DAZN IT]
 https://world-proxifier.xyz/daddylive/p/AAYCELBXMQKGCZIFEQUDYXYSBEKH2X26JIZHKB3FEQ3XKERAEAWCINC6CJSBIGQ2CBVDYOZRMULAKDY6MUNR6ZLTDMJAWAYH/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",12:30AM| Athletes Unlimited Pro Volleyball Teams TBA E (10/08/25) [SPNU USA]
-https://world-proxifier.xyz/daddylive/p/CIQTQKJXGAYCGZIHEUUTAXC3I5IVIEDAII6HKBRKHYUDAKJHGMTSS6LFK5JFSQYQMRZBE5IVMV4G45IDCUOB4ZIMMJZRGHQ2CABQCZI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",12:30AM| Athletes Unlimited Pro Volleyball Teams TBA (10/08/25) [ESPNU USA]
+https://world-proxifier.xyz/daddylive/p/CIQTQKJXGAYCGZIHEUUTAXC3I5IVIEDAII6HKBRKHYUDAKJHGMTSS6LFK5JFSQYQMRZBE5L2N5ZACBQABMDWWEAKOAJBSHQQAMAQM/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",03:00AM| Athletes Unlimited Pro Volleyball Teams TBA (10/07/25) [ESPNU USA]
 https://world-proxifier.xyz/daddylive/p/CIQTQKJXGAYCGZIHEUUTAXC3I5IVIEDAII6HKBRKHYUDAKJHGMTSS6LFK5JFSQYQMRZBE5L2N5ZACBQABMDWWEAKOAJBSHQQAMAQM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:30PM| Divorce Court Season 27 Episode 22 (10/08/25) [MY9TV USA]
+https://world-proxifier.xyz/daddylive/p/C46CMKRAE4YHABR5HY3S2ELBKZKUGX26CBQWE4AAEIWSMPZBG5VXO2YRDAMRI7LJBFSAK5IFCYJWI732MVSH44I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",06:00PM| The Pat McAfee Show Live (10/08/25) [ESPN USA]
+https://world-proxifier.xyz/daddylive/p/A46TKZICEUQXACBRBIRTYVASMBOF6RYQPQ5CGNLFPBXHKFIWAICWKDDCOMJR4GQQAQCA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",08:00PM| Beyond the Gates Season 1 Episode 145 (10/08/25) [CBSNY USA]
+https://world-proxifier.xyz/daddylive/p/CEYCSKR4EB2SILJXNMBDQRKXIAKGGVKRIM6DW4DUOIASKOJWHUXSA6IAAYDBIGQ2CBZRCBQ6DRZBCBQRMV4GCZLOA4CQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",09:00PM| The Kelly Clarkson Show Season 7 Episode 7 (10/08/25) [NBCNY USA]
+https://world-proxifier.xyz/daddylive/p/A46TKZIZEE4TYPDSBAUTQQ2ZIBNV4EDDLA6CE4AWG4SSMPZLOJ6GKHCBLNAFWVCVCADXG732MUOAMFQ6DRZB4FQYCEMBSFAHAYEQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",09:00PM| General Hospital Season 63 Episode 19 (10/08/25) [ABC NY USA]
+https://world-proxifier.xyz/daddylive/p/CQYD4IBAEU4XADJ5HA2TARKTL4KGGVKRIM6DW4DTMFSBAIBMEESCCPARAMFBIGQ2CBYRCFTQBMFWIAADARZGC33ZAYCAK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",11:00PM| Bob's Burgers Season 9 Episode 5 • Live (10/08/25) [FXX USA]
+https://world-proxifier.xyz/daddylive/p/CE5DEYRBMQLSKNZVFY3SUELBKZKUGX26CBVHKFJVHM3TUNBAOJ7GLO5RSAJXQWKGKUIHS73QAMFBY5IFCYJWW33TCEAAUDA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",12:00AM| Homestead Rescue Season 13 Episode 4 (10/09/25) [DISCOVERY USA]
+https://world-proxifier.xyz/daddylive/p/DM5D2IBBGAYDCILSDEQCUUSHKYKGGVKRIM6DW4DUMFSBAIBMEESCCPARAYJR4GQQORMSANR7GM3TMLDQCAAQUZLTDMJAABID/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",01:00AM| Jeopardy! Season 42 Episode 22 (10/09/25) [ABC NY USA]
+https://world-proxifier.xyz/daddylive/p/DEYD6NJTGYYSSZDSDAQDQQS5LUKAIAQQOURTYIZKGYQXKYTXOJQW66LQOBYBI7TJCBSQAFDQN54GIYTGOM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",01:00AM| La isla desafío extremo Season 2 Episode 1 • Premiere (10/09/25) [NBC UNIVERSO]
+https://world-proxifier.xyz/daddylive/p/D42HALBBFA2HAIJXHASD74U7LQKFKSCEII3DQP3FAEQTIIZKHRVXO6LUIJNEOX2UKUIGE5NSYXYGIBJCEA7SEIBLKQJBSHQQPZZHG4YAHYWCIIJHEMVHEYLPPEEQMBQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",01:00AM| La isla desafío extremo Season 2 Episode 1 • Premiere (10/09/25) [TELEMUNDO USA]
+https://world-proxifier.xyz/daddylive/p/D42HALBBFA2HAIJXHASD74U7LQKFKSCEII3DQP3FAEQTIIZKHRVXO6LUIJNEOX2UKUIGE5NSYXYGIBJCEA7SEIBLKQJBSHQQMRKVYNRYEUVTMK3VAULBG23POMIQGAAF/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| The Voice Season 28 Episode 6 (10/08/25) [NBCNY USA]
+https://world-proxifier.xyz/daddylive/p/A46TKZIEFM6DGIDSDAQDQQS5LUKAECAQOURTYIZKGYQXKZTFPBQWKF3TOF6W2EDFMNYXG732MVSXE3A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| Dancing With the Stars Season 34 Episode 4 • Live (10/08/25) [ABC NY USA]
+https://world-proxifier.xyz/daddylive/p/C42D4JR3FIZHAER3H4WXSRK2KYKGGRCRIIQHKAZAGM3TUPTFMF7WKHCBLNAFWVCVCACHHN6Q45ZAQPBGEBZGC33ZOBYHAFD6NEIGKAAUOBXXQZDCMZZQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| Dancing With the Stars Season 34 Episode 4 • Live (10/08/25) [ABC USA]
+https://world-proxifier.xyz/daddylive/p/C42D4JR3FIZHAER3H4WXSRK2KYKGGRCRIIQHKAZAGM3TUPTFMF7WKHCBLNAFWVCVCACHHN6Q45ZAQPBGEBZGC33ZOBYHAFDFMNYRA6L7OBYGG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| Con esa misma mirada Season 1 Episode 7 (10/08/25) [UNIVISION USA]
+https://world-proxifier.xyz/daddylive/p/CA5D4ZJXG42HAKB3HAUDQEK7LJDFCVCRCAADAMJWHUVHKYLFC45SYKS6KZLBIBYQDINHGAB6FQSC2JRZFI6GWEAKOAJBSHQQAEBQE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| Murder in a Small Town Season 2 Episode 3 (10/08/25) [FOXNY USA]
+https://world-proxifier.xyz/daddylive/p/DYQCEIJXGZ2TSK3SFJSQUXCTL5MBAZC7I46XKAZAGM3TUPTFMBVQAKKYIFOFAVIQAMIHS73QAMORYGYJMUDRQBDZDMMBGAYGBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| 100 Day Dream Home Season 7 Episode 3 (10/08/25) [HGTV USA]
+https://world-proxifier.xyz/daddylive/p/MJSWAZIWEUWHAAJAFYSDIEL2LRMVKEDDKUZCMPZLOJZXKFJVHM4CUPKUCIABIGQ2CB4BIAIGMUDROFDQN54GW5TBAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| Bobby's Triple Threat Season 4 Episode 6 (10/08/25) [THE FOOD NETWORK]
+https://world-proxifier.xyz/daddylive/p/CE5DEJZLMMTHAEJAEI2TKVASM5OEEVKRIRZQMNJEEEVTW4DROIHDKMCCLVLVCEAGCANHS5IEFU3WIEZ7FI3GWCZ4IVCVYRS3CANBU43GNBYQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| The Real Housewives of Salt Lake City Season 6 Episode 4 (10/08/25) [BRAVO USA]
+https://world-proxifier.xyz/daddylive/p/A46TKZIAEE2DYZI2EQYCUVCFLJBFKQYQL42XKAZEHYYHKHBEHEXGKGSYIZFBIY2VKFBTYO3QONZACJJZGY6S6IDZAUJBSHQQOJBFCJJ2OAIACBLVPJXXE6DVN4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| Law & Order: Special Victims Unit Season 26 Episode 1 (10/08/25) [USA NETWORK]
+https://world-proxifier.xyz/daddylive/p/D42COZLUEU4CA7TSAQ3T2VCABEKGGQCVKM5DIPDFAQWTMJBMH44GKDC7LNDRIY2VKFBTYO3QO5SGIEBAFQQSIIJ4CEBRGHQ2CBSWGETVDYQCMMZ2EIXHEYLPPEBAMAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| Dark Side of the 90s Season 1 Episode 1 (10/08/25) [VICE TV USA]
+https://world-proxifier.xyz/daddylive/p/C42CELTSC46DIIDSEQRXSRK2KYKASACDCAADAMJWHUVHKYLFC45SYKS6KZLBIAIQDINHGAYZAYLWIAIGMUDRQBDZDMMBGAQFBE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| Homestead Rescue Season 13 Episode 3 (10/08/25) [DISCOVERY USA]
+https://world-proxifier.xyz/daddylive/p/DM5D2IBBGAYDCILSDEQCUUSHKYKGGVKRIM6DW4DUMFSBAIBMEESCCPARAEJR4GQQORMSANR7GM3TMLDQCAAQUZLTDMJAABID/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| United Fight Alliance New (10/08/25) [SPACE CITY HOME NETWORK]
+https://world-proxifier.xyz/daddylive/p/AY5TSMJXEB2RMLBVEMYXS4C6L5OVCXSTKVZRWNJSOJXH64AWEIVCMPAROFNEASIQPBPT4MDQBM3TAIR7G44WW33TCEFQCBI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| TV SHOWS",02:00AM| World Championship Kickboxing K-1 Dontaku (10/08/25) [NBCS CALIFORNIA]
+https://world-proxifier.xyz/daddylive/p/AQ5CEKJWMQLDQJB7HMWDMX2BLNOUAED3LEYD4MRKFIWTWN3FDFTHI6LVLVOUAUK3IUIHS73QBMIAOBTQAYZSOLB7LZAF2XKRCANBU43CMVYA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",02:30AM| The One Season 9 Episode 14 (10/08/25) [OUTDOOR CHANNEL]
+https://world-proxifier.xyz/daddylive/p/A46TKZI5FIYHAFRXFI3DMXYSBIKHKQCZIM6DCNLFMNYHK6TPOICDALKVLVOEMEDTLBIT2OZVFFZG473QPVTHG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| Baylen Out Loud Season 2 Episode 1 (10/08/25) [TLC USA]
+https://world-proxifier.xyz/daddylive/p/CE2CSKJXFJ2R6MBGNMETMRCWCNTVKUKDL46XKYTFC42DYIZKGYXGK2ARDAMRIZD4OMIAMBQRMV4G45LDOZSQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| Graveyard Carz New (10/08/25) [MOTOR TREND]
+https://world-proxifier.xyz/daddylive/p/CQTTCMZXHU2CEILSBASCWSYSPVIUOEA2DJZRQPZRHU3HKBBXG4SSC6I3DAJQEBQB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| A Body in the Basement Season 2 Episode 8 (10/08/25) [ID USA]
+https://world-proxifier.xyz/daddylive/p/CJ2REKRWHV2TSK3SH4WTYELQKJDVKXKVLYTXKAZAGM3TUPTFMBVQAKKYIFOFAVIQBAIHS73QBQLGIAADARZGC33ZAIAAO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/boxing-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| Fight Sports: World Class Championship Boxing (10/08/25) [SPACE CITY HOME NETWORK]
+https://world-proxifier.xyz/daddylive/p/CU6DOLJGMQDCAKRAH43GGELFLRDFYVAQOM7TIIZWOIDT2MJIEIRCUN2CLJNEIEDSL5EDUOZXMV4G45IDGUZSQIDZOJNUOTIQPBPV2NTVDYQCMMZ2EIXHEYLPPEEAAAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| Doc New Blood Season 2 Episode 3 (10/08/25) [FOXNY USA]
+https://world-proxifier.xyz/daddylive/p/C45DGZI4EERHABZ6EQVD2ELBKZKUGX26CBQXKFJVHM3TUNBAOJ4GK4Y3CJ2XW2D6NEIAMBQRMV4G45LHONVA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| Dinastía Casillas Season 1 Episode 1 • Premiere (10/08/25) [NBC UNIVERSO]
+https://world-proxifier.xyz/daddylive/p/C46D4JBBGCLP2JDSBASCUWC6L5KUGEDDKUZCMPZLOJ2XKFJVHM4CUPKUCIBBJUVQSIIAGJZVFA5SCJZVMV4GCZIXONYRGYK6LFDFKIJGH5SXQ3TVNBYWO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| Dinastía Casillas Season 1 Episode 1 • Premiere (10/08/25) [TELEMUNDO USA]
+https://world-proxifier.xyz/daddylive/p/C46D4JBBGCLP2JDSBASCUWC6L5KUGEDDKUZCMPZLOJ2XKFJVHM4CUPKUCIBBJUVQSIIAGJZVFA5SCJZVMV4GCZINKRPFMWKFLZKF64YAAMCHE3T7OB2GC6Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| Holmes on Homes: Building a Legacy Season 2 Episode 1 (10/08/25) [HGTV USA]
+https://world-proxifier.xyz/daddylive/p/DM5DYKBXG52T6K3SAMVDIVCBBEKHERKZLQ3TYPRCOISXKHBAGUVCMIARMFLFKQ27LYIGC5IVGU5TOORUEBZHUZLTDMJHW43EMYIGKAAUOBXXQZDGNB3Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| Alex vs. America Season 5 Episode 1 • Premiere (10/08/25) [THE FOOD NETWORK]
+https://world-proxifier.xyz/daddylive/p/CI4TKPLSGITH4ZITEYQCWWCRKIKGGVKRIM6DW4DQOIASKOJWHUXSA6IACLI3JEQQMBBDMOBZEAQCC5L2N5ZB6LJ4CF2FYW2UCB7FKJZCH43TSZD7PJSWC43R/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| The Lowdown Season 1 Episode 4 (10/08/25) [FX USA]
+https://world-proxifier.xyz/daddylive/p/A46TKZI6FMRDIKRFEVSQUVCTIBNV4EABCALCKOJWHUQDA4DROJQW66LXNIJWCY3RCANHS5LDORSQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| The UnXplained Special Presentation Season 2 Episode 1 (10/08/25) [HISTORY USA]
+https://world-proxifier.xyz/daddylive/p/A46TKZIHFIGSAKJTEIVTYVISMBCFKU2ZKE7XKABXG43TAPRRGM7SYNS7CJQFCUKDL5PHGZ3QAARC2JR7EE3WW5DZDMMBG7CZINCF6IJMOAIACBLVPJXXE6DXNM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",03:00AM| Top Guns: The Next Generation Season 1 Episode 4 (10/08/25) [NATIONAL GEOGRAPHIC (NGC)]
+https://world-proxifier.xyz/daddylive/p/A45CAZIVGE5SG73SD4WTYEL4KZGEIEDXKU6TAIREEYWTUPTFAEXCIKS6LQJQKEDVIBMSAORUEBZHA5L2N5ZAKJBNLBOV2VK4CB3VKPBSEISCELB4GNSXUBICDIMBEGI6CABQECA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",04:00AM| High Potential Season 2 Episode 4 (10/08/25) [ABC NY USA]
+https://world-proxifier.xyz/daddylive/p/DM6DOLLSCQ5CIIB4H4WDQXISMBIVCQ27LZZWO4AAEIWSMPZBG5VXC6I3DAJXK4TTCB7AU5IFCYJWI732MVSX24Y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",04:00AM| On Brand With Jimmy Fallon Season 1 Episode 3 (10/08/25) [NBCNY USA]
+https://world-proxifier.xyz/daddylive/p/DQ5XABZAEU5TIZIFEIYTCELYLJMV2SIQOYZDSPBKHRSAMNJEEESCW6IACJ3EIWKDL5KDM5LDMV4G45I6A4IQKHDZMRQXEFA2DIIAOZLM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",04:00AM| House Hunters International Season 201 Episode 2 (10/08/25) [HGTV USA]
+https://world-proxifier.xyz/daddylive/p/DM5CKNRXMQOSKKZGFY3SUEL3LVAFKQS6KETTYPZLGMUHKAZAGM4CUNYRAABQKEDVIBMSAORUEBZHM5L2N5ZAGAQNM4JGMZ3RCANBU43GNB3Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",04:00AM| Hustlers Gamblers Crooks Season 2 Episode 3 (10/08/25) [DISCOVERY USA]
+https://world-proxifier.xyz/daddylive/p/DMQCGMJ6EETSGZIVFIUDWXKXIFDRA42CL46D4I3FAEQTIIZKHRVXO6LUIJNEOX2UKUIGA5L2N5ZAAPBDEY6T2IBLJAJGMZ3RCANBU43GMF3A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",04:00AM| The Tech Bro Murders Season 1 Episode 5 (10/08/25) [ID USA]
+https://world-proxifier.xyz/daddylive/p/A46TKZIGEE3DQZIQHEVHS7CHIFIFKQSDCAADAMJWHUVHKYLFC45SYKS6KZLBIBIQDINHGHAUMUDROFDQN54GW5TLAU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",05:30AM| Jimmy Kimmel Live! Season 24 Episode 19 (10/08/25) [ABC NY USA]
+https://world-proxifier.xyz/daddylive/p/DE6D2KBLMQPDSKB7FYUXS7K3IVIRCEDDKUZCMPZLOJ3GC4AAEIRDMNSVK4JQKCIQDINHGFASAZZAUDDQCAAQUZLTDMJAIAQG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Salford City vs Stockport County (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKAZEHYRDUIRBOIECYLKICJCUOEDDIRPTAPRAFIQDA5ITFITSKMJACEMBSFDDLNERAABFH43SMN36OBXXQ23QNQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Cambridge United vs Luton Town (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKEZEH4TCOOJBGUXGKDC7LNDVCVAQIZBXGGJFGE6SU5IEFISSKZLTDMJGAX2JCBRUAPBHEQ3HSZD7PJSWO4Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Wycombe Wanderers vs Fulham U21 (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKBZ4GEVTQMRAOIOCIN2VK5AVCQSDCBDCA5IWGA7CYNB5MUDXS5DZDMMBGZ23JEIGGIZ2EIYSC33VPJXXE7L5/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Leyton Orient vs Crawley Town (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKHBAFMYDUPTFDU4SYPC7IYJUEQYQONBDEIR4EAVWIAJ7GI6GW33TCFQVQTIQMNAF6IJBENXHE3T7OBZWW/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Stevenage vs Bromley (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKAZRG4ZDAPREGUXGKL2CCJYUMX25LRKSU5L2N5ZBOPRJMUATWKRLIVARQFA2DIIAOZI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Reading vs Milton Keynes Dons (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKARAGMQDYPRCOI6TM6L4LNPUAX26CB5TMLB6EAQWIEJ7FMQWW33TCFQVQTIQMNAF6IJBENXHE3T7OBZGK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Walsall vs Northampton Town (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKBZEHY3TIPBJOI6TM6L7LVAUAWCRLVACOOR6MUDCWIR6MV4GCZIKLJFRGZ2AL5BEIID6OBXXQZDNMY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Cheltenham Town vs Bristol Rovers (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKEZNG4UCCNJLHIVCQ6LFLVCFUECGIMIBCJZZGYTCWOLQC46T2IBLIIJBSHQQMNNUS4YGEAVCAMBGPNSXQYLFNAAQO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Chesterfield vs Burton Albion (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKEZNG43SCNJXGQRCANKVCJCUOEDSIVBCOOR6MUJSQNZZFI6GW33TCFQVQTIQMNAF6IJBENXHE3T7OB2GE7I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Fleetwood Town vs Leeds United U21 (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKFRJG4QSCJZKHUXWKDK6IVORIRSDCB6DMMBUGZZBCOZZGE3S6ZIMAMBRGHQ2CBRVWKTVAM2T2NRBENXHEYLPPEAAEBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Rotherham United vs Oldham Athletic (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKARKEYWDAIRNGMTGKDC7LNDVCVAQIZBXGGR4EE5CKODQAQTCGKJ4IVNVAFA2DIIGGOBMOALCEKZHEQ3HS23POMIQGAYM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Grimsby Town vs Doncaster Rovers (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKFZXHMUSMMR4OIPSULS7CJCUOEDUL5PDANBDGE3TM5ICFISC4NZKCEMBSFDDLNERAABFH43SMN36OBXXQ23UNEEA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:00PM| England - EFL Trophy : Wigan Athletic vs Wolves U21 (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKBZMGUSTW4AEEYRSSPCFLNIBIRSDCBTTYOJGEAQWIADCORZGC33ZMJMUUFDDIBPUEJZGPNSXQ3TVMF2GE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:30PM| England - EFL Trophy : Barrow vs Tranmere Rovers (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKEREEA3DUJ3FEQ4GKDKDKNOVSVKCKUIACORGEAQDO5L2N5ZBQLRACFQUGW2CIRBRW437PJSWG4LE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:45PM| England - EFL Trophy : Accrington Stanley vs Port Vale (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKEJGGE3DYPRCEYSCW6LCIZJFUXCVJEICKJTQCU6TMILQCMZSOIDZDMMBGZ23JEIGGIZ2EIYSC33VPJXXE6TQNM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:45PM| England - EFL Trophy : Cardiff City vs Newport County (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKEZEEAQDYNRDOIECYLKICJCUOED6KVDSGORCGFZAOORFFMTDEZLTDMJGAX2JCBRUAPBHEQ3HSZD7PJSWG7TW/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",08:45PM| England - EFL Trophy : Colchester United vs Gillingham (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/CY5TOKJTFIYXA2DSBYBRKELGIFNUAWCJCBUXKEZKHYTT2NJWEYXDO6LELRNEAVKUCBDCA5IXFQ7CQPB6EI5CUKDZDMMBGZ23JEIGGIZ2EIYSC33VPJXXE6TQNU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",06:45PM| Netherlands - Eredivisie Women : Utrecht vs Feyenoord (10/08/25) [ESPN 1 NL]
+https://world-proxifier.xyz/daddylive/p/DUYCILJXGY4TCKZWHBSXIELXIFIVIWKGLEQDYNLFAUVTQNJLOJYWKDCFIBLFOWCECBDCA5IWEAVSCOZ7FIQC6ZLTDMJHMZ3APYIAC4Y3DRSXQ3TVMNZGW/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",06:45PM| Europe - UEFA Women's Champions League : Juventus vs SL Benfica (10/08/25) [BTV 1 PORTUGAL]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCB5CMIZVFMTDCJTQGMQWWFQVCFYFMWSWLFJVC437PJSRAEADOB2HEGZKFNCUOVCVLQIBUGTTMZUHK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",06:45PM| Europe - UEFA Women's Champions League : Juventus vs SL Benfica (10/08/25) [RTP 1 PORTUGAL]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCB5CMIZVFMTDCJTQGMQWWFQVCFYFMWSWLFJVC437PJSQAEAFOB2HEGZKFNCUOVCVLQIBUGTTMJQXY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",06:45PM| Europe - UEFA Women's Champions League : Juventus vs SL Benfica (10/08/25) [TVC DEPORTES MEXICO]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCB5CMIZVFMTDCJTQGMQWWFQVCFYFMWSWLFJVC437PJSQMEQWOAATOOZKFNCVOQAUPVKUQWJQHJYG66DENRRXO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",06:45PM| Europe - UEFA Women's Champions League : Juventus vs SL Benfica (10/08/25) [BEIN SPORTS MENA ENGLISH 1]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCB5CMIZVFMTDCJTQGMQWWFQVCFYFMWSWLFJVC437PJSTAII4DZSQCOZKFNCUCE3ZOV7HCEAWHM3SSOZXHVYHI4TBN54QOAY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",07:00PM| Romania - Liga II : ASA Târgu Mureş vs Gloria Bistriţa (10/08/25) [DIGI SPORT 1 ROMANIA]
+https://world-proxifier.xyz/daddylive/p/AE5D2JB4FU2HA2DSA4WD4UASPJ6RACQQOEABI4ARSHTCONZQOIDDAK2U66WBIRSDCB3T6ORCFQZWIFZZGYTDSLE4SJJRGHQ2CB2FSNB4OALCEKZHERSWG2YXGZOFGXK5KEIBUGTTMFQHK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",07:00PM| Romania - Liga II : ASA Târgu Mureş vs Gloria Bistriţa (10/08/25) [PRIMA SPORT 1 ROMANIA]
+https://world-proxifier.xyz/daddylive/p/AE5D2JB4FU2HA2DSA4WD4UASPJ6RACQQOEABI4ARSHTCONZQOIDDAK2U66WBIRSDCB3T6ORCFQZWIFZZGYTDSLE4SJJRGHQ2CBQEEORYGFSQCNB2EIYXE6TFBNPF6US2LFIRAGTZOVSX2YI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",07:30PM| France - National 1 : Versailles vs Villefranche (10/08/25) [BFM LYON]
+https://world-proxifier.xyz/daddylive/p/CUTTCKZREF2X2ZI4FIYTAXS4KJMBAAIQBJZQGNJXEESTYPBJG44GKL2CCJSV2XC4KVLCCNB6EY5CC5L2N5ZASAYUCF7EUW26CANBU43EMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",09:00PM| Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (10/08/25) [CBS SPORTS NETWORK USA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCBYSCJRVFMZSQ5JGGZZAIKJALRBFURKFKUIHYKR2HYVTGLJGOBXXQ2YGDNRBEYCEL5BEIQ3TDM2TCJJLE45WKBYYAR4RWGATA4AAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",09:00PM| Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (10/08/25) [L'EQUIPE FRANCE]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCBYSCJRVFMZSQ5JGGZZAIKJALRBFURKFKUIHYKR2HYVTGLJGOBXXQ2YJPZ2EGRS5IBKRA5RBGQ7CMN3EP55GKZD7OA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",09:00PM| Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (10/08/25) [ČT SPORT CZ]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCBYSCJRVFMZSQ5JGGZZAIKJALRBFURKFKUIHYKR2HYVTGLJGOBXXQ24B2VSREYCEL5BEIEAQB5YG66DEMRQHMYI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",09:00PM| Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (10/08/25) [BEIN SPORTS MALAYSIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCBYSCJRVFMZSQ5JGGZZAIKJALRBFURKFKUIHYKR2HYVTGLJGOBXXQ2ZHHR4HYE3HIBPUERBAOUOSIPRFFQRSYM3LN5ZRCBICAY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",09:00PM| Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (10/08/25) [BEIN SPORTS MENA 4]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCBYSCJRVFMZSQ5JGGZZAIKJALRBFURKFKUIHYKR2HYVTGLJGOBXXQ2ZHHR4HYE3HIBPUERBAOUOQAHAFOVSGK6DBMVQAK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",09:00PM| Europe - UEFA Women's Champions League : Arsenal vs Olympique Lyonnais (10/08/25) [BEIN SPORTS MENA ENGLISH 1]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCBYSCJRVFMZSQ5JGGZZAIKJALRBFURKFKUIHYKR2HYVTGLJGOBXXQ2ZHHR4HYE3HIBPUERBAOUOQAHAFOUKSWNJHFQVFSEQCCQNBUEAGMI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",09:00PM| Europe - UEFA Women's Champions League : Paris vs OH Leuven (10/08/25) [BEIN SPORTS 2 MALAYSIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCBQDEJZZGZZDEJTQBINGWCJ4IRCFMWQQDINBAMJQDEFXEFZFH43SMODFNMIX6USYKFEUGWJSOV5G64TTMRRQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",09:00PM| Europe - UEFA Women's Champions League : Paris vs OH Leuven (10/08/25) [BEIN SPORTS MENA XTRA 1]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCBQDEJZZGZZDEJTQBINGWCJ4IRCFMWQQDINBAMJQDEFXEFZFH43SMODFCR2HY4QUNBCEEULTMRYG66DEMRQHK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",09:00PM| Europe - UEFA Women's Champions League : Barcelona vs Bayern (10/08/25) [BEIN SPORTS MENA ENGLISH 2]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRCEF2X2ZIHBYBRQELFLRMVKXQXINZRMOBEH42DYPZLEFVQSPCQKVDFCEAKCBZDEJZTEA7CWOZRMUSDQZI3KBFVMRS6CANBU4ZXGUGBYZAGEAVCAPZWPF6HO7LVCB2V4VZ7HQRS24TWOV5G64TSOU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",09:30PM| FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (10/08/25) [FOX SPORTS 2 USA]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZQAOZXGMWTWNLFA54XK6KHIEJWOQCRLFPHGADCOVZG473QAM6TGZIKIFOUCQCDCABBABQGCFSXQ3TVM5YGU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",09:30PM| FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (10/08/25) [NBC UNIVERSO USA]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZQAOZXGMWTWNLFA54XK6KHIEJWOQCRLFPHGADCOVZG473QBMIAQZIMP55WK4LCMN7RABQGCFSXQ3TVNBYWO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",09:30PM| FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (10/08/25) [TSN5]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZQAOZXGMWTWNLFA54XK6KHIEJWOQCRLFPHGADCOVZG473QCEAQK4DZDMMBGBIBAU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",09:30PM| FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (10/08/25) [MATCH TV RUSSIA]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZQAOZXGMWTWNLFA54XK6KHIEJWOQCRLFPHGADCOVZG473QBAZT6JRRCFTGKFDCIVBUGORUOBXXQZDEMJZA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",09:30PM| FIFA U-20 World Cup : Ukraine U20 vs Spain U20 (10/08/25) [MATCH! FOOTBALL 1 RUSSIA]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZQAOZXGMWTWNLFA54XK6KHIEJWOQCRLFPHGADCOVZG473QBAZT6JRRCAJHKW27IRJFCPZZOB2HEFRAEM3DWKTFOMNREAQHAY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",01:00AM| FIFA U-20 World Cup : Chile U20 vs Mexico U20 (10/09/25) [FOX SPORTS 2 USA]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZRMOBMHYQXKBLXMJVTGKQRP5LEYWKTL4IAMZ3AMV4G45IWFIVGWFRJLZAEORYQAIIGKAAUOBXXQZDCMV6Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",01:00AM| FIFA U-20 World Cup : Chile U20 vs Mexico U20 (10/09/25) [TSN3]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZRMOBMHYQXKBLXMJVTGKQRP5LEYWKTL4IAMZ3AMV4G45IECYOHQZLTDMJAEBID/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",01:00AM| FIFA U-20 World Cup : Chile U20 vs Mexico U20 (10/09/25) [TSN5]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZRMOBMHYQXKBLXMJVTGKQRP5LEYWKTL4IAMZ3AMV4G45IECYOH4ZLTDMJAEBIF/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",01:00AM| FIFA U-20 World Cup : Chile U20 vs Mexico U20 (10/09/25) [MATCH TV RUSSIA]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZRMOBMHYQXKBLXMJVTGKQRP5LEYWKTL4IAMZ3AMV4G45I5EQTCQLLZMVSBGZSFINBVSMTVPJXXE5LHM4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",01:00AM| FIFA U-20 World Cup : Chile U20 vs Mexico U20 (10/09/25) [MATCH! FOOTBALL 1 RUSSIA]
+https://world-proxifier.xyz/daddylive/p/CUOBMBDSCF4GE5LSDQVCWXKWCN3UKQAQBJZRMOBMHYQXKBLXMJVTGKQRP5LEYWKTL4IAMZ3AMV4G45I5EQTCQLLYCF2FYW2EKJIVYP3VMFSQAMJGEMWDG23POMIQGAAC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",01:00AM| United States - NCAA Men's Soccer : Georgetown vs Denver (10/09/25) [ESPNU USA]
+https://world-proxifier.xyz/daddylive/p/AY5TSMJXEB2QGMJTH4QCUEI7CN5HG4LRCAPDAPTCEFSAMPZGGEXDO6ILCJ2FCX2CK5KSOORHFNZDEJTQAE3SKMZ4IMJBSHQQOVRWAHIAOAIACBLVPJXXE6DUN4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",01:00AM| United States - NCAA Men's Soccer : Harvard vs Vermont (10/09/25) [NESN USA]
+https://world-proxifier.xyz/daddylive/p/AY5TSMJXEB2QGMJTH4QCUEI7CN5HG4LRCAPDAPTCEFSAMPZGGEXDO6ILCJ5VKQSGKFBDO5JGGZZBEMBCFA6SKMLZDMMBG6TVMN7BABQGCFSXQ3TVM5ZWA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",02:30AM| Colombia - Primera A : Millonarios vs América de Cali (10/08/25) [WIN+ FUTBOL COLOMBIA]
+https://world-proxifier.xyz/daddylive/p/CA5DYKR7EY6DCZL7NMKSWWC7KZDFCEDRCBUXKHJMHYUDUPREEARCUKQRIRABI4K56OMSCPBTERZCAMDQAYZSOLDZDMMBGY2ZLYNRAFJAEQTT2KDVCMVD4JBIHNMFGEY6DIIAGCLB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",02:30AM| Brazil Brasileirão Série B : Botafogo-SP vs Paysandu SC (10/08/25) [ESPN BRAZIL]
+https://world-proxifier.xyz/daddylive/p/CETTCPZ3FB2RENZTHAWDKVC3IH3ZGXYQMOIPYIRMG5SBO4D7OIESULKQKROFGXY5MNQHGIZDMUBCKLBDEQ6C6MDZMJYRGHQ2CB2WGAY3OADSAJJPHEUXEYLPPEEQG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="EVENTS| CRICKET",11:30AM| ICC World Cup Women : Bangladesh W vs England W (10/08/25) [WILLOW CRICKET]
+https://world-proxifier.xyz/daddylive/p/DILBGZIFFMTTYILSBAYCSELFLRMVKXQQBJZROMJLGUUDINBAEERWKDQRIRABI5K6K5ODEOZUMUCWI732MUCSEKJVLZCRG52CLFJVWNRBOBXXQZDGMRZQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="EVENTS| CRICKET",11:30AM| ICC World Cup Women : Bangladesh W vs England W (10/08/25) [SKY SPORTS CRICKET]
+https://world-proxifier.xyz/daddylive/p/DILBGZIFFMTTYILSBAYCSELFLRMVKXQQBJZROMJLGUUDINBAEERWKDQRIRABI5K6K5ODEOZUMUCWI732MUASAPDZMJBFYRSEIMIHGIJ4GMXDOMDVPJXXE7LQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="EVENTS| CRICKET",11:30AM| ICC World Cup Women : Bangladesh W vs England W (10/08/25) [ASTRO CRICKET]
+https://world-proxifier.xyz/daddylive/p/DILBGZIFFMTTYILSBAYCSELFLRMVKXQQBJZROMJLGUUDINBAEERWKDQRIRABI5K6K5ODEOZUMUCWI732MUJTQMJLLYJHARSZKNNVKJ3VPJXXE53CMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="EVENTS| CRICKET",11:30AM| ICC World Cup Women : Bangladesh W vs England W (10/08/25) [SKY SPORTS MAIN EVENT]
+https://world-proxifier.xyz/daddylive/p/DILBGZIFFMTTYILSBAYCSELFLRMVKXQQBJZROMJLGUUDINBAEERWKDQRIRABI5K6K5ODEOZUMUCWI732MUASAPDZMJBFYRSEIMIH2MR4HZSROMRQHYYXEYLPPEBAU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="EVENTS| CRICKET",11:30AM| ICC World Cup Women : Bangladesh W vs England W (10/08/25) [SKY SPORT 1 NZ]
+https://world-proxifier.xyz/daddylive/p/DILBGZIFFMTTYILSBAYCSELFLRMVKXQQBJZROMJLGUUDINBAEERWKDQRIRABI5K6K5ODEOZUMUCWI732MUASAPDZMJBFYRSECAARAHIPOBXXQZDANB6Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="EVENTS| CRICKET",01:00AM| National League Women : Victorian Spirit W vs Tasmanian Roar W (10/09/25) [SKY SPORT 4 NZ]
+https://world-proxifier.xyz/daddylive/p/DU2CILB5FI2DYZI6FYSD4RCXCNRV6XKVLZZW64ATHMTSCPZXHMVCW6LCIJNEMWKECBTXGIZDMUDCKJR5EQ6CEJBXCFQFYVKCCBTRA6L7OALDSPLVAM2T2OJRPECRE7LOCANBUEDGNRQQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [TENNIS CHANNEL]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IEEA6CKLBKCFYVWVK6LZKVY437PJSWM5A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IDFYVWWFRJLZAEORY3CANBU43GMY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [BEIN SPORTS 2 FRANCE]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45JSEANQKZIKIFOUCQCDCABBAFJHGEVTCILVPJXXE6TUNY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [SKY SPORTS TENNIS UK]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IDFYVWWFRJLZAEORYQMRKV4PJ4ENSQOD3VPJXXE73T/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [SKY SPORTS TENNIS DE]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IDFYVWWFRJLZAEORYQMRKV4PJ4ENSRMALVPJXXE435NU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [SKY SPORT TENNIS ITALY]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IDFYVWWFRJLZAEOFDEKVPF4ORGOAGCMJJZFFSXQYLFNQDAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [TV4 TENNIS]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IECNTGWEJ4L5OFURYQDINBAZDFME/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [ARENA TENNIS]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IRG43SKJDZMVLV2WSZIMIBU6LVMZ2GA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [SPORT KLUB 2 CROATIA]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IDGU6TSMLZPJPEMVQQAIIHGIJ2GEYTWJLVPJXXE6TVNM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [MAX SPORT 1 BULGARIA]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45I5AQFGWFRJLZAEOFABCBZEKPZSGE3TWJLVPJXXE73SNM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [ZIGGO SPORT 3 NL]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IKFQ2SYKTZMJBFYRSECABRAHIZOBXXQZDMMF6A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [ZIGGO SPORT 1 NL]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IKFQ2SYKTZMJBFYRSECAARAHIZOBXXQZDGNF3A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [BEIN SPORTS AUSTRALIA 1]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45JSEANQKZIKMF6WCYDDCBYUKIBBEISD4LJUOB2HEYLPPECQWAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [BEIN SPORTS AUSTRALIA 2]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45JSEANQKZIKMF6WCYDDCBYUKIBBEISD4LJUOB3XEYLPPECQWAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [ZIGGO SPORT 4 NL]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IKFQ2SYKTZMJBFYRSECACBAHIZOBXXQZDGNFZQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [SPORT KLUB HD CROATIA]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45IDGU6TSMLZPJPEMVQQPB2BAEBHH4SCMLJUOBXXQ23RNQBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",02:30PM| Shanghai-ATP Round of 16; Wuhan-WTA 1st Round (10/08/25) [BEIN SPORTS 2 MALAYSIA]
+https://world-proxifier.xyz/daddylive/p/AA6TCKZVFQ2DS2ATD4KXSY25IZNFIEC7KZZWIZT6OIJSAOBEHRTBEDLQCIBEORAQMJPSMOZUMV4G45JSEANQKZIKIFOUCQCDCABBAHRUHQSCWNZ4GFSXQYLFNYAAC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mma-logo.png" group-title="EVENTS| MMA",02:00AM| Dana White Contender Series Week 9 (DWCS) : Lucas Caldas vs Magomed Zayunokov (10/08/25) [PPV FEED]
+https://world-proxifier.xyz/daddylive/p/C42D4JDSCM6TSMJXNMDDMX2GKZNFIVKCCAADAIRMG43XKBZAG4QGKYARDJ3WG43DDEIGS5I4GAYSKJTQAYZSOIJYIIJEKRYQPVIVOPBYGUQXEHRUFEYDYJBOGZDREGI6CBQGAZTTCM2SANTEP55GKZY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mma-logo.png" group-title="EVENTS| MMA",02:00AM| Dana White Contender Series Week 9 (DWCS) : Lucas Caldas vs Magomed Zayunokov (10/08/25) [TSN2]
+https://world-proxifier.xyz/daddylive/p/C42D4JDSCM6TSMJXNMDDMX2GKZNFIVKCCAADAIRMG43XKBZAG4QGKYARDJ3WG43DDEIGS5I4GAYSKJTQAYZSOIJYIIJEKRYQPVIVOPBYGUQXEHRUFEYDYJBOGZDREGI6CBSGG7TBOV5G64TVMRRA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mma-logo.png" group-title="EVENTS| MMA",02:00AM| Dana White Contender Series Week 9 (DWCS) : Lucas Caldas vs Magomed Zayunokov (10/08/25) [RMC SPORT 1 FRANCE]
+https://world-proxifier.xyz/daddylive/p/C42D4JDSCM6TSMJXNMDDMX2GKZNFIVKCCAADAIRMG43XKBZAG4QGKYARDJ3WG43DDEIGS5I4GAYSKJTQAYZSOIJYIIJEKRYQPVIVOPBYGUQXEHRUFEYDYJBOGZDREGI6CBRH243TAYQCUIBQOVQWKFBZEQ3VEVYTDYNBAAIBNI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mma-logo.png" group-title="EVENTS| MMA",02:00AM| Dana White Contender Series Week 9 (DWCS) : Lucas Caldas vs Magomed Zayunokov (10/08/25) [SPORTSNET 360]
+https://world-proxifier.xyz/daddylive/p/C42D4JDSCM6TSMJXNMDDMX2GKZNFIVKCCAADAIRMG43XKBZAG4QGKYARDJ3WG43DDEIGS5I4GAYSKJTQAYZSOIJYIIJEKRYQPVIVOPBYGUQXEHRUFEYDYJBOGZDREGI6CBRUAXZBEERSWNZQOVRXGYTLN5ZRCBQDBU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (AEW/NXT)",02:00AM| WWE NXT (10/08/25) [CW USA]
+https://world-proxifier.xyz/daddylive/p/AQBBKZI4DQAXA33YNMDA4ELHMB2RAGQ2CBQGKYA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (AEW/NXT)",02:00AM| WWE NXT (10/08/25) [CW PIX 11 USA]
+https://world-proxifier.xyz/daddylive/p/AQBBKZI4DQAXA33YNMDA4ELCPJWBAAIBCADAMELFPBXHKYT5MI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (AEW/NXT)",02:00AM| WWE NXT (10/08/25) [SUPERSPORT VARIETY 3]
+https://world-proxifier.xyz/daddylive/p/AQBBKZI4DQAXA33YNMLCYQKXIFTUAX2CIRZQGMJXHMQSCKLFMFVW64YRAYBAY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (AEW/NXT)",02:00AM| WWE NXT (10/08/25) [SUPERSPORT GRANDSTAND]
+https://world-proxifier.xyz/daddylive/p/AQBBKZI4DQAXA33YNMLCYQKXIFTUAX2CIRZREIREHQQCMJBEHQXWK4Y3CIDQKAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (AEW/NXT)",02:00AM| All Elite Wrestling (AEW) : Dynamite LIVE (10/08/25) [TBS USA]
+https://world-proxifier.xyz/daddylive/p/CI4TYZIXFA6CIIDSDQ3TYQSGL5OV4VYQDAJBAB3MOJ7HKFB4HQVCQMCFK4JXQ6LGOUIHS73QCEIBO5IFCYJWW33TCEAQAAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/golf-logo.png" group-title="EVENTS| GOLF",11:30PM| College Golf 2025 NB3 Collegiate Match Play Day 1 (10/08/25) [GOLF CHANNEL USA]
+https://world-proxifier.xyz/daddylive/p/CA5DYKJXEMYHAAR5E4RXSAYCAEARA7TSANZRMPZJHYQTEOJEEYXGKFCQIZIFYEDALRISU5IUEQVWIZDQN54GWAQWPV2BG52YKFPF4NRZOAIACBLVPJXXE6DUME/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",08:00AM| Xi'an Grand Prix | Round 1 (10/08/25) [TNT SPORTS 1 UK]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFAYCRC6LCIJOEMRCDCAAXGAA3MV4G45LDOQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",08:00AM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 POLAND]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIAGOR4EQ6CA5L2N5ZH44Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",08:00AM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 SPAIN]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIAAJJRFQ6GI732MVTXS4I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",08:00AM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 FRANCE]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIBKJZRFMYSC5L2N5ZHY4TL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",08:00AM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 SE]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONSCIJOEMRAQAEIAAEDQN54GIZ3DOQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",08:00AM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 ITALY]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIBUIJRFEVWI732MVVHY7I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",08:00AM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 GREECE]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIBIJZVEAYSC5L2N5ZH65A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",01:30PM| Xi'an Grand Prix | Round 1 (10/08/25) [TNT SPORTS 3 UK]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFAYCRC6LCIJOEMRCDCABXGAA3MV4G45LDOY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",01:30PM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 POLAND]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIAGOR4EQ6CA5L2N5ZH44Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",01:30PM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 SPAIN]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIAAJJRFQ6GI732MVTXS4I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",01:30PM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 FRANCE]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIBKJZRFMYSC5L2N5ZHY4TL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",01:30PM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 SE]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONSCIJOEMRAQAEIAAEDQN54GIZ3DOQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",01:30PM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 ITALY]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIBUIJRFEVWI732MVVHY7I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",01:30PM| Xi'an Grand Prix | Round 1 (10/08/25) [EUROSPORT 1 GREECE]
+https://world-proxifier.xyz/daddylive/p/BM6HOJB4MQJCEJB4F5SQSQ23JMKEYEDCL4TDWNDFMNSH66TFC47DONTCIJOEMRAQAEIBIJZVEAYSC5L2N5ZH65A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",10:08PM| MLB : Seattle Mariners vs Detroit Tigers (10/08/25) [FS1 USA]
+https://world-proxifier.xyz/daddylive/p/DYMREZLIMQDDKJBGH4UTYEL7KJDFSXSVIIQHKJRWOIADAJBXHURDC6LFLNKFCQSDCANHS5IWCZRWIAADARZGC33ZAIFQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",10:08PM| MLB : Seattle Mariners vs Detroit Tigers (10/08/25) [FOX DEPORTES]
+https://world-proxifier.xyz/daddylive/p/DYMREZLIMQDDKJBGH4UTYEL7KJDFSXSVIIQHKJRWOIADAJBXHURDC6LFLNKFCQSDCANHS5IWBIFGIEJVGU6TSMJ4IIJBSHQQAYCAG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:08AM| MLB : Toronto Blue Jays vs New York Yankees (10/08/25) [FS1 USA]
+https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSBWNJSOIJCUK22CJVFKXS3KVKSA5L2N5ZAEBTBMUDRQBDZDMMBGBYJ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:08AM| MLB : Toronto Blue Jays vs New York Yankees (10/08/25) [TVA SPORTS 2]
+https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSBWNJSOIJCUK22CJVFKXS3KVKSA5L2N5ZBAAYRMUATWKRLIVARGBQQDINBA23GMQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:08AM| MLB : Toronto Blue Jays vs New York Yankees (10/08/25) [FOX DEPORTES]
+https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSBWNJSOIJCUK22CJVFKXS3KVKSA5L2N5ZAEGQIMULC4NJWINDFMRYQDINBAZLBMM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",06:00PM| Eurocup : Neptunas vs Cluj Napoca (10/08/25) [MAGENTA SPORT 302]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SAUQCSRKHLVKUGECGINZRMPBQHBSBWMJVHUUCI6I3DAJXSUKXKVPCONDQCYRCWJZEMVQXW53ZDMMBGBI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",06:00PM| Eurocup : Neptunas vs Cluj Napoca (10/08/25) [ARENA 2 PREMIUM SERBIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SAUQCSRKHLVKUGECGINZRMPBQHBSBWMJVHUUCI6I3DAJXKQSVLZIXGZ3QCUQCCOBZGA7WWFR4INIFUVIQDINBAYTGMU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",06:00PM| Eurocup : Neptunas vs Cluj Napoca (10/08/25) [NOVA SPORTS START GREECE]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SAUQCSRKHLVKUGECGINZRMPBQHBSBWMJVHUUCI6I3DAJXUX2GKEIAAJJ7G4TDO5IDGEZTSMLZOZAFMUKTKUIBU6LVMZ3GK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",06:00PM| Eurocup : Neptunas vs Cluj Napoca (10/08/25) [STV1 SLOVENIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SAUQCSRKHLVKUGECGINZRMPBQHBSBWMJVHUUCI6I3DAJWOZDGAEIAAOJ7GM3SUPBRMV4GCZLIAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",06:00PM| Eurocup : Neptunas vs Cluj Napoca (10/08/25) [SPORT KLUB 2 CROTAIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SAUQCSRKHLVKUGECGINZRMPBQHBSBWMJVHUUCI6I3DAJWOQC7IJCHGHR4GAYGIZ3QAYQCIMJYLBJRGHQ2CAAQAYI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",06:00PM| Champions League : Promitheas Patras BC vs. MLP Academics Heidelberg (10/08/25) [NOVA SPORT 5 CZ]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSA4QDQVSHKYKAUEDAII6DQOJRHIQTII3FAIVDCK2QIEJXM4YQIZBX25I5BEBGIFBTEQ3C4KBQKJARG7CVLFKFKPZXGU3TKZD7PJSRYJBTHAIWCQ23IJCBABLTCYFGK6DOOVQXKYD6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",06:00PM| ABA League 2 : Podgorica vs Borac (10/08/25) [ARENA SPORT 2 SERBIA]
+https://world-proxifier.xyz/daddylive/p/CILRCZI6EE2DOMBXNN3XSCYSMNNVIV27II5DMMLFEQ3XKERKEAVCM6I3DAJXKQSVLZIXGBRAFIQDA5LCMUAS4NZ3LBJRGHQ2CACAGYY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",06:30PM| Champions League : Basketball Nymburk vs. BK Sabah Baku (10/08/25) [NOVA SPORT 1 CZECH HD]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSA4QDQVSHKYKAUEDSKEQD4NJRGASTSPDFDQZCQO2EIBMBIRSDDYIBCHTQCYZSMNBYMUICULRMCEMBSFD6L5DFC4YGEAVCAMDVMFSRCMJAHJMRE63QCANBUEDCMVRHI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Champions League : Lietuvos Rytas vs Legia (10/08/25) [TVP SPORT POLAND]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSA4QDQVSHKYKAUED4LE3CCJJTHU3XKAR4EYVDM6KHIEJXQVKXLFIXG732MUDBEBLQCYRCINZNCFRFYWCRLZKBA6L7OB2GA7A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Champions League : Lietuvos Rytas vs Legia (10/08/25) [GO3 SPORT 1 ESTONIA]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSA4QDQVSHKYKAUED4LE3CCJJTHU3XKAR4EYVDM6KHIEJXQVKXLFIXG732MUKSWZTQCYRCINZNCEBRG4KDIRPV4ORUOBXXQZDEMI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Ulm vs Panionios (10/08/25) [MAGENTA SPORT 303]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SDYUTIEKEIAKGAUK6LE6DWOJKEFSH66TFD4VCEPC7IZJBIY2AL5BCO5LDOVQWI732MVQA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Ulm vs Panionios (10/08/25) [ARENA 4 PREMIUM SERBIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SDYUTIEKEIAKGAUK6LE6DWOJKEFSH66TFCM4SAN2QCIDRIYCCKVOTUIB5MUASCJZSFQZWW33TCEDA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Ulm vs Panionios (10/08/25) [NOVA SPORTS PRIME GREECE]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SDYUTIEKEIAKGAUK6LE6DWOJKEFSH66TFDQSDGOARMFBVWQSEIMIAGJZZFA3WIERCEA3SQIDZDMMBGAQDBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Ulm vs Panionios (10/08/25) [STV3 SLOVENIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SDYUTIEKEIAKGAUK6LE6DWOJKEFSH66TFAEPRG2QRMFPVWRSVLZMTE5L2N5ZHKZQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Ulm vs Panionios (10/08/25) [MAX SPORT 1 BULGARIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SDYUTIEKEIAKGAUK6LE6DWOJKEFSH66TFD4FB26LCIJOEMRAQAEIBCIB4EIZTMPBRMV4GCZLNAYAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Ulm vs Panionios (10/08/25) [SPORT KLUB 3 CROTAIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SDYUTIEKEIAKGAUK6LE6DWOJKEFSH66TFAE5SUK2FCJ4FQRKSCABXGFRCFITCKPBRMV4GCZLIAEAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Ulm vs Panionios (10/08/25) [SPORT 1 ISRAEL]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SDYUTIEKEIAKGAUK6LE6DWOJKEFSH66TFAE5SUK2FCIBBI6KDIJITMOLQN54GIZDEOU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Besiktas vs London Lions (10/08/25) [MAGENTA SPORT 304]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SBEQCUWCZI5KUGECGINZRSPZLGYVTW4AJHMSCWKQRDAMRI7KRK5KT2IJRMUATIORCGFZHQ5LNCEMBSFAD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Besiktas vs London Lions (10/08/25) [SPORT TV2 PORTUGAL]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SBEQCUWCZI5KUGECGINZRSPZLGYVTW4AJHMSCWKQRDAMRIY2AL5BCO5IECNQGIBJ7G4TD4IRYLUJBSHQQA4CA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Besiktas vs London Lions (10/08/25) [NOVA SPORTS 4 GREECE]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SBEQCUWCZI5KUGECGINZRSPZLGYVTW4AJHMSCWKQRDAMRI7S7IZIXGBRAFIQDAJTQOFZAYNZ4KRIVMFA2DIIAMYDB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Besiktas vs London Lions (10/08/25) [ARENA 3 PREMIUM SERBIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SBEQCUWCZI5KUGECGINZRSPZLGYVTW4AJHMSCWKQRDAMRI4KCKVPDE5LDMUBDMMB5FQTSMZIKKRAFCXKRCANBU43EMN6A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Besiktas vs London Lions (10/08/25) [STV2 SLOVENIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SBEQCUWCZI5KUGECGINZRSPZLGYVTW4AJHMSCWKQRDAMRIY3EMYBHGBR4FISCCOZZERZGC33ZAADA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Besiktas vs London Lions (10/08/25) [MAX SPORT 2 BULGARIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SBEQCUWCZI5KUGECGINZRSPZLGYVTW4AJHMSCWKQRDAMRI7LRNAIAAJJ7G4TGIZ3QA4TSOIRYINNVEFA2DIIAIZDG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Eurocup : Besiktas vs London Lions (10/08/25) [SPORT KLUB 1 CROTAIA]
+https://world-proxifier.xyz/daddylive/p/CYQCEKRRGESXA73SBEQCUWCZI5KUGECGINZRSPZLGYVTW4AJHMSCWKQRDAMRIY2AL5BCO5I3FETSM5LBMUITSKRNKBNVEFA2DIIACY3E/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",07:00PM| Champions League : Galatasaray vs Igokea (10/08/25) [ARENA 1 PREMIUM SERBIA]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSA4QDQVSHKYKAUEDXKE7TIJBEEESSOMJ4OI6TM6LYKVOF6VKRCANHS5IRG43SUNDQORZBWNZ4LRNUMWIQMNKUEMJ4GFSXQ3TVMF3GM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",08:00PM| Champions League : VEF Riga vs AEK Athens (10/08/25) [NOVA SPORT 5 CZ]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSA4QDQVSHKYKAUEDGOUKXKARMGUSXKJRWOIFAAEQRONDVYVK6IMIHS73QBM6TENDQCYRCINZNCEDRG53KCANBU43EMB3WO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",08:00PM| ABA League 2 : MZT Skopje vs Vrsac (10/08/25) [ARENA SPORT 2 SERBIA]
+https://world-proxifier.xyz/daddylive/p/CILRCZI6EE2DOMBXNN3XSCYSPZXGIEDDLM6CKORAOIZCM4ATEA4CIOQRDAMRI4KCKVPDE5IDGU6TMILQO5ZBQIBLKNNVEFA2DIIAIYDF/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Cleveland Cavaliers vs Chicago Bulls (10/09/25) [NBA LEAGUE PASS]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDYIBEFYUTQX2WCN3VCRSRLQ5DAIRWOIZCM4AGHIRCMOCWLUJXMRK4LRBXG732MUOAMFDQBE3SUIRMKQJGGVKDIMIBU6LVMY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Cleveland Cavaliers vs Chicago Bulls (10/09/25) [TSN1]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDYIBEFYUTQX2WCN3VCRSRLQ5DAIRWOIZCM4AGHIRCMOCWLUJXMRK4LRBXG732MUDBOG3BMV4GCZLIAABQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Cleveland Cavaliers vs Chicago Bulls (10/09/25) [TSN4]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDYIBEFYUTQX2WCN3VCRSRLQ5DAIRWOIZCM4AGHIRCMOCWLUJXMRK4LRBXG732MUDBOG3EMV4GCZLIAADA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Cleveland Cavaliers vs Chicago Bulls (10/09/25) [SKY SPORT 1 DE]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDYIBEFYUTQX2WCN3VCRSRLQ5DAIRWOIZCM4AGHIRCMOCWLUJXMRK4LRBXG732MUAS6LDQCYRCINZNCEBRG4DVCANBU43N/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Cleveland Cavaliers vs Chicago Bulls (10/09/25) [CHICAGO SPORTS NETWORK]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDYIBEFYUTQX2WCN3VCRSRLQ5DAIRWOIZCM4AGHIRCMOCWLUJXMRK4LRBXG732MUISYPBTEQ2SIZIKIFOUCQCDCB7FKJZCH43TSZD7PJSWK7DT/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Cleveland Cavaliers vs Chicago Bulls (10/09/25) [FANDUEL SPORTS NETWORK OHIO]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDYIBEFYUTQX2WCN3VCRSRLQ5DAIRWOIZCM4AGHIRCMOCWLUJXMRK4LRBXG732MUKCKOYUGA3SOZIKIFOUCQCDCB7FKJZCH43TSZA2HAWD223POMIQUCQN/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",02:00AM| NBA : Minnesota Timberwolves vs Indiana Pacers (10/08/25) [NBA LEAGUE PASS]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQMDSKZ4FY3DMRKTCNQFSXKSKUQSEPZJEQQSM4BTEFVQYN2VLNJFUUIQMBITAMBCGZZG473QBMIAUZIVKRJVIQKVCBQFCIBGOBXXQZDC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",02:00AM| NBA : Minnesota Timberwolves vs Indiana Pacers (10/08/25) [FANDUEL SPORTS NETWORK INDIANA]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQMDSKZ4FY3DMRKTCNQFSXKSKUQSEPZJEQQSM4BTEFVQYN2VLNJFUUIQMBITAMBCGZZG473QAMZSKAJMKRPBGZ2AL5BEIIDVDYQCMMZ2EIXHEARLHVMFGXKVCANBUEDLNRSA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",02:00AM| NBA : Minnesota Timberwolves vs Indiana Pacers (10/08/25) [FANDUEL SPORTS NETWORK NORTH]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQMDSKZ4FY3DMRKTCNQFSXKSKUQSEPZJEQQSM4BTEFVQYN2VLNJFUUIQMBITAMBCGZZG473QAMZSKAJMKRPBGZ2AL5BEIIDVDYQCMMZ2EIXHEBJKFNCVUEY6DIIAQCLL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",11:00AM| Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (10/08/25) [TNT SPORTS 2 UK]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKEDHL47DAPTFFZSBOJJWEYSGKGCDIFNE4WK7CDJNHRTQCMZTMMBDEBZGG5DKA4OAAX25DEIBU6LVAQFQMZAGEAVCAPZWPEBREZT7CANBUEDAM4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",11:00AM| Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (10/08/25) [EUROSPORT 2 POLAND]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKEDHL47DAPTFFZSBOJJWEYSGKGCDIFNE4WK7CDJNHRTQCMZTMMBDEBZGG5DKA4OAAX25DEIBU6LVCUYCAKYGEAVCAP3FNMIWEXCYKFPFIEDZP5YHA2Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",11:00AM| Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (10/08/25) [EUROSPORT 2 SPAIN]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKEDHL47DAPTFFZSBOJJWEYSGKGCDIFNE4WK7CDJNHRTQCMZTMMBDEBZGG5DKA4OAAX25DEIBU6LVCUYCAKYGEAVCAP3FNMIWCQ2VLFPBAGTZOVSXOZY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",11:00AM| Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (10/08/25) [EUROSPORT 2 FRANCE]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKEDHL47DAPTFFZSBOJJWEYSGKGCDIFNE4WK7CDJNHRTQCMZTMMBDEBZGG5DKA4OAAX25DEIBU6LVCUYCAKYGEAVCAP3FNMIXIQKVLZJVKEDZP5YHEZLX/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",11:00AM| Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (10/08/25) [EUROSPORT 2 SE]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKEDHL47DAPTFFZSBOJJWEYSGKGCDIFNE4WK7CDJNHRTQCMZTMMBDEBZGG5DKA4OAAX25DEIBU6LVCUYCAKZGEAVCAP3FNMIWC5QUDINBAATAM4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",11:00AM| Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (10/08/25) [EUROSPORT 2 ITALY]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKEDHL47DAPTFFZSBOJJWEYSGKGCDIFNE4WK7CDJNHRTQCMZTMMBDEBZGG5DKA4OAAX25DEIBU6LVCUYCAKYGEAVCAP3FNMIXWR2VLRERAGTZOVUHE2Y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",11:00AM| Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (10/08/25) [EUROSPORT 2 GREECE]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKEDHL47DAPTFFZSBOJJWEYSGKGCDIFNE4WK7CDJNHRTQCMZTMMBDEBZGG5DKA4OAAX25DEIBU6LVCUYCAKYGEAVCAP3FNMIXKQKRKVJVKEDZP5YHCYA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",11:00AM| Tre Valli Varesine Women | Busto Arsizio – Varese (136.3km) (10/08/25) [EUROSPORT 2 SE]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKEDHL47DAPTFFZSBOJJWEYSGKGCDIFNE4WK7CDJNHRTQCMZTMMBDEBZGG5DKA4OAAX25DEIBU6LVCUYCAKZGEAVCAP3FNMIWC5QUDINBAATAM4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",01:00PM| Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (10/08/25) [TNT SPORTS 1 UK]
+https://world-proxifier.xyz/daddylive/p/CE6D4JR2EF4BGLJ3EYSCAHDQLJNFGWCVCACDUPJAHRSCS4AGHIRCQOCICIPBI4SZLZJTWMDQNVRXMZD6OE4SM3DZDMMBGYD6MQIGGIZ2EIYSCZDEOAIBS23POMIQCAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",01:00PM| Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (10/08/25) [EUROSPORT 2 POLAND]
+https://world-proxifier.xyz/daddylive/p/CE6D4JR2EF4BGLJ3EYSCAHDQLJNFGWCVCACDUPJAHRSCS4AGHIRCQOCICIPBI4SZLZJTWMDQNVRXMZD6OE4SM3DZDMMBG4KFIJPWGIZ2EIYXE5TVAAVD4KRLHUIRQGIUAUEA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",01:00PM| Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (10/08/25) [EUROSPORT 2 SPAIN]
+https://world-proxifier.xyz/daddylive/p/CE6D4JR2EF4BGLJ3EYSCAHDQLJNFGWCVCACDUPJAHRSCS4AGHIRCQOCICIPBI4SZLZJTWMDQNVRXMZD6OE4SM3DZDMMBG4KFIJPWGIZ2EIYXE5TVAM2TGIRLPENRQEYBAICQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",01:00PM| Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (10/08/25) [EUROSPORT 2 FRANCE]
+https://world-proxifier.xyz/daddylive/p/CE6D4JR2EF4BGLJ3EYSCAHDQLJNFGWCVCACDUPJAHRSCS4AGHIRCQOCICIPBI4SZLZJTWMDQNVRXMZD6OE4SM3DZDMMBG4KFIJPWGIZ2EIYXE5TVCY3TGJJGHQIRQGIUA4DQG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",01:00PM| Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (10/08/25) [EUROSPORT 2 SE]
+https://world-proxifier.xyz/daddylive/p/CE6D4JR2EF4BGLJ3EYSCAHDQLJNFGWCVCACDUPJAHRSCS4AGHIRCQOCICIPBI4SZLZJTWMDQNVRXMZD6OE4SM3DZDMMBG4KFIJPUGIZ2EIYXE5TVAMAHEYLPPEBQCAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",01:00PM| Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (10/08/25) [EUROSPORT 2 ITALY]
+https://world-proxifier.xyz/daddylive/p/CE6D4JR2EF4BGLJ3EYSCAHDQLJNFGWCVCACDUPJAHRSCS4AGHIRCQOCICIPBI4SZLZJTWMDQNVRXMZD6OE4SM3DZDMMBG4KFIJPWGIZ2EIYXE5TVDEYTGJZ4PENRQEYMA4EQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",01:00PM| Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (10/08/25) [EUROSPORT 2 GREECE]
+https://world-proxifier.xyz/daddylive/p/CE6D4JR2EF4BGLJ3EYSCAHDQLJNFGWCVCACDUPJAHRSCS4AGHIRCQOCICIPBI4SZLZJTWMDQNVRXMZD6OE4SM3DZDMMBG4KFIJPWGIZ2EIYXE5TVC43TOLRGHQIRQGIUAQBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",01:00PM| Binche-Chimay-Binche Women | Chimay - Binche (121.4km) (10/08/25) [EUROSPORT 2 SE]
+https://world-proxifier.xyz/daddylive/p/CE6D4JR2EF4BGLJ3EYSCAHDQLJNFGWCVCACDUPJAHRSCS4AGHIRCQOCICIPBI4SZLZJTWMDQNVRXMZD6OE4SM3DZDMMBG4KFIJPUGIZ2EIYXE5TVAMAHEYLPPEBQCAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",02:00PM| Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (10/08/25) [TNT SPORTS 2 UK]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKED5KU6XKLDFCAYSMJBKOIFDOKSYJBNFWEA5CBTDEJZVGY3WI7LCOVRGK5RSLQNRGHQ2CBSH4B3VAM2T2NRBENSWA2YQCIIRQGIUAMBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",02:00PM| Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (10/08/25) [EUROSPORT 2 POLAND]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKED5KU6XKLDFCAYSMJBKOIFDOKSYJBNFWEA5CBTDEJZVGY3WI7LCOVRGK5RSLQNRGHQ2CB2UKIJ2AM2T2NRBOB3XEGZKGVIFYVYUDINBABLL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",02:00PM| Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (10/08/25) [EUROSPORT 2 SPAIN]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKED5KU6XKLDFCAYSMJBKOIFDOKSYJBNFWEA5CBTDEJZVGY3WI7LCOVRGK5RSLQNRGHQ2CB2UKIJ2AM2T2NRBOB3XEGBVHBMFYEY6DIIAKATG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",02:00PM| Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (10/08/25) [EUROSPORT 2 FRANCE]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKED5KU6XKLDFCAYSMJBKOIFDOKSYJBNFWEA5CBTDEJZVGY3WI7LCOVRGK5RSLQNRGHQ2CB2UKIJ2AM2T2NRBOB3XEDJXHBPVCVQUDINBAB3EMY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",02:00PM| Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (10/08/25) [EUROSPORT 2 SE]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKED5KU6XKLDFCAYSMJBKOIFDOKSYJBNFWEA5CBTDEJZVGY3WI7LCOVRGK5RSLQNRGHQ2CB2UKIJ2EM2T2NRBOB3XEGAAPENRQEYGAMBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",02:00PM| Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (10/08/25) [EUROSPORT 2 ITALY]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKED5KU6XKLDFCAYSMJBKOIFDOKSYJBNFWEA5CBTDEJZVGY3WI7LCOVRGK5RSLQNRGHQ2CB2UKIJ2AM2T2NRBOB3XEARRHBOUWEY6DIIAQB3K/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",02:00PM| Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (10/08/25) [EUROSPORT 2 GREECE]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKED5KU6XKLDFCAYSMJBKOIFDOKSYJBNFWEA5CBTDEJZVGY3WI7LCOVRGK5RSLQNRGHQ2CB2UKIJ2AM2T2NRBOB3XEDBXHRKFCVQUDINBABDB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",02:00PM| Tre Valli Varesine Men | Busto Arsizio - Varese (200.3km) (10/08/25) [EUROSPORT 2 SE]
+https://world-proxifier.xyz/daddylive/p/A4TTKZIEEU4TYLDSDUSCWVCBLJNFKED5KU6XKLDFCAYSMJBKOIFDOKSYJBNFWEA5CBTDEJZVGY3WI7LCOVRGK5RSLQNRGHQ2CB2UKIJ2EM2T2NRBOB3XEGAAPENRQEYGAMBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| CYCLING",02:45PM| Binche-Chimay-Binche Men | Binche (203.2km) (10/08/25) [TNT SPORTS 1 UK]
+https://world-proxifier.xyz/daddylive/p/CE6D4JR2EF4BGLJ3EYSCAHDQLJNFGWCVCAPDAPTFFZSBOOJLGERSA6IZAABQOHQCLNOXU5L2N5ZBAGYEMUATWKRLIVARGBIQMV5RA6L7OB3GG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/darts-logo.png" group-title="EVENTS| DARTS",07:00PM| PDC Darts 8x First Round Matches - Mattioli Arena Leicester (10/08/25) [SKY SPORTS+]
+https://world-proxifier.xyz/daddylive/p/AMIRGZIWEUTSINTSOM6XS523IFDUIEDCL4TDWNDFD4SSCMZNG44GK5ARP5JEARCZL5ODU5IRG43SUNDQBE3SEJR4IJDFMRQQDINBAAB6FFSQCNB2EIYSCYDFOMNREAAC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/darts-logo.png" group-title="EVENTS| DARTS",07:00PM| PDC Darts 8x First Round Matches - Mattioli Arena Leicester (10/08/25) [DAZN2 DE]
+https://world-proxifier.xyz/daddylive/p/AMIRGZIWEUTSINTSOM6XS523IFDUIEDCL4TDWNDFD4SSCMZNG44GK5ARP5JEARCZL5ODU5IRG43SUNDQBE3SEJR4IJDFMRQQDINBAFYUBIFWAZARCVSXQYLFNUBQK/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/darts-logo.png" group-title="EVENTS| DARTS",07:00PM| PDC Darts 8x First Round Matches - Mattioli Arena Leicester (10/08/25) [SPORT1 DE]
+https://world-proxifier.xyz/daddylive/p/AMIRGZIWEUTSINTSOM6XS523IFDUIEDCL4TDWNDFD4SSCMZNG44GK5ARP5JEARCZL5ODU5IRG43SUNDQBE3SEJR4IJDFMRQQDINBAABFH43SM5LVCQAHEYLPPEDQMAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/darts-logo.png" group-title="EVENTS| DARTS",07:00PM| PDC Darts 8x First Round Matches - Mattioli Arena Leicester (10/08/25) [SKY SPORTS MAIN EVENT]
+https://world-proxifier.xyz/daddylive/p/AMIRGZIWEUTSINTSOM6XS523IFDUIEDCL4TDWNDFD4SSCMZNG44GK5ARP5JEARCZL5ODU5IRG43SUNDQBE3SEJR4IJDFMRQQDINBAAB6FFSQCNB2EIYSC2YIHBMFYE3RIZKV4RDTP55GKYL4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/darts-logo.png" group-title="EVENTS| DARTS",07:00PM| PDC Darts 8x First Round Matches - Mattioli Arena Leicester (10/08/25) [TV3 SPORT DENMARK]
+https://world-proxifier.xyz/daddylive/p/AMIRGZIWEUTSINTSOM6XS523IFDUIEDCL4TDWNDFD4SSCMZNG44GK5ARP5JEARCZL5ODU5IRG43SUNDQBE3SEJR4IJDFMRQQDINBABYDMNSQCNB2EIYXEDZAG5OFGQK7CANBUEDLMVUQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/darts-logo.png" group-title="EVENTS| DARTS",07:00PM| PDC Darts 8x First Round Matches - Mattioli Arena Leicester (10/08/25) [SKY SPORT 2 NZ]
+https://world-proxifier.xyz/daddylive/p/AMIRGZIWEUTSINTSOM6XS523IFDUIEDCL4TDWNDFD4SSCMZNG44GK5ARP5JEARCZL5ODU5IRG43SUNDQBE3SEJR4IJDFMRQQDINBAAB6FFSQCNB2EIYXE6LFC5VREGI6CACQQCI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/futsal-logo.png" group-title="EVENTS| FUTSAL",08:30PM| Serie A : Sala Consilina vs Came Treviso (10/08/25) [SKY SPORT CALCIO ITALY]
+https://world-proxifier.xyz/daddylive/p/AAYCELBXMQKHA73SDASDKUASOBNV4Q2ZLQ5DWMLFEQ3XKEZEH4XGKDKDK5CV2Q27CANHS5IDFYVWIBRAFIQD6ZI2KBPFAXK7CB4UIMRZFFSXQ3TVNBZGE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/handball-logo.png" group-title="EVENTS| HANDBALL",05:30PM| Czech Republic Extraliga : Jicin vs. HC Zlin (10/08/25) [CT SPORT CZECH HD]
+https://world-proxifier.xyz/daddylive/p/CAXTKJR2MQDTKNJHFEUTAUQSOZGEIQSRLQ5DEMLFNBSB6OJGHMSWKL2CDQJXY4YQNJODUO3QN54GIFQEMUATWKRLIUJHATSVKNMBAGYROBXXQZDEMB3GC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/handball-logo.png" group-title="EVENTS| HANDBALL",08:00PM| Denmark Handboldligaen : Fredericia HK 1990 vs. Tth Holstebro (10/08/25) [TV2 DENMARK HD]
+https://world-proxifier.xyz/daddylive/p/C4YD4KBTGY7HADJTEUQTWXS6K5MFSV2RKU6XK2TFCQ3DANBAEARCMMCQCJ5X6EABBEEWG5JGGZ6GIAJEFVZAGKRVIJDFMVSCL4IBU6LVAQJWAZARGUVT6KRXGIIXU5YUDINBACDCMI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/horse-logo.png" group-title="EVENTS| HORSE RACING",02:00PM| Live racing from around the UK (10/08/25) [SKY SPORTS RACING UK]
+https://world-proxifier.xyz/daddylive/p/D46CMIDSGY2DGLB4FRST6Q25LYKFCQS7IU6TC4BRHIQXKBIOOJQW66LCLFFBIY2AL5BCOJTQC4ZSOPB6EJZB4DTZDMMBGAIFAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/horse-logo.png" group-title="EVENTS| HORSE RACING",03:00PM| Live racing from Leicester Huntingdon and Galway (10/08/25) [RACING TV UK]
+https://world-proxifier.xyz/daddylive/p/D46CMIDSGY2DGLB4FRST6Q25LYKHYVKZKM3CMJBAEBSB2JJLEYRCWPSVLVORIUK6KQIBINB4GIZT25L2N5ZBSJB2LBOFIFDEIYIGKGDVPJXXE4LAMU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",05:30PM| Finland Mestis - RoKi vs IPK (10/08/25) [MTV URHEILU 2 FINLAND]
+https://world-proxifier.xyz/daddylive/p/CU6D4KJTFIYXACBXHAYTAQQSDYKGEX33LFZSGI3FDMKB44DPPBVQQDLHCJTEMWCVLFOCM5LCMUKC2OZ4EQ6C6ZLTDMJAEAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",05:30PM| Champions Hockey League : Lukko Rauma vs. EV Zug (10/08/25) [ARENA SPORT 1 CROATIA]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIECAOZOHVVROOCEL5JBIRSDDYIBMA3QD4TSG5L2N5ZAUNZ4L5JRGZ2AL5BEI43EOADCAKZUEQWDG23POMIQMAAG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",05:30PM| Champions Hockey League : Lukko Rauma vs. EV Zug (10/08/25) [POLSAT SPORT 3 POLAND]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIECAOZOHVVROOCEL5JBIRSDDYIBMA3QD4TSG5L2N5ZBWKRVIJJUOFDDIBPUEJ3VMNSQEKZZGEVTM23POMIQGAIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",05:30PM| Champions Hockey League : Lukko Rauma vs. EV Zug (10/08/25) [SPORT 2 HUNGARY]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIECAOZOHVVROOCEL5JBIRSDDYIBMA3QD4TSG5L2N5ZBQNJWINDBGBQQPBCV4NBUEI6HE3T7OBZQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",05:30PM| Champions Hockey League : Lukko Rauma vs. EV Zug (10/08/25) [SPORT 1 CZECH HD]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIECAOZOHVVROOCEL5JBIRSDDYIBMA3QD4TSG5L2N5ZBQNJWINDBGBIQONFFKMB5OAGRMZD7PJSWO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",05:30PM| Champions Hockey League : Lukko Rauma vs. EV Zug (10/08/25) [VIAPLAY 1 URHEILU FINLAND]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIECAOZOHVVROOCEL5JBIRSDDYIBMA3QD4TSG5L2N5ZB2LBYIFPFETIQAEIGKIJ5GUWD4MLVCYWDYJZEG5KREGI6CAAQM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",06:00PM| Champions Hockey League : Mountfield HK vs. KalPa Hockey (10/08/25) [SPORT 2 CZECH HD]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIETUJJLEYWSYPC5KYJXY6YQIZBX25I3EQ7BINDQBU6SQLR4JAJBSHQQMNAF6IJBOB3XEBZPGUTDU2YNDUIRQGIUA4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",06:00PM| Champions Hockey League : Mountfield HK vs. KalPa Hockey (10/08/25) [VIAPLAY 2 URHEILU FINLAND]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIETUJJLEYWSYPC5KYJXY6YQIZBX25I3EQ7BINDQBU6SQLR4JAJBSHQQMZMVCIZZGE6HE5TVAU3TULRMGVCBE5K5LZOFCXRXOV5G64TVMI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",06:00PM| Slovakia 1st Liga : Nove Zamky vs. 95 Povazska Bystrica (10/08/25) [JOJ SPORT SLOVAKIA HD]
+https://world-proxifier.xyz/daddylive/p/AA4T6MZTF46DCZLDHAYXS7K3KRKRACQQPY6CGNLFBASTQOZ4OI6TM5YRBMDBIYC7IZISSJR3ERZAMLBDGEQCEJRYCEMBSFD2P55BAABFH43SMZAGHQVCIKROGBIBE63QCANBUEDL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",07:00PM| Champions Hockey League : Brynas IF vs. Storhamar Hockey (10/08/25) [V SPORT VINTER]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIDCOKJLGM4GKEDXCJCUOHQQMNCDYJZYEQ7SKJ3QBU6SQLR4JAJBSHQQMYIGGIZ2EIYXEER4HYYTOOLFOMNRECQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",07:30PM| International Champions League : Eisbären Berlin vs Frölunda HC (10/08/25) [V SPORT 1 FINLAND]
+https://world-proxifier.xyz/daddylive/p/DI5SIIBAFI2CILB5EUSDKELRLNKV2QCZL46SM4AJG4STEJJAOJYWKHCYIFI7PFCCKVPHGFZVG47C2O3QGMQWWAZL6KCF6QK6KRIRAGYWOBXXQZADOALCEJBXFUIQGE3SLFPFYUJ5GFYG66DEMRUA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",07:45PM| Champions Hockey League : ZSC Lions Zurich vs. Sparta Prague (10/08/25) [POLSAT SPORT 2 POLAND]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIPAME3FDYRCUN2CCJUUCQSZKNMHGIZDNNZBOJJRG4TCUZIJINJVIQKVCANBU4YFH4USCJJBOALCEJBXFUIQAE3EL5OFCXRXOV5G64TRMU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",07:45PM| Champions Hockey League : ZSC Lions Zurich vs. Sparta Prague (10/08/25) [SPORT 1 CZECH HD]
+https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSAMVDUWSXJIKHYVKRK4TDA4D7OIPAME3FDYRCUN2CCJUUCQSZKNMHGIZDNNZBOJJRG4TCUZIJINJVIQKVCANBU4YGEAVCAMDVMFSRCMJAHJMRE63QCANBUEDG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [NHL GAMECENTER]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIGYYBFZAYJBUKRIVMWSEKVBBA6L7OB2A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [VIAPLAY SPORTS 2 UK]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIAZZEQRCOJBACFQUGW2CIRBRAYLVAUHHE3T7OBYGO6Y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [SPORTSNET ONE]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIBRAFIQD6NRXKRDBG626KUIBU6LVMR2GG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [TVA SPORTS]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIAIGARZBQNJWINDEAFA2DIIAQYDG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [SKY SPORT TOP EVENT DE]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIBR3HRZBQNJWINDBGYC7IAIHKJJQHYYXEAAQOBXXQ23QNQDQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [SKY SPORT MIX DE]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIBR3HRZBQNJWINDBG6KZJAIHIFTVPJXXE4LAM4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [SPORT TV3 PORTUGAL]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIBRAFIQD6ZINM4ARGZC7IJCEKNBUHRSXQ3TVMRYGM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [BEIN SPORTS 4 MAX FRANCE]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GINZVBQOGWFRJLZAEORYQAQIH2MRNOABSAJJ3GMQHEYLPPECQWBY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [ARENA SPORT 1 CROATIA]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIFBCEA6CUZIKIFOUCQAQAEIHGIJ2GEYTWJLVPJXXE73WNM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [ESPN 3 NL]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIEADCUOGW5TZP57BGHQ2CAEAQ2Y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [ARENA 2 PREMIUM SERBIA]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIFBCEA6CUZLLCFRECUK5LFCV24YGGU3TALJUOBXXQ23UNICA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [ESPN DEPORTES]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIEADCUOGWAJ4IFOUCQCVIMIBU6LVMNZGO/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [V SPORT VINTER]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIA3QCYRCINZNCFSFUWSEKVBBA6L7OB6A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [MAX SPORT 2 BULGARIA]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIGARDVZBQNJWINDBGBQQOJCVYNBUEIWDGZD7PJSWM7DW/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",11:00PM| NHL : Florida Panthers vs Chicago Blackhawks (10/08/25) [SPORT 5 LIVE ISRAEL]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIDT2OJGGMWCU6LTLZJFOW2YKFDTQJTQN54GIBRAFIQD6ZLMCF7FUQSVCB4UGIJUGUUXE3T7OB2GM7I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : New York Rangers vs Pittsburgh Penguins (10/08/25) [NHL GAMECENTER]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIKDYJBREEUTAK2WLIJWIVK6K5CTUOZDMV4G45I6BUPGWARYLRLVAUK6IRKUE437PJSWA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : New York Rangers vs Pittsburgh Penguins (10/08/25) [VIAPLAY SPORTS 2 UK]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIKDYJBREEUTAK2WLIJWIVK6K5CTUOZDMV4G45IGFQZTWKJYJAJGARC7IJCEG43HOAIBSZD7PJSWO7TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : New York Rangers vs Pittsburgh Penguins (10/08/25) [ESPN USA]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIKDYJBREEUTAK2WLIJWIVK6K5CTUOZDMV4G45IVCYBAKZIMMJZRGHQ2CACAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : New York Rangers vs Pittsburgh Penguins (10/08/25) [TVA SPORTS]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIKDYJBREEUTAK2WLIJWIVK6K5CTUOZDMV4G45IECMJWWFRJLZAEORYQDINBA23GMM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : New York Rangers vs Pittsburgh Penguins (10/08/25) [SPORTSNET ONE]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIKDYJBREEUTAK2WLIJWIVK6K5CTUOZDMV4G45IDGU6TSMJKL5LUOFD7LZKRA6L7OBYWG5I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : New York Rangers vs Pittsburgh Penguins (10/08/25) [TV3 SPORT DENMARK]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIKDYJBREEUTAK2WLIJWIVK6K5CTUOZDMV4G45IECNQWWFRJLZAEOFDUKVPF2MRHHNSXQ3TVNB2WW/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : New York Rangers vs Pittsburgh Penguins (10/08/25) [V SPORT VINTER]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIKDYJBREEUTAK2WLIJWIVK6K5CTUOZDMV4G45IGMUATWKRLIUJGKXK6IRKUE437PJSWW/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : New York Rangers vs Pittsburgh Penguins (10/08/25) [SPORT 5 STARS ISRAEL]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIKDYJBREEUTAK2WLIJWIVK6K5CTUOZDMV4G45IDGU6TSMLZAQJGAQCRIJBRAGRGEISDOKDVPJXXE6TRNY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:30AM| NHL : Los Angeles Kings vs Colorado Avalanche (10/08/25) [NHL GAMECENTER]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQMT6NTSBIVT4VC6KZDRA62ZLY2CM4BTEFSBMPZJHU4SIPK6CJZEEUK4KFPDAPJVMV4G45I6BUPGWARYLRLVAUK6IRKUE437PJSWC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:30AM| NHL : Los Angeles Kings vs Colorado Avalanche (10/08/25) [VIAPLAY SPORTS 1 UK]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQMT6NTSBIVT4VC6KZDRA62ZLY2CM4BTEFSBMPZJHU4SIPK6CJZEEUK4KFPDAPJVMV4G45IGFQZTWKJYJAJGARC7IJCEG43EOAIBSZD7PJSWM7TU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:30AM| NHL : Los Angeles Kings vs Colorado Avalanche (10/08/25) [ESPN USA]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQMT6NTSBIVT4VC6KZDRA62ZLY2CM4BTEFSBMPZJHU4SIPK6CJZEEUK4KFPDAPJVMV4G45IVCYBAKZIMMJZRGHQ2CACAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:30AM| NHL : Los Angeles Kings vs Colorado Avalanche (10/08/25) [SPORTSNET ONE]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQMT6NTSBIVT4VC6KZDRA62ZLY2CM4BTEFSBMPZJHU4SIPK6CJZEEUK4KFPDAPJVMV4G45IDGU6TSMJKL5LUOFD7LZKRA6L7OBYWG5I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:30AM| NHL : Los Angeles Kings vs Colorado Avalanche (10/08/25) [TVA SPORTS]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQMT6NTSBIVT4VC6KZDRA62ZLY2CM4BTEFSBMPZJHU4SIPK6CJZEEUK4KFPDAPJVMV4G45IECMJWWFRJLZAEORYQDINBA23GMM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:30AM| NHL : Los Angeles Kings vs Colorado Avalanche (10/08/25) [V SPORT PREMIUM]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQMT6NTSBIVT4VC6KZDRA62ZLY2CM4BTEFSBMPZJHU4SIPK6CJZEEUK4KFPDAPJVMV4G45IGMUATWKRLIUJGGRSVLVMUKPTVPJXXE4A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:30AM| NHL : Los Angeles Kings vs Colorado Avalanche (10/08/25) [SPORT 5 STARS ISRAEL]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQMT6NTSBIVT4VC6KZDRA62ZLY2CM4BTEFSBMPZJHU4SIPK6CJZEEUK4KFPDAPJVMV4G45IDGU6TSMLZAQJGAQCRIJBRAGRGEISDOKDVPJXXE6TRNY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/squash-logo.png" group-title="EVENTS| SQUASH",09:30AM| Paddle Tournament Milan 7.10 (1) (10/08/25) [SPORT 2 ISRAEL]
+https://world-proxifier.xyz/daddylive/p/AM2DIIJ6EF2QIKRHHEVTQXCXLVABA7KZLQZDW4DSPR2WK4DNMNRGK4Y3CJQEIX2CIQIGC5IZGYQCKMB4MV4GCZLIAUBQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/squash-logo.png" group-title="EVENTS| SQUASH",06:00PM| Paddle Tournament Milan 7.10 (2) (10/08/25) [SPORT 2 ISRAEL]
+https://world-proxifier.xyz/daddylive/p/AM2DIIJ6EF2QIKRHHEVTQXCXLVABA7KZLQZDW4DSPR2WK4DNMBRGK4Y3CJQEIX2CIQIGC5IZGYQCKMB4MV4GCZLIAUBQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",05:00PM| Beach Volleyball : Pro Tour: Newport Beach - Qualifiers (10/08/25) [SPORT KLUB 4 CROTAIA]
+https://world-proxifier.xyz/daddylive/p/CEYDCJR2MQBT6KJ6FY6DWUC6L4KAUEDAII6HKBBKE43G64ALG46DKNSDIYJXMVKRKNMHG6DQCQTSKOJZEM5S4NZKCEMBSFDDIBPUEJ3VDMUSOJTVMRSRCOJKFVIFWUQUDINBAALDME/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",05:00PM| Beach Volleyball : Pro Tour: Newport Beach - Qualifiers (10/08/25) [SPORT KLUB HD CROTAIA]
+https://world-proxifier.xyz/daddylive/p/CEYDCJR2MQBT6KJ6FY6DWUC6L4KAUEDAII6HKBBKE43G64ALG46DKNSDIYJXMVKRKNMHG6DQCQTSKOJZEM5S4NZKCEMBSFDDIBPUEJ3VDMUSOJTVDAAXECBXGZCVGWSVCANBUEDHMBRQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",08:30PM| French Cup : Levallois women vs Mulhouse women (10/08/25) [BEIN SPORTS 1 FRANCE]
+https://world-proxifier.xyz/daddylive/p/CUTTKKZRFR2RGMBCNN7XS7KXIVKVYXC7LEQHKJZKH4QTW4BTEFVQQLC5LJOECQ2VCBDTYOBVFNZG473QE43QEC3ZMJBFYRSEIMIAC4YTEISDYJZQOBXXQ23UNADQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",01:00AM| Women's College Volleyball : Valparaiso vs Illinois-Chicago (10/09/25) [MARQUEE SPORTS NETWORK]
+https://world-proxifier.xyz/daddylive/p/AQ5D2IB4MMTHABR5E4UTYVSXCNRF6XC4KUVDOMJJHZSG64ATGMTTKOCDKNNEOXYQIZBXGHB4FE5SUORZGZ7QQLJQKJJVIWYQDINBAHRUEI2COIJQOALCEJBXFVBBE7KRIRDV6QRYOV5G64TTMJQA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| WATER POLO",06:00PM| VRL Premier Liga : PVK Budućnost One Podgorica - VK Primorac Kotor (10/08/25) [ARENA SPORT 3 SERBIA]
+https://world-proxifier.xyz/daddylive/p/AUDRYZICGYYD2LBXHFSRKWCVKIKAUEDAMYMHKERQGYYZDVZLHU4DC6L6LRLBIYC7KRLTYJZZEYZWI6DQCMMWWFJLLBPVYRSRKMIHWPBBH43XE3T7OACCALRLHAIWCQ23IJCBAA3TAY2TOMBNGRYG66DLOFVAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| WEIGHTLIFTING",05:00PM| Weight: Less than 88 kg (10/08/25) [RING BG]
+https://world-proxifier.xyz/daddylive/p/AQYDSIR2GBXXACJXHA3HSRK2KJNBACAICA4DE4DPPBSAOOJLGVVSOPQRDAMRIBAHAE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| WEIGHTLIFTING",07:30PM| Weight: Women up to 69 kg (10/08/25) [RING BG]
+https://world-proxifier.xyz/daddylive/p/AQYDSIR2GBXXAER5EYQDOEKHIMKEIXYQAZVHKOZCOJXH64AXHMSSE6KTKUJR4GQQAQDWE/index.m3u8
