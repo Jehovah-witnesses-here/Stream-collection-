@@ -1,27 +1,17 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-09 17:15:15 UTC
+# Last updated: 2025-10-09 18:23:36 UTC
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",07:00AM | 24/7 COWS | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family‌​‌‌​​​​​‌‌​‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​‌‌ Guy | 01/18/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/familyguy/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 STREAMS", | 24/7 South Park |
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/southpark/index.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 STREAMS",12:28PM | 24/7 The Simpsons | 01/18/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/thesimpsons/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="WRESTLING",02:00AM | AEW: Collision | 10/12/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -42,11 +32,11 @@ https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/indianapoliscolts/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b6acc712a9747ffc430ea38fc9a4169c-thumbnail.jpg" group-title="AMERICAN FOOTBALL",04:15AM | Arizona State Sun Devils vs. Utah Utes | 10/12/25
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/63d778989e233c26352e2000967a5149-thumbnail.jpg" group-title="AMERICAN FOOTBALL",10:15PM | Arkansas Razorbacks vs. Tennessee Volunteers | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/SEC Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/742fc2b56aa63f4fe9dcafc9e5ab20ab-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Austria vs. San Marino | 10/09/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -57,21 +47,11 @@ https://gg.poocloud.in/wc_austria/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/ESPN2/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c26dac566e042478c41ea1234b40a60c-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Belarus vs. Denmark | 10/09/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wc_belarus/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a93cf21a220a02c3c7976972815a1f62-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Belgium vs. North Macedonia | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_belgium/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c3ade8302fcf97c81201a3a90fc80906-thumbnail.jpg" group-title="AMERICAN FOOTBALL",01:15AM | Buffalo Bills vs. Atlanta Falcons | 10/14/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/atlantafalcons/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/28b3177aa2d01be5970d330070c1024d-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Bulgaria vs. Türki̇ye | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -87,11 +67,6 @@ https://gg.poocloud.in/vancouvercanucks/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/bulls/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6a286e12623b02265593ea56a953bbd6-thumbnail.jpg" group-title="AMERICAN FOOTBALL",02:15AM | Chicago Bears vs. Washington Commanders | 10/14/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/washingtoncommanders/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a40177d12b0a426f78c9c72186ad3037-thumbnail.jpg" group-title="ICE HOCKEY",01:00AM | Chicago Blackhawks vs. Boston Bruins | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -102,11 +77,6 @@ https://gg.poocloud.in/bostonbruins/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/greenbaypackers/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/288e045175f71d8bfa9cb51606805f5e-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | Cleveland Browns vs. Pittsburgh Steelers | 10/12/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dfaa2ccadef71869e84570813e824fa2-thumbnail.jpg" group-title="ICE HOCKEY",02:00AM | Columbus Blue Jackets vs. Nashville Predators | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -117,16 +87,36 @@ https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_croatia/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2c5dc84e9e978c2c8670b74c79a49c30-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Cyprus vs. Bosnia and Herzegovina | 10/09/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/wc_cyprus/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7d13359d849ce48586e15e10ba6d28eb-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Czechia vs. Croatia | 10/09/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/wc_czechia/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/67759bcefc61482b1a3ccf4ff97231b7-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | Dallas Cowboys vs. Carolina Panthers | 10/12/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/carolinapanthers/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c4ed776816c7a59312984b4cdf794a7f-thumbnail.jpg" group-title="ICE HOCKEY",02:00AM | Dallas Stars vs. Winnipeg Jets | 10/10/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/winnipegjets/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/225916e94c7512e609a2c36039c47cde-thumbnail.jpg" group-title="COMBAT SPORTS",08:00PM | Dave Allen vs. Arslanbek Makhmudov | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/boxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ba0ecb8851280f64924be893ad6be933-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Denmark vs. Greece | 10/12/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/wc_denmark/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/777a69bbc74a9ca6acc8982bd17fff3a-thumbnail.jpg" group-title="AMERICAN FOOTBALL",03:30PM | Denver Broncos vs. New York Jets | 10/12/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -147,21 +137,26 @@ https://gg.poocloud.in/wc_england/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_estonia/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f549fe796c74a0a629bd9b85c76bcd20-thumbnail.jpg" group-title="FOOTBALL",06:00PM | Faroe Islands vs. Czechia | 10/12/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/wc_faroe-islands/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/513a3083c75343b5c97812cff62353c9-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Faroe Islands vs. Montenegro | 10/09/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_faroe-islands/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c7f03a767390c5d237b4af80e80c390d-thumbnail.jpg" group-title="FOOTBALL",06:00PM | Finland vs. Lithuania | 10/09/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wc_finland/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ae927adaf553e0da2e6447a2f092852e-thumbnail.jpg" group-title="AMERICAN FOOTBALL",01:00AM | Florida Gators vs. Texas A&M Aggies | 10/12/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cdc327760ea73eb1ce292a29334a3ea5-thumbnail.jpg" group-title="FOOTBALL",08:45PM | France vs. Azerbaijan | 10/10/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/wc_france/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b2a9ca09b44be353dd4d72a9b61029ed-thumbnail.jpg" group-title="AMERICAN FOOTBALL",01:30AM | Georgia Bulldogs vs. Auburn Tigers | 10/12/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -192,11 +187,6 @@ https://gg.poocloud.in/wc_iceland/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_iceland/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5249d599c42d3a4c33628f07cbdadc05-thumbnail.jpg" group-title="AMERICAN FOOTBALL",09:30PM | Iowa State Cyclones vs. Colorado Buffaloes | 10/11/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2848029d625f42374188dad900fa6c72-thumbnail.jpg" group-title="AMERICAN FOOTBALL",01:30AM | Kansas Jayhawks vs. Texas Tech Red Raiders | 10/12/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -222,11 +212,11 @@ https://gg.poocloud.in/wc_latvia/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_lithuania/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ecae6edb5b2b4e65d4c9c886e20e9c6f-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | Los Angeles Chargers vs. Miami Dolphins | 10/12/25
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c065bbf471f7981d5fce6775c2c98ab8-thumbnail.jpg" group-title="BASKETBALL",04:30AM | Loong-Lions at Clippers | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/miamidolphins/index.m3u8
+https://gg.poocloud.in/clippers/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/daa4acff8b0f0ab0766a54d3caf081f8-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Malta vs. Netherlands | 10/09/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -242,11 +232,11 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMy
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/NBC/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/fa4a4305950306551765c53cc8674bbd-thumbnail.jpg" group-title="BASEBALL",03:08AM | Milwaukee Brewers vs. Chicago Cubs | 10/10/25
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/20a3929f9b81cf54efb539f2442deed5-thumbnail.jpg" group-title="ICE HOCKEY",01:00AM | Montreal Canadiens vs. Detroit Red Wings | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/cubs/index.m3u8
+https://gg.poocloud.in/detroitredwings/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c5f3a00904100f122b9894c30bccdedd-thumbnail.jpg" group-title="AMERICAN FOOTBALL",09:30PM | NC State Wolfpack vs. Notre Dame Fighting Irish | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -257,16 +247,6 @@ https://gg.poocloud.in/Peacock/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_netherlands/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/243128517de136255228a88107d34f84-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | New England Patriots vs. New Orleans Saints | 10/12/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/neworleanssaints/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/eb0cfd41f9e206c27137734a693ded90-thumbnail.jpg" group-title="ICE HOCKEY",01:30AM | New Jersey Devils vs. Carolina Hurricanes | 10/10/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ee741ac6f9925050375c5e7246b118e7-thumbnail.jpg" group-title="ICE HOCKEY",01:00AM | New York Islanders vs. Pittsburgh Penguins | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -292,46 +272,36 @@ https://gg.poocloud.in/wc_northern-ireland/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_northern-ireland/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3735c9350960f987dd07c8acddf89692-thumbnail.jpg" group-title="FOOTBALL",06:00PM | Norway vs. Israel | 10/11/25
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3573a12b16c049fca611f8530f184416-thumbnail.jpg" group-title="ICE HOCKEY",01:00AM | Ottawa Senators vs. Tampa Bay Lightning | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wc_norway/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/9b56486df10c79c070b851dbcb1f8bbc-thumbnail.jpg" group-title="AMERICAN FOOTBALL",06:00PM | Ohio State Buckeyes vs. Illinois Fighting Illini | 10/11/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/FOX/index.m3u8
+https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7f44c8e669d6ebb19f2f5e53167e2f75-thumbnail.jpg" group-title="AMERICAN FOOTBALL",02:15AM | Philadelphia Eagles vs. New York Giants | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/newyorkgiants/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2cf071502225b8992d0747e8c9fff82f-thumbnail.jpg" group-title="ICE HOCKEY",01:00AM | Philadelphia Flyers vs. Florida Panthers | 10/10/25
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2ae0c03c7918080aedfc3e3a8d6148c7-thumbnail.jpg" group-title="BASKETBALL",02:00AM | Pistons at Bucks | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/floridapanthers/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/25d27bbe19d03265167244086f52b06d-thumbnail.jpg" group-title="BASEBALL",12:08AM | Philadelphia Phillies vs. Los Angeles Dodgers | 10/10/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/dodgers/index.m3u8
+https://gg.poocloud.in/bucks/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/440f0e496f9b66401cc83230141ecdfc-thumbnail.jpg" group-title="AMERICAN FOOTBALL",06:00PM | Pittsburgh Panthers vs. Florida State Seminoles | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1a95f17169d6d4f184694faa2d887be7-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Portugal vs. Republic of Ireland | 10/11/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/wc_portugal/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3ba299f75a5b901d5e86eeb108830e42-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Romania vs. Austria | 10/12/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_romania/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/469e672db9aeff86703433fe71662424-thumbnail.jpg" group-title="AMERICAN FOOTBALL",10:25PM | San Francisco 49ers vs. Tampa Bay Buccaneers | 10/12/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e6dae0221dacce91c43058bd06ee627b-thumbnail.jpg" group-title="FOOTBALL",03:00PM | San Marino vs. Cyprus | 10/12/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -397,21 +367,11 @@ https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/knicks/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f752b3f8b3a333d521202fba6c8e0d24-thumbnail.jpg" group-title="COMBAT SPORTS",10:00PM | UFC Fight Night: Oliveira vs. Gamrot | 10/10/25
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0dda327db9d18898710cfdc4b83a7f97-thumbnail.jpg" group-title="ICE HOCKEY",04:00AM | Vegas Golden Knights vs. San Jose Sharks | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/ufc/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3707645e29f32958a2c8e0a629388b3f-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Ukraine vs. Azerbaijan | 10/13/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wc_ukraine/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5ac52abee24b3060b427b8d1b4a139b3-thumbnail.jpg" group-title="ICE HOCKEY",03:00AM | Utah Mammoth vs. Colorado Avalanche | 10/10/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/coloradoavalanche/index.m3u8
+https://gg.poocloud.in/sanjosesharks/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ad4d3002842b468bd7db6b4059170936-thumbnail.jpg" group-title="AMERICAN FOOTBALL",09:30PM | Virginia Tech Hokies vs. Georgia Tech Yellow Jackets | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -437,16 +397,6 @@ https://gg.poocloud.in/wc_wales/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/SEC Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" group-title="DARTS",08:00PM | World Grand Prix Darts (Day 4) | 10/09/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" group-title="DARTS",08:00PM | World Grand Prix Darts (Day 5) | 10/10/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" group-title="DARTS",09:00PM | World Grand Prix Darts (Day 6) | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
