@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-10-10 15:16:24 UTC
+# Last updated: 2025-10-10 16:20:17 UTC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="24/7| AFRICA",Canal+ Sport 1 Afrique
 https://world-proxifier.xyz/daddylive/p/CA2D4JB6N52QGNJ5HEYXSAASOJJEEWKBIU3HK6TPOJYG2ZQ/index.m3u8
@@ -1448,11 +1448,13 @@ https://world-proxifier.xyz/daddylive/p/AQ6DYKJ5GN2QQEIABJSXGGYSAYGQQ/index.m3u8
 https://world-proxifier.xyz/daddylive/p/BIIAGZI4EEQSOKRAEBSQYYTTCMPBUEAHAZQA/index.m3u8
 #EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vtvplus-uruguay.png" group-title="24/7| URUGUAY",VTV+ Uruguay
 https://world-proxifier.xyz/daddylive/p/AUAQM3TSCETSKIRHFI6HSGYYCMDQSAI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",01:50PM| Mr Olympia 1 (10/11/25) [EVENT PPV]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",05:57PM| Mr Olympia 1 (10/11/25) [EVENT PPV]
 https://world-proxifier.xyz/daddylive/p/DYTXACR6HU4CALBTNN2HSGYYCNYUMVK6IRZQKAATOJXH64DXMJ7A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",01:50PM| Mr Olympia 2 (10/11/25) [EVENT PPV]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",05:57PM| Mr Olympia 1 (10/11/25) [EVENT PPV 2]
+https://world-proxifier.xyz/daddylive/p/DYTXACR6HU4CALBTNN2HSGYYCNYUMVK6IRZQKAATOJ3HK6TPOJ7HK2IB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",05:57PM| Mr Olympia 2 (10/11/25) [EVENT PPV]
 https://world-proxifier.xyz/daddylive/p/DYTXACR6HU4CALBTNN3XSGYYCNYUMVK6IRZQKAATOJXH64DXMJ6Q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",01:50PM| Mr Olympia 3 (10/11/25) [EVENT PPV]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",05:57PM| Mr Olympia 3 (10/11/25) [EVENT PPV]
 https://world-proxifier.xyz/daddylive/p/DYTXACR6HU4CALBTNN3HSGYYCNYUMVK6IRZQKAATOJXH64DXMJ6A/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",04:00PM| 2025 No Mercy 16 (10/11/25) [FLORACING]
 https://world-proxifier.xyz/daddylive/p/MFSWE4DSBI5HACBXHETCAEIDAUKBUGQQOY7TUIREGEWTWN3FPBQWK2AHAY/index.m3u8
@@ -2122,10 +2124,6 @@ https://world-proxifier.xyz/daddylive/p/CAKBOADSAIAAEHDSBUDHSAAGAQKAUED3KUSTYPTF
 https://world-proxifier.xyz/daddylive/p/D4JRCZLAOVWHA73SAI3DQUCRCNQFQX25IM6DW4BTEFSBIOZHGM4S6NS7CJ5EOXC7LVJDYMBGMV4G45IFAMIWWAZQKZNEOFDAKFBUG437PJSWK4Y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mma-logo.png" group-title="EVENTS| MMA (FIGHT)",04:00AM| URIJAH FABER'S A-1 COMBAT 31 (10/11/25) [UFC FIGHT PASS]
 https://world-proxifier.xyz/daddylive/p/AYDRSDYTBR2RMBAQBYLX4YQSOIMQCEDTP4PBOEIROJ3WI4DPPBVRAH3SCJ2V2V2YIQIAGNBDGZZG473QPVSA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (SMACKDOWN)",02:00AM| WWE Friday Night SmackDown (10/11/25) [WWE FEED]
-https://world-proxifier.xyz/daddylive/p/AQBBKZIUGY6DIJBLNMFTAVS2I4KGGXKRKM4BCPZSHRSH66TFAUOAA6LXK5LFAEA2DIIGEY3D/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (SMACKDOWN)",02:00AM| WWE Friday Night SmackDown (10/11/25) [WWE FEED]
-https://world-proxifier.xyz/daddylive/p/AQBBKZIUGY6DIJBLNMFTAVS2I4KGGXKRKM4BCPZSHRSH66TFAUOAA6LXK5LFAEA2DIIGMZLAOU/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (SMACKDOWN)",02:00AM| WWE Friday Night SmackDown (10/11/25) [USA NETWORK]
 https://world-proxifier.xyz/daddylive/p/AQBBKZIUGY6DIJBLNMFTAVS2I4KGGXKRKM4BCPZSHRSH66TFA4MAI6L7K5DUGX2CLMIHS73QOZTHO/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (SMACKDOWN)",02:00AM| WWE Friday Night SmackDown (10/11/25) [SPORT 5 PLUS ISRAEL]
