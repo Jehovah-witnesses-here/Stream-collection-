@@ -1,3 +1,9 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-10 19:13:01 UTC
+# Last updated: 2025-10-10 20:17:38 UTC
+
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6a286e12623b02265593ea56a953bbd6-thumbnail.jpg" group-title="AMERICAN FOOTBALL",02:15AM | Chicago Bears vs. Washington Commanders | 10/14/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/washingtoncommanders/index.m3u8
