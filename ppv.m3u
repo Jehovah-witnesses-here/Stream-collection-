@@ -1,39 +1,34 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-10 11:14:36 UTC
+# Last updated: 2025-10-10 12:34:10 UTC
 
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="WRESTLING",02:00AM | AEW: Collision | 10/12/25
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/63d778989e233c26352e2000967a5149-thumbnail.jpg" group-title="AMERICAN FOOTBALL",10:15PM | Arkansas Razorbacks vs. Tennessee Volunteers | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/277e9492410a670434ea3c7ab96edf95-thumbnail.jpg" group-title="BASKETBALL",01:00AM | Celtics at Raptors | 10/11/25
+https://gg.poocloud.in/SEC Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b64dcb9f0a7cbeed5097ad2a402ef902-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Germany vs. Luxembourg | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/raptors/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/288e045175f71d8bfa9cb51606805f5e-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | Cleveland Browns vs. Pittsburgh Steelers | 10/12/25
+https://gg.poocloud.in/wc_germany/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f15054458c765e15f9cf6edadee32f64-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Iceland vs. France | 10/13/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/pittsburghsteelers/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b2a9ca09b44be353dd4d72a9b61029ed-thumbnail.jpg" group-title="AMERICAN FOOTBALL",01:30AM | Georgia Bulldogs vs. Auburn Tigers | 10/12/25
+https://gg.poocloud.in/wc_iceland/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6fee0d2e1813da7d625cca23b95cfe7e-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Slovenia vs. Switzerland | 10/13/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3d35eb556f1641aa1b60840c6cf2eca9-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Kosovo vs. Slovenia | 10/10/25
+https://gg.poocloud.in/wc_slovenia/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/30a86aeae0fc68b22ebfc334bea03d41-thumbnail.jpg" group-title="WRESTLING",02:00PM | WWE: Crown Jewel Perth | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wc_kosovo/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ecae6edb5b2b4e65d4c9c886e20e9c6f-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | Los Angeles Chargers vs. Miami Dolphins | 10/12/25
+https://gg.poocloud.in/wwe/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" group-title="DARTS",09:00PM | World Grand Prix Darts (Day 6) | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/miamidolphins/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e6dae0221dacce91c43058bd06ee627b-thumbnail.jpg" group-title="FOOTBALL",03:00PM | San Marino vs. Cyprus | 10/12/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wc_san-marino/index.m3u8
+https://gg.poocloud.in/darts/index.m3u8
