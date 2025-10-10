@@ -1,29 +1,3 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-10 22:14:48 UTC
-
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3ba821002ef9e4d4f95b178080014d47-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | Arizona Cardinals vs. Indianapolis Colts | 10/12/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/indianapoliscolts/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c5154fb7f6665a2b16b792abab90e4c6-thumbnail.jpg" group-title="AMERICAN FOOTBALL",09:30PM | Indiana Hoosiers vs. Oregon Ducks | 10/11/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/CBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6059c750135c6682979807a8747d5465-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | Los Angeles Rams vs. Baltimore Ravens | 10/12/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/baltimoreravens/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0776b930e5902bf7e94d6fc09ca7c580-thumbnail.jpg" group-title="ICE HOCKEY",01:00AM | Ottawa Senators vs. Florida Panthers | 10/12/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/floridapanthers/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ad4d3002842b468bd7db6b4059170936-thumbnail.jpg" group-title="AMERICAN FOOTBALL",09:30PM | Virginia Tech Hokies vs. Georgia Tech Yellow Jackets | 10/11/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/ACC Network/index.m3u8
+# Last updated: 2025-10-10 23:14:33 UTC
