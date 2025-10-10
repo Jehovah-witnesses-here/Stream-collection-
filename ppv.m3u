@@ -1,34 +1,39 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-10 12:34:10 UTC
+# Last updated: 2025-10-10 13:25:50 UTC
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/63d778989e233c26352e2000967a5149-thumbnail.jpg" group-title="AMERICAN FOOTBALL",10:15PM | Arkansas Razorbacks vs. Tennessee Volunteers | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/SEC Network/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b64dcb9f0a7cbeed5097ad2a402ef902-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Germany vs. Luxembourg | 10/10/25
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a93cf21a220a02c3c7976972815a1f62-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Belgium vs. North Macedonia | 10/10/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wc_germany/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f15054458c765e15f9cf6edadee32f64-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Iceland vs. France | 10/13/25
+https://gg.poocloud.in/wc_belgium/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/225916e94c7512e609a2c36039c47cde-thumbnail.jpg" group-title="COMBAT SPORTS",08:00PM | Dave Allen vs. Arslanbek Makhmudov | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wc_iceland/index.m3u8
+https://gg.poocloud.in/boxing/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c5154fb7f6665a2b16b792abab90e4c6-thumbnail.jpg" group-title="AMERICAN FOOTBALL",09:30PM | Indiana Hoosiers vs. Oregon Ducks | 10/11/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/CBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8709b97e687dc0c434b31e6fe53f7234-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Slovakia vs. Luxembourg | 10/13/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/wc_slovakia/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6fee0d2e1813da7d625cca23b95cfe7e-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Slovenia vs. Switzerland | 10/13/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/wc_slovenia/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/30a86aeae0fc68b22ebfc334bea03d41-thumbnail.jpg" group-title="WRESTLING",02:00PM | WWE: Crown Jewel Perth | 10/11/25
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cd206e9942b71f5623bf638fad9892a0-thumbnail.jpg" group-title="AMERICAN FOOTBALL",01:30AM | South Florida Bulls vs. North Texas Mean Green | 10/11/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/wwe/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e3a192be8827596898cb6988397a6b32-thumbnail.jpg" group-title="DARTS",09:00PM | World Grand Prix Darts (Day 6) | 10/11/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/darts/index.m3u8
+https://gg.poocloud.in/ESPN2/index.m3u8
