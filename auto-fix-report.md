@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 10, 2025 at 18:38 UTC
+    **Last Updated:** October 11, 2025 at 01:41 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 93.5% of streams are working  
+    **Overall Health:** 94.4% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 14 streams need attention  
+    **Issues Found:** 12 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 151 | 0 | 14 | 165 |
+    | Regular Channels | 153 | 0 | 12 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **202** | **0** | **14** | **216** |
+    | **TOTAL** | **204** | **0** | **12** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (14 channels)
+    ## ❌ Channels Still Having Issues (12 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -28,10 +28,8 @@
 • **CINEMAX MOREMAX** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
-• **DISNEY JR** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
-• **mtvU** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
 • **Starz Encore** - No working fl server found  
