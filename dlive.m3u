@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-10-11 15:12:59 UTC
+# Last updated: 2025-10-11 16:17:07 UTC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="24/7| AFRICA",Canal+ Sport 1 Afrique
 https://world-proxifier.xyz/daddylive/p/CA2D4JB6N52QGNJ5HEYXSAASOJJEEWKBIU3HK6TPOJYG2ZQ/index.m3u8
@@ -1448,9 +1448,9 @@ https://world-proxifier.xyz/daddylive/p/AQ6DYKJ5GN2QQEIABJSXGGYSAYGQQ/index.m3u8
 https://world-proxifier.xyz/daddylive/p/BIIAGZI4EEQSOKRAEBSQYYTTCMPBUEAHAZQA/index.m3u8
 #EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vtvplus-uruguay.png" group-title="24/7| URUGUAY",VTV+ Uruguay
 https://world-proxifier.xyz/daddylive/p/AUAQM3TSCETSKIRHFI6HSGYYCMDQSAI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",12:45PM| Mr Olympia 1 (10/12/25) [EVENT PPV]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",06:08PM| Mr Olympia 1 (10/12/25) [EVENT PPV]
 https://world-proxifier.xyz/daddylive/p/DYTXACR6HU4CALBTNN2HSGYYCNYUMVK6IRZQKAATOJXH64DXMJ7A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",12:45PM| Mr Olympia 2 (10/12/25) [EVENT PPV]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",06:08PM| Mr Olympia 2 (10/12/25) [EVENT PPV]
 https://world-proxifier.xyz/daddylive/p/DYTXACR6HU4CALBTNN3XSGYYCNYUMVK6IRZQKAATOJXH64DXMJ6Q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| PPV EVENTS",02:00PM| WWE Crown Jewel Perth PPV (10/12/25) [EVENT PPV]
 https://world-proxifier.xyz/daddylive/p/AQBBKZIRGY5COK3SAEQC4VC6CNSFKQSELBZQKAATOJXH64AAEQXCWLIRMJRWEEA2DIIGEYTC/index.m3u8
@@ -2492,12 +2492,92 @@ https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACJ5HYWCUWCTLVKRAUKECAMTIPJA
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABR2FI3TKXSGI5IRAUKECAJCOPJ4OJXH64AGCAMBMFYRDAMRIAYABA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",06:00PM| NCAAF : Toledo at Bowling Green (10/12/25) [ESPNU USA]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEJ5E4QD2XQSKJABA4S7I47TYPRCOIBSONJAHRVW64YRO5QGI7TFCBSQAFDQN54GIZTBOM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",06:00PM| NCAAF : Mercyhurst at Wagner (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACBXHETCAWKHIFDUIECRIRZQEMJCHQQSO4DPPBVQACTBPQMBIZLDOEIHS73QORRHE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",06:00PM| NCAAF : Miami (Ohio) at Akron (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACB3FIUDAEI2PROFSXYZCAZCC4AEHE3DUPTFPBQWKHDCMJ6R6EDFMNYXG732MVRXGYI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",06:00PM| NCAAF : Southern Conn. at Delaware State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFR5HYYTCVCALUKHGX26LZ6XKMJROIADAPBEEUVDOPARMFDVKRCVCANHS5IVCYBAU7TQCAAQUZLTDMJAEAYF/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",06:00PM| NCAAF : Bucknell at Lafayette (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABZHFAXDOVC6L4KFCRAQPQZDGMJ4G4YCCNLFPBQWKHDCMJ6R6EDFMNYXG732MVRXGYY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",06:00PM| NCAAF : Lehigh at Columbia (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACJXEMWD4WISKJABA427LQTDQMRMGNSH66TFC4MBKFY2CJTGO4IQDINHGZDHOI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",06:45PM| NCAAF : Washington State at No. 4 Ole Miss (10/12/25) [SEC NETWORK]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAERTHAWTAX2VI5NV4EDDIQZCCNLFGMYHKHRKPRVXC6L6LZLBI7KZINBXG732MUAQCFTQBM3T6MRWINMRGHQ2CABQQZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| College Football : Maine vs Merrimack (10/12/25) [NESN USA]
 https://world-proxifier.xyz/daddylive/p/CA5DYKJXEMYHAAZ5EQYTWUC6L4KAUED5KE5DWNLFEQ3XKHJAEA4SYNCQKFMBIGQ2CB7BMBQ6MUDROFDQN54GW4TPAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : South Dakota at Indiana State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFR5HYYTCELWKJPV6RCRCAZCC4AMHQQDYMJLGNVRMLKQIZLBIGQ2CB2QABI6NZZBCBQRMV4GCZLIAYFA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : Morehead State at Stetson (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACB5HEQDCVCTK4KGGRCRIQ3HKMJROILSCNJREESCW6I3DAJXCY3APYNXGAADARZG473QORSXE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : Presbyterian at Butler (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFJAFY3DWSCGKZDFSUK6CAZCC4AHE4YDSNJXOJQW66LUMFRXUGYQMVRRE5L2N5ZHK3LA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : Howard at Sacred Heart (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXADJ5HQSCWVISKJABAY2RKMQTANDFDIQTIIRROJQW66LUMFRXUGYQMVRRE5L2N5ZHK3LB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : WestConn at New Haven (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAERXHAYRUXS4LUKFCRAQPY3CE4ANGMZDAPTFPBQWKHDCMJ6R6EDFMNYXG732MVRXYZY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : SC State at North Carolina A&T (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFQRNMLC2UCGKYKFCRAQPY6COJBNOIDTIIRKHYRCWOAROMKWAEA2DIIBMBQABN4WIAADARZGC33ZAAFAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : New Hampshire at Rhode Island (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZXHRSRCUC7INDVQWKCKVZTIJDFAAWDUNBAOIBDMNKQLRLRIGQ2CB2QABI6NZZBCBQRMV4GCZLIBEDA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : St. Thomas at Davidson (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFRGMVSQ2WK5LZKUGECRIRZRCMJTHMQCMPZLOJQW66LUMFRXUGYQMVRRE5L2N5ZHK3LF/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : Virginia-Lynchburg at Morgan State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEZ3HERDAX23KIMXYSK6KM5TOJJXGVSDIJDFD4SDOPSQLQJWORCRIRKXG732MULROBI6NZZB4FQYCEMBSFABBADA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : Northern Illinois at Eastern Michigan (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZ5HEYTCVCALUKHSXC4LE6TUOJWOISSC4AAGM4DCPCDLQJXSWKTLBMTINB6MV4G45IVCYBAK3TZMRQXEFA2DIIAC23C/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| NCAAF : Richmond at Colgate (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFZ3FAWTIXS4K4KFCRAQOM6DSNZEEYQXK6TPOIHBMCL7DEJWCY3RCANHS5LBPVVA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:00PM| College Football : St. Francis (Pa.) vs Duquesne (10/12/25) [SPORTSNET PITTSBURGH]
 https://world-proxifier.xyz/daddylive/p/CA5DYKJXEMYHAAZ5EQYTWUC6L4KAUEDDIR6XKFRXGMVDMOJWOJRRKOA7DMJUEQYQORCSEIBVGY6CC5L2N5ZBQNJWINDEA6SVIQIGAORBEQ3DAMJHG4WXEYLPPEEAAAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:30PM| NCAAF : Yale at Dartmouth (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAHBTE4QHSUCGCNYFCQSELU6CAJBNOJXH64AAAENQW4QRM5QHKEA2DIIGE3LJ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",07:30PM| NCAAF : Norfolk State at Wofford (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZ5HERTMXKZCNTUIUKEKVZTIJDFAUVTGNRKEAXWK4Y3CJ3GOYD6DMIAMBQRMV4G45LBPRRA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",08:00PM| NCAAF : CCSU at Robert Morris (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABQRDAIHSUCGCNTF6USVIITXKHJKEA3DYI3FPBQWKHDCMJ6R6EDFMNYXG732MVRX2ZA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",08:00PM| NCAAF : Abilene Christian at West Georgia (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABBQEIUTYX2XCN3VQQSZIMTTYMJLOISSC4ASG44DC6LWK5OEMV2ZKEIHS73QAAARIG33MUDRQBDZDMMBGBIJAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",08:00PM| NCAAF : Campbell at Hampton (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABRTEY2TWVC6L4KFCRAQPAZDQIBRHUVHK6TPOIHBMCL7DEJWCY3RCANHS5LBPRQQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",08:00PM| NCAAF : Monmouth at Towson (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACB5EUUDMRCGLMKFCRAQMQ6CEIZKHRSH66TFC4MBKFY2CJTGO4IQDINHGZDJOE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",08:00PM| NCAAF : Villanova at Elon (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEZ3E4UTQX25IVKRAUKECALDSPZLOJXH64AAAENQW4QRM5QHKEA2DIIGE3DF/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",08:00PM| NCAAF : Valdosta State at The Citadel (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEZTE4QTMQSGKIKGGRCRIQ3HKMJROIID2NLFCERDCOCVK5PRIGQ2CB2QABI6NZZBCBQRMV4GCZLIBACA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",08:00PM| NCAAF : Dayton at Valparaiso (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAAJTGIYTMXYSKJABAZSRLQRTIIREHM3TU4DPPBVQACTBPQMBIZLDOEIHS73QORVXG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",08:30PM| NCAAF : UMass at Kent State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEA7FI3CUEKTI4KHWVK6IRZQMJBEEYQXK6TPOIHBMCL7DEJWCY3RCANHS5LBPRVA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",08:30PM| NCAAF : Furman at Western Carolina (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAAZHHEUDQXYSKJABAZ2VIMTTAIRLOIDTIIRKHYRCWOARDAMRI5LDMB7HQ5IFCYJWI732MVRXE7A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:00PM| NCAAF : MVSU at Alabama A&M (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACAEDAIHSUCGCN2VYUKSKE7DI4AEOQEXK6TPOIHBMCL7DEJWCY3RCANHS5LCOVRA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:00PM| NCAAF : Lincoln (CA) at Alcorn State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACJ3EUTDMXK4CMOHG4IZCAZCC4AEHYTTUIRLOIMDCOCFK4JR4GQQOVRQGG33MUDROFDQN54GW53JAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:00PM| NCAAF : Idaho State at Montana State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXADBWFIWTMELBI5KUIVIQKETXKHJKHQYDIPREOIMDCOCFK4JR4GQQOVRQGG33MUDROFDQN54GW53JAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:00PM| NCAAF : NC Central at Florida A&M (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACYRNMDDYX2GIFKVYECRIRZRGPBKEAWTCMLFCNWQQ6I3DAJXCY3APYNXGAADARZG473QO5RHQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:00PM| NCAAF : Westgate Christian at UAPB (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAERXHAYT4UCGKYKHGWCCLEQCCOJEHRSDIJDFA4FBKGYRDAMRI5LDMB7HQ5IFCYJWI732MVQHW4I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:00PM| NCAAF : Western Illinois at UT Martin (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAERXHAYTYQ24CN6VYXCZLY6DYI3FGMYHKBIROIDCIK2FLNORIGQ2CB2QABI6NZZBCBQRMV4GCZLLAECQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:00PM| NCAAF : Northern Iowa at South Dakota State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZ5HEYTCVCALUKHSX2HKFZTIJDFAEVSAJBNOIHSIMS6IZJBIY2EKFCDM5L2N5ZACBQABN4WWEAKOAJBSHQQAIAAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:00PM| NCAAF : Gardner-Webb at Eastern Illinois (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAARTHEQTOVCADZRVKUSSCAZCC4AAGM3SCNJXHRVQYNK5LNOVWWKDCANHS5IVCYBAU7TQCAAQUZLTDMJACBAJ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:30PM| NCAAF : Southern Illinois at North Dakota State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFR5HYYTCVCALUKHSXC4LE6TUOJWOISSC4ALHU4TCMIROZJF6X2EKEIAAIJRGE3WI732MULRQFIXDIJGMZ3RCANBU43EM5ZA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:30PM| NCAAF : VMI at ETSU (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEY7AJSTQRISOZQGGZIQDJ4XKFIWAIFH44AQAEFGK4Y3CIAQKAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:30PM| NCAAF : Appalachian State at Georgia State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABBCHMSDKUCRLNOVCXQQMMTTIJBAOISSC4ACG4SDOPSYKMJWORCRIRKXG732MULROBI6NZZB4FQYCEMBSFACAEAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:30PM| NCAAF : Old Dominion at Marshall (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACR6F5SR2XS7LJNFSX26CAZCC4AIGM3CMOBEHYTWK4Y3CJ3GOYD6DMIAMBQRMV4G45LCORQA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:30PM| NCAAF : Ball State at Western Michigan (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABZTE4UXSYSGKJAFKECRIRZQENJWEYQSOPTFD4RCMMKYKVJFUEA2DIIBMBQABN4WIAADARZGC33ZAMBQA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:30PM| NCAAF : No. 7 Indiana at No. 3 Oregon (10/12/25) [CBS USA]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZ5MVSW4EL3LVIFSUK6KFZTIJDFDQVXW4DWOICDOPCWLVORIGQ2CBZRCBTQCAAQK5L2N5ZH45Y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:30PM| NCAAF : No. 7 Indiana at No. 3 Oregon (10/12/25) [CBSNY USA]
@@ -2532,12 +2612,32 @@ https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEIRDZSTQRISPBKV4Q2RINZQMJBE
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEIRDZSTQRISPBKV4Q2RINZQMJBEEYQXK6TPOIGQUAL7NMJWCY3RCANHS5LHONVA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",09:30PM| NCAAF : Air Force at UNLV (10/12/25) [CBSSN]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABB3HFSR6XSAKBIRAUKECADBWHATOJXH64AGCAMBMFYRDAMRIAYABA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",10:00PM| NCAAF : Tennessee State at Southeast Missouri (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEJXEUVTYQSBKZIRAY2EKETTA4BEEZSAMPZQEYRSAOCCIYJXSWKDINPSMJZZMV4G45IVCYBAK3TZMRQXEFA2DIIAEYTB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",10:00PM| NCAAF : Southern at Bethune-Cookman (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFR5HYYTCVCALUKFCRAQOI3CCOBQHQQXQEZKHUQCQOC7CIMR4EDVMNQB27TQCAAQK5L2N5ZHS5DM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",10:00PM| NCAAF : Cal Poly at Montana (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABRTE5SQSXS6JIKFCRAQPU6DWJBEHQSXK6TPOIHBMCL7DEJWCY3RCANHS5LCORSA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",10:00PM| NCAAF : Tennessee Tech at Charleston So. (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEJXEUVTYQSBKZIRAZCVKM5XKMJROIDT2MJXHYXDMLK6LQJWOXY6CANHS5IVCYBAU7TQCAAQUZLTDMJACBIH/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",10:00PM| NCAAF : Youngstown State at North Dakota (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAHB5HYVT4QSGLRBV4EDDIQZCCNLFGMYHKHRKEA7S26LVKNMFWRCRCANHS5IVCYBAU7TQCAAQUZLTDMJACBII/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",10:00PM| NCAAF : Central Arkansas at North Alabama (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABRXEUYSWUC6CN2UEW2RLYQDII3FGMYHKHRKEA7S26LQLZJFMUK5KEIHS73QAAARIG33MUDRQBDZDMMBGBQBBE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",10:00PM| NCAAF : Navy at Temple (10/12/25) [ESPN2 USA]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZTHU6HSUCGCNQFKXKALQ3HK6TPOIAQMAALMBVRACTQCIMR4EAEAU/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",10:00PM| College Football : Alabama State at Jackson State (10/12/25) [ESPNU USA]
 https://world-proxifier.xyz/daddylive/p/CA5DYKJXEMYHAAZ5EQYTWUC6L4KAUEDRLQZDOMJIGNSAMJBEEYXGKOCFCJ4VKU23INPT25IDGEZTAMDQN54GWAAKMF6GMFDFMNYRA6L7OB3GG4Q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",10:15PM| NCAAF : Arkansas at No. 12 Tennessee (10/12/25) [SEC NETWORK]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABBAEASDOQSTIAKFCRAQPY6HW4DUMBSACNJLHQXDMKSUK4JR4GQQMN2RA5I6EATDGORCFZZGC33ZAIFAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",11:00PM| NCAAF : Drake at San Diego (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAAJAFIXDYEKTI4KGGUK6CALTYNJCHVSH66TFC4MBKFY2CJTGO4IQDINHGZDHPU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",11:00PM| NCAAF : Northern Colorado at Idaho (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZ5HEYTCVCALUKHGX24L4QTINBKOISSC4AMGYVC2NQRDAMRI5LDMB7HQ5IFCYJWI732MVRXY7A/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",12:00AM| NCAAF : UAB at Florida Atlantic (10/13/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEATBFSTQRISOVMF6QSZKQZHKEJRHYSTWJBMGFVW64YRO5QGI7Q3CBSQAFDQN54GIZDIOU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",12:00AM| NCAAF : Austin Peay at Eastern Kentucky (10/13/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABBHHAYTAXYSMNIVCSIQKETXKFJEEEYDAIRLOIACAN2FI5IF6SIQDINHGEADCUOG65IFCYJWW33TCEBQWBI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAAF : Florida at No. 5 Texas A&M (10/13/25) [ESPN USA]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAAZ6EQ3TAVKTCNKUIED6L56XKZLFAYQS2MJWOIFGGOC4IIEHSEA2DIIBMBQABNZBCBQRMV4GCZLNAU/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAAF : Florida at No. 5 Texas A&M (10/13/25) [SPORT KLUB 1 CROTAIA]
@@ -2546,6 +2646,18 @@ https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAAZ6EQ3TAVKTCNKUIED6L56XKZLF
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXADB5HQSHSUCGCNRVSQ2TL46SMOJLOJXH64ADAF5GKDDCOMJR4GQQAMEQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAAF : San Jose State at Wyoming (10/13/25) [CBSSN]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFRTEVSRGXSBKYKGGRCRIQ3HKMJROIJSYPZIHMSSE6I3DAJXO4TDMN7HG732MVQXI3I/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAAF : Lamar at East Texas A&M (10/13/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACJTEYSCWEKTI4KHKUKDIRZQCNJ5GM3XKELDD5VW64YRO5QGI7Q3CBSQAFDQN54GIZDIO4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAAF : Northern Arizona at UC Davis (10/13/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZ5HEYTCVCALUKHCQSZJI6DWMLFGMYHKBIGOIHSIL2YIEJR4GQQOVRQGG33MUDROFDQN54GW5DBAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAAF : Northwestern State at HCU (10/13/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZ5HEYTCRSXIBAFKQS6CAACCMJRG5SDIJDFDIEBA6I3DAJXCY3APYNXGAADARZG473QORVH6/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAAF : UL Monroe at Coastal Carolina (10/13/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEA6NMEDMX2ALRIRAUKECAIDUMJWEYSTS4AGGM4SUNKYLRJBIGQ2CB2QABI6NZZBCBQRMV4GCZLIBEDQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAAF : Texas Southern at Grambling State (10/13/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEJXGMSCUELBLRAUIWCVII6XKMJROIBSOMJIGATSYN2WCJQEAUKEKUIHS73QAAARIG33MUDRQBDZDMMBGBIIAY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAAF : Illinois State at Murray State (10/13/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXADB6E4WDOXS3IAKGGRCRIQ3HKMJROIESAIRXGMZGKCSFKNDVCEA2DIIBMBQABN4WIAADARZGC33ZAAFAI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:30AM| NCAAF : No. 10 Georgia at Auburn (10/13/25) [ABC USA]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZ5MVSWQAISORIV6QSXLEZHKMJROICSAMRQEASWK4Y3CJZHM4YQMVRRE5L2N5ZHCZA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:30AM| NCAAF : No. 10 Georgia at Auburn (10/13/25) [TSN2]
@@ -2570,8 +2682,14 @@ https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXABR6FYUCUXS4CNKUIEDSL4QCCPZL
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFZ3FAQHSUCGCNQWIY3RCB4X64AAAEKBWBLFA4MAI6I3DAJQOAIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:45AM| NCAAF : South Carolina at No. 11 LSU (10/13/25) [SEC NETWORK]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFR5HYYTCELRKJDF6XCZLYZHKMJROIFDU7TFMN5GKFLCM4JR4GQQMN2RA5I6EATDGORCFZZGC33ZAIFAM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",02:00AM| NCAAF : Tarleton State at Utah Tech (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEJTHEUTYRK5LUKGGRCRIQ3HKMJROIISCMJNOIPSAOSZCIMR4EDVMNQB27TQCAAQK5L2N5ZHU7LB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",02:00AM| NCAAF : Sacramento State at Weber State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAFRTFA3TQXCXLVAF6EDDIQZCCNLFGMYHKBZAGAXDO6LCIZJEAVIQDINHGEADCUOG65IFCYJWW33TCEBQWDI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",02:00AM| High School Football : Sycamore vs LaSalle-Peru (10/12/25) [MARQUEE SPORTS NETWORK]
 https://world-proxifier.xyz/daddylive/p/DM6DOLLSC43DQKR5E5SR6XS5I5LFCXC4CBUXKAZ4GESTQPZXG5VTGKQRPZJGOUK4LRKX4BJVG4TWI732MUPSUNZIIRLVMFDDIBPUEJZGOAFTOMBCH43TS23POMIQKBAE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",02:30AM| NCAAF : Troy at Texas State (10/12/25) [ESPN+ USA]
+https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEJAEQ6HSUCGCNQFKSCRINZQMJBEEYQXK6TPOIHBMCL7DEJWCY3RCANHS5LBPRRA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",02:30AM| NCAAF : No. 18 BYU at Arizona (10/12/25) [ESPN2 USA]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXACZ5MVSWQCISOFWWKECRIRZRIIRMFAVTWMLFPBQWKHDCMJ6QMEDFMNYXG732MVTHC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",03:45AM| NCAAF : New Mexico at Boise State (10/12/25) [FS1 USA]
