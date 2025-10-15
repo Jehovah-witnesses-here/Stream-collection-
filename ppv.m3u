@@ -1,6 +1,6 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-15 06:24:52 UTC
+# Last updated: 2025-10-15 07:16:45 UTC
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",07:00AM | 24/7 COWS | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
@@ -87,6 +87,11 @@ https://gg.poocloud.in/laliga_rc-celta/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/ESPN2/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/445287106c73a2c8a72585d53f037196-thumbnail.jpg" group-title="BASKETBALL",04:00AM | Clippers at Kings | 10/16/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/kings/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e4abc6e7ebc737d04315b7d78ce04715-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Cologne vs. Augsburg | 10/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -167,6 +172,11 @@ https://gg.poocloud.in/laliga_getafe-cf/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/arizonacardinals/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e44d87b078eaa68e1d9ec7648abf315b-thumbnail.jpg" group-title="BASKETBALL",01:00AM | Grizzlies at Hornets | 10/16/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/hornets/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/514f2122d4074985113d3a814d371e17-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Heidenheim vs. Bremen | 10/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -232,6 +242,11 @@ https://gg.poocloud.in/epl_man-city/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4dc135e1a9eb8e46505e660dd018274f-thumbnail.jpg" group-title="BASKETBALL",04:30AM | Mavericks at Lakers | 10/16/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/lakers/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2fc6fdb97cd89e5a6eaafab95aa0d9a2-thumbnail.jpg" group-title="AMERICAN FOOTBALL",10:00PM | Memphis Tigers vs. UAB Blazers | 10/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -342,6 +357,11 @@ https://gg.poocloud.in/bundesliga_rb-leipzig/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/ligue1_rc-lens/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6a92d2a6a955d1a8d44aa5a40cf93482-thumbnail.jpg" group-title="BASKETBALL",01:30AM | Raptors at Celtics | 10/16/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/celtics/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b3adc5ec4183b4ec7b0cb1b598f1aba0-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Real Oviedo vs. RCD Espanyol de Barcelona | 10/17/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
