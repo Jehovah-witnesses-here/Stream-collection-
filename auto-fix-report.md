@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 16, 2025 at 13:09 UTC
+    **Last Updated:** October 16, 2025 at 18:40 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 91.2% of streams are working  
-    **Current FL Server:** fl1  
-    **Changes Made:** 0 streams updated  
-    **Issues Found:** 19 streams need attention  
+    **Overall Health:** 94.0% of streams are working  
+    **Current FL Server:** fl31  
+    **Changes Made:** 3 streams updated  
+    **Issues Found:** 13 streams need attention  
     
     ---
     
@@ -15,12 +15,18 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 146 | 0 | 19 | 165 |
+    | Regular Channels | 152 | 3 | 13 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **197** | **0** | **19** | **216** |
+    | **TOTAL** | **203** | **3** | **13** | **216** |
     
+    ## ✅ Successfully Fixed (3 channels)
     
-    ## ❌ Channels Still Having Issues (19 channels)
+    These channels were broken but are now working:
+    
+    **fl7 → fl1:** BET GOSPEL, COZI TV  
+**fl1 → fl31:** TVOne  
+
+    ## ❌ Channels Still Having Issues (13 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -30,25 +36,19 @@
 • **DISNEY CHANNEL** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
-• **getTV** - No working fl server found  
-• **MAVTV** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC Golf** - No working fl server found  
-• **NewsNation** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **Pursuit Channel** - No working fl server found  
 • **Starz Encore** - No working fl server found  
-• **TBS** - No working fl server found  
 • **TVLand** - No working fl server found  
-• **TVOne** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
-    ## 👍 All Good!
+    ## 🎉 Success!
     
-    No updates were needed - your streams are already current and working well.
+    **3 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
