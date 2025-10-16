@@ -1,6 +1,6 @@
 #EXTM3U
 # DaddyLive Playlist
-# Last updated: 2025-10-15 23:14:42 UTC
+# Last updated: 2025-10-16 01:14:08 UTC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="24/7| AFRICA",Canal+ Sport 1 Afrique
 https://world-proxifier.xyz/daddylive/p/CA2D4JB6N52QGNJ5HEYXSAASOJJEEWKBIU3HK6TPOJYG2ZQ/index.m3u8
@@ -1448,6 +1448,10 @@ https://world-proxifier.xyz/daddylive/p/AQ6DYKJ5GN2QQEIABJSXGGYSAYGQQ/index.m3u8
 https://world-proxifier.xyz/daddylive/p/BIIAGZI4EEQSOKRAEBSQYYTTCMPBUEAHAZQA/index.m3u8
 #EXTINF:-1 tvg-id="VTV.+.HD.uy" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/vtvplus-uruguay.png" group-title="24/7| URUGUAY",VTV+ Uruguay
 https://world-proxifier.xyz/daddylive/p/AUAQM3TSCETSKIRHFI6HSGYYCMDQSAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/-logo.png" group-title="EVENTS| PPV EVENTS",12:15AM| Millbridge Speedway (10/17/25) [EVENT PPV]
+https://world-proxifier.xyz/daddylive/p/DY6DYKJQGY6DIIRXNMLCSVCXK5BVCSIQDJ4XKFJTG4VCC4AVAIOWK4Y3CIDAIAAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/racing-logo.png" group-title="EVENTS| PPV EVENTS",01:00AM| Kubota High Limit Racing at Lucas Oil Speedway (10/17/25) [FLORACING]
+https://world-proxifier.xyz/daddylive/p/DAQDEKRGEV2RQLBVENSRKWC7LJABAYSRKM5DWN3FGMYHKHBQGEVDM6L6LNPRIY2AKVKTOIRRHRZG473QAMPAIFZYKJNV2UYQDINBAZTFMB2A/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",06:00PM| The Pat McAfee Show Live (10/16/25) [ESPN USA]
 https://world-proxifier.xyz/daddylive/p/A46TKZICEUQXACBRBIRTYVASMBOF6RYQPQ5CGNLFPBXHKFIWAICWKDDCOMJR4GQQAQCA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",08:00PM| Beyond the Gates Season 1 Episode 151 (10/16/25) [CBSNY USA]
@@ -1878,14 +1882,20 @@ https://world-proxifier.xyz/daddylive/p/AQ5CEKJWMQDD4KR5EAQCWEI7CNTV4X27LM3CO4AW
 https://world-proxifier.xyz/daddylive/p/AQ5CEKJWMQDD4KR5EAQCWEI7CNTV4X27LM3CO4AWGEVSCJBMEERWKFSBK5ORIGQ2CB2DUJRTFISCCJZJNZZGC33ZAQDQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/fbs-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAA FBS : Delaware Fightin vs Jacksonville State (10/17/25) [ESPN USA]
 https://world-proxifier.xyz/daddylive/p/DULBCBDSAILQGZLINMATYXKTIRKUEVIQOY5DEOBRHMVHKJRWOIASIOS2IFOFURSZLRODM5IDGEZTAMDQN54GWAAKMF6BGYLDOEIBU6LVMRYQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/fbs-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAA FBS : Delaware Fightin vs Jacksonville State (10/17/25) [ESPN USA FHD]
+https://world-proxifier.xyz/daddylive/p/DULBCBDSAILQGZLINMATYXKTIRKUEVIQOY5DEOBRHMVHKJRWOIASIOS2IFOFURSZLRODM5IDGEZTAMDQN54GWAAKMF6BGYLDOEIHMGYROBXXQZDAMB2WM/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/fbs-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAA FBS : Delaware Fightin vs Jacksonville State (10/17/25) [ESPN2 USA]
 https://world-proxifier.xyz/daddylive/p/DULBCBDSAILQGZLINMATYXKTIRKUEVIQOY5DEOBRHMVHKJRWOIASIOS2IFOFURSZLRODM5IDGEZTAMDQN54GWAAKMF6ACFDFMNYRA6L7OBYWO/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/fbs-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAA FBS : Delaware Fightin vs Jacksonville State (10/17/25) [SPORTKLUB 1 CROATIA]
 https://world-proxifier.xyz/daddylive/p/DULBCBDSAILQGZLINMATYXKTIRKUEVIQOY5DEOBRHMVHKJRWOIASIOS2IFOFURSZLRODM5IDGEZTAMDQN54GWFRJLZAEOX24IVJBAYTVCM3T2JJBHESHEYLPPEAAEAQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/fbs-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAA FBS : UTEP vs Sam Houston State (10/17/25) [CBS SPORTS NETWORK]
 https://world-proxifier.xyz/daddylive/p/DULBCBDSAILQGZLINMIA25DCCNBEGEDDKE7HKGBKE43SCPZLOIMDCOCFK4JR4GQQONZAA5IDGU6TMIJDMUOC4MJOLZAFQFA2DIIAGY3N/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/fbs-logo.png" group-title="EVENTS| AM. FOOTBALL (NCAAF)",01:00AM| NCAA FBS : UTEP vs Sam Houston State (10/17/25) [CBS SPORTS FHD]
+https://world-proxifier.xyz/daddylive/p/DULBCBDSAILQGZLINMIA25DCCNBEGEDDKE7HKGBKE43SCPZLOIMDCOCFK4JR4GQQONZAA5IDGU6TMIJDMUKAGALZDMMBGAIAAADA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:00AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/16/25) [TNT SPORTS 1 UK]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZBAGYEMUATWKRLIVARGBIQMV5RA6L7OB3GG/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:00AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/16/25) [MLB PASS]
+https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZASGISMUBCUNRKCEMBSFAFAAAAO/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:00AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/16/25) [FOX SPORTS 1 USA]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZAEGQIMUATWKRLIVARGBIQMVRXC437PJSWC7I/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:00AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/16/25) [RDS 2 CA]
@@ -2054,6 +2064,8 @@ https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSA4QDQVSHKYKAUEDSKU6TGOJG
 https://world-proxifier.xyz/daddylive/p/CA6TCKBCFU5D4NTSA4QDQVSHKYKAUEDSKU6TGOJGGNSBSOJWGASCI6KHIEORIY2AKFBCONB3MUATCNZ7GE5SQJDZDMMBG5KCKVPFC4YGEAVCAMDVMFSQCLRXHNMFGEY6DIIAIATK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Charlotte Hornets vs Memphis Grizzlies (10/17/25) [NBA LEAGUE PASS]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDQJBAE4VC2RKXCN6F6QS6KUTSM4BTEFSBQNJIEIRSYKQROVAV2SSKLRMTMJTQN54GIGYSARZAOIBYKZDVMFDAKFBUG437PJSWA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Charlotte Hornets vs Memphis Grizzlies (10/17/25) [NBA PASS]
+https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDQJBAE4VC2RKXCN6F6QS6KUTSM4BTEFSBQNJIEIRSYKQROVAV2SSKLRMTMJTQN54GIGYSARZBWJBKIIJBSHQQAUAAAYI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:30AM| NBA : Boston Celtics vs Toronto Raptors (10/17/25) [NBA LEAGUE PASS]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLT6NRGEQVXS4SXL5AFSU2DCASSM4ARHU3DUPRRHVVROOCBIZOEMQYQDINHGGYSARZAQMBREITS4ZIJKBAUAFA2DIIAG/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:30AM| NBA : Boston Celtics vs Toronto Raptors (10/17/25) [NBA TV USA]
@@ -2198,6 +2210,8 @@ https://world-proxifier.xyz/daddylive/p/DM5DGLRXHUKDYKJBHUQDOQSZKJNBACQQPMZDSPJE
 https://world-proxifier.xyz/daddylive/p/DM5DGLRXHUKDYKJBHUQDOQSZKJNBACQQPEKXKERPHU3D4PBKEQXCW6KHIEJXKXC5IRCT2NDQN54GIAIGOFZBQNJWINDBG6CZIZKRAYDVAMZDOIBQHZSXQYLFNYAQO/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Ottawa Senators vs Buffalo Sabres (10/17/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNCIMJTHQSHSYSXLVKUIX2CINZSGI3FCAYTGNREHYSGKCSQKBAVCQYQDINHGGYYBFZAGNB5EAYS4KZNKRABGHQ2CADQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Ottawa Senators vs Buffalo Sabres (10/17/25) [NHL GAMECENTER]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNCIMJTHQSHSYSXLVKUIX2CINZSGI3FCAYTGNREHYSGKCSQKBAVCQYQDINHGGYYBFZAGNB5EAYS4KZNKRABGHQ2CACQAY3A/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Ottawa Senators vs Buffalo Sabres (10/17/25) [SPORTSNET ONE]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNCIMJTHQSHSYSXLVKUIX2CINZSGI3FCAYTGNREHYSGKCSQKBAVCQYQDINHGBRAFIQDAJR6EATGWCRXKQJBSHQQAQAQC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Ottawa Senators vs Buffalo Sabres (10/17/25) [RDS CA]
@@ -2206,6 +2220,8 @@ https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNCIMJTHQSHSYSXLVKUIX2CINZSGI3F
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNCIMJTHQSHSYSXLVKUIX2CINZSGI3FCAYTGNREHYSGKCSQKBAVCQYQDINHGA3QCYRCWJZEMUBDSIBULBDV4FA2DIIAM/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Florida Panthers vs Detroit Red Wings (10/17/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIADAJBXHURDC6LDK5LRIZ2ZLZLSA5L2N5ZAUHI4MUKSUKB4KJLV2QCVIIIBU6LVNA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Florida Panthers vs Detroit Red Wings (10/17/25) [NHL GAMECENTER]
+https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIADAJBXHURDC6LDK5LRIZ2ZLZLSA5L2N5ZAUHI4MUKSUKB4KJLV2QCVIIIBU6LVMV2WE5Y/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Florida Panthers vs Detroit Red Wings (10/17/25) [TNT USA]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIADAJBXHURDC6LDK5LRIZ2ZLZLSA5L2N5ZBAGYEMUDRQBDZDMMBGBYDBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Florida Panthers vs Detroit Red Wings (10/17/25) [VIAPLAY SPORTS 2 UK]
@@ -2362,6 +2378,10 @@ https://world-proxifier.xyz/daddylive/p/CQTTKPDVG52RCKZTH4VDISASMBIVCQ27LZZWOYTF
 https://world-proxifier.xyz/daddylive/p/DM5CKNRXMQOSKKZGFY3SUELBKZKUGX26CBQWG2LFPBXHKGACAYOWKDDCOMJR4GQQAMEGC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",04:00AM| Greatest Mysteries Ever The Incas: A Sudden Fall (10/17/25) [TRAVEL CHANNEL USA]
 https://world-proxifier.xyz/daddylive/p/CQTTKJBGEETCIZI7GI3C2VCALJIUGEDVIY3CO4ARHIQXKGJLGEVDMYYROMJWORKUKRKT25IWEQ7CQ5L2N5ZB6NZYI5LV6FDTLBIV4PJQHRSQOFYUOBXXQ23WNUAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",05:30AM| Jimmy Kimmel Live! Season 24 Episode 25 (10/17/25) [ABC USA]
+https://world-proxifier.xyz/daddylive/p/DE6D2KBLMQPDSKB7FYUXS7K3IVIRCEDDKUZCMPZLOJ3GC4AAEIRDMNSVK4JQMBIQDINHGFASAZZBCBQRMV4GCZLMAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tv-logo.png" group-title="EVENTS| TV SHOWS",05:30AM| Jimmy Kimmel Live! Season 24 Episode 25 (10/17/25) [ABC NY USA]
+https://world-proxifier.xyz/daddylive/p/DE6D2KBLMQPDSKB7FYUXS7K3IVIRCEDDKUZCMPZLOJ3GC4AAEIRDMNSVK4JQMBIQDINHGFASAZZAUDDQCAAQUZLTDMJAIAQG/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/uefa-logo.png" group-title="EVENTS| SOCCER",02:00PM| UEFA Europa Cup Women : Ferencvarosi Budapest vs. Sparta Prague (10/17/25) [CT SPORT CZECH]
 https://world-proxifier.xyz/daddylive/p/AYIBMBDSAEQCEKRCFJSRURCCCNRV6XKVLZZW64ADG43DAPRGEQVDONSCLMJXMRKUKFADMJREMUSDO63QCYRCUNZNKAJGGRSRK5CVK437PJSRCEDVAM2T2OJRPFZEQVSXLAIBUGTTMRQHMYI/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",04:00PM| Indonesia Super League : Dewa United vs Madura United (10/17/25) [INDOSIAR]
@@ -2494,10 +2514,6 @@ https://world-proxifier.xyz/daddylive/p/DU5CEMJ2MQKD2IBAEITDQEI7CN3X67TTOEIBIFTF
 https://world-proxifier.xyz/daddylive/p/CA5CGMJTMQDTSJRTNNUHSYKALJMVKQSRCALTYJRMEEWTUPTFNBVQ2PCDK5LV2UK6L4ICKJTQAQ7CKPZFEA7C4KZKKQJBSHQQOZSWIBLVPJXXE5Q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",05:00AM| United States - NCAA Women's Soccer : Washington vs Minnesota (10/17/25) [BTN USA]
 https://world-proxifier.xyz/daddylive/p/AY5TSMJXEB2QGMJTH4QCUEI7CN5HG4LRCACDUPJAHRRSM4AWHUUCMPCDCIERIZ2RINMDUOZXGE6SU5JGGZZAMLBXL5LUAW2EKEIBU6LVCIIRYZAAAMCHEYLPPEBAWBA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",05:30AM| Jimmy Kimmel Live! Season 24 Episode 25 (10/17/25) [ABC USA]
-https://world-proxifier.xyz/daddylive/p/DE6D2KBLMQPDSKB7FYUXS7K3IVIRCEDDKUZCMPZLOJ3GC4AAEIRDMNSVK4JQMBIQDINHGFASAZZBCBQRMV4GCZLMAA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/soccer-logo.png" group-title="EVENTS| SOCCER",05:30AM| Jimmy Kimmel Live! Season 24 Episode 25 (10/17/25) [ABC NY USA]
-https://world-proxifier.xyz/daddylive/p/DE6D2KBLMQPDSKB7FYUXS7K3IVIRCEDDKUZCMPZLOJ3GC4AAEIRDMNSVK4JQMBIQDINHGFASAZZAUDDQCAAQUZLTDMJAIAQG/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="EVENTS| CRICKET",06:30AM| 1st Test Day-5 : Pakistan vs South Africa (10/17/25) [WILLOW CRICKET]
 https://world-proxifier.xyz/daddylive/p/MITCIZIGEETCIZIWFI6HIBASBEKGAUK3LEQCCMJLOIZCM4AWHU7DCMIRONKUMWKTKEIHS73QCI5SQOJ7GJZAQNZQKJMVMQAQDINBAYDBMY/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="EVENTS| CRICKET",06:30AM| 1st Test Day-5 : Pakistan vs South Africa (10/17/25) [SUPERSPORT CRICKET]
@@ -2516,6 +2532,68 @@ https://world-proxifier.xyz/daddylive/p/DILBGZIFFMTTYILSBAYCSELFLRMVKXQQBJZRIJJW
 https://world-proxifier.xyz/daddylive/p/DILBGZIFFMTTYILSBAYCSELFLRMVKXQQBJZRIJJWEY3DIPBMGNVRE6KHIEJXMUK6K5ODEMJVGY5GIATQN54GWFRSJAJGARC7IJCBAYTVDYPXE3T7OBYGW4Q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/cricket-logo.png" group-title="EVENTS| CRICKET",01:30AM| Sheffield Shield : Tasmanian Tigers vs Western Australia (10/18/25) [SKY SPORT 3 NZ]
 https://world-proxifier.xyz/daddylive/p/AA6TKIZUFUYDYILSDAWTAVC6K4KAUEDEKEQDQMJLHMSTW4ARHMWCAK2CCJCUOEDHKVBSOMBCFNZAKIBDGEQCUKJQKAJBSHQQMNNUS4YGEAVCAMDVMNSRYELFOMNREBQNAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS SIX KINGS SLAM",06:30PM| SIX KINGS SLAM : Alcaraz C. vs Fritz T. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AAOAQZIZBUNROFTSDAERQ7ASBEKHCXCTKEQTIKTFCFVHKJRWOIGTOMCFJAJWAHQQDINHGAJVFM6C2JTQCYTDSIBYLQJBSHQQAECQCYY/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS SIX KINGS SLAM",08:00PM| SIX KINGS SLAM : Sinner J. vs Djokovic N. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AAOAQZIZBUNROFTSDAERQ7ASBEKGGWK6LY3CO4APPRSCGI3FCYQSUMS6IRNFOED6DYIHS73QCE3SUOZZGZZBQMJLKRJV4FA2DIIACZTEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - ALMATY",08:00AM| ATP - ALMATY : Vukic A. vs Michelsen A. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQKBYCATD4OHSCYSMVAVWWKTCAJHW4BTEFSBQOJGHIXCSKSULQJXKHQQDINHGAJVFM6C2JTQCYTDSIBYLQJBSHQQAECQAZA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - ALMATY",09:30AM| ATP - ALMATY : Darderi L. vs Mochizuki S. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQKBYCATD4OHSCYSO5KUEVCVII5HKHDLOIZCM4AIHUUC2MCLI5MF2EDDDYIHS73QCE3SUOZZGZZBQMJLKRJV4FA2DIIACZTFM4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - ALMATY",11:00AM| ATP - ALMATY : Walton A. vs Medvedev D. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQKBYCATD4OHSCYSMRKVYRC7LZZRI7TFEQ3XKHJAGY6SAPKUIQJXAHQQDINHGAJVFM6C2JTQCYTDSIBYLQJBSHQQAECQAZA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - ALMATY",04:00PM| ATP - ALMATY : Khachanov K. vs Struff J-L. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQKBYCATD4OHSCYSPBOFCU2YKE6TUJTFDFVHKJRWOIMDCK2EKRKRI6Q5PQPHG732MUDCCOZ6FQQWWFRNINLVEWIQDINBAYTAMBZA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - BRUSSELS",01:30PM| ATP - BRUSSELS : Basilashvili N. vs Mpetshi Perricard G. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQLQEEABDAABKYQSBEKHEUKDLE7TIIZNEQWTSOLFDRSWKL2CCJ7EIVKEINMDU5IAEAQDMPBTEQQC6ZI6D4JBSHQQMRKV4PJ4ENSQCMBHGUSD623POMIQGBQEBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - BRUSSELS",03:30PM| ATP - BRUSSELS : Dzumhur D. vs Auger-Aliassime F. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQLQEEABDAABKYQSBEKHISSFLU5SAITFCZVHKJRWOIFDAPSUIAPHKXCZKFBSAPB5EBZAE63QN54GWEJ4L5OFURYQMNCEENRUHVSXQ3TVMFYGE4Y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - BRUSSELS",06:00PM| ATP - BRUSSELS : Musetti L. vs Hanfmann Y. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQLQEEABDAABKYQSBEKH2RKDKUTSCOLFDZVHKJRWOIBSIN2XL5JFUXQQNEPHG732MUDCCOZ6FQQWWFRNINLVEWIQDINBAYTAMB6Q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - BRUSSELS",07:30PM| ATP - BRUSSELS : Van De Zandschulp B. vs Spizzirri E. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQLQEEABDAABKYQSBEKGMUK6CALTA4A7GMVDCIZGHI7CSKIROAORIRSDCBRSGPBKH45TMJZZMULWKZLTDMJGOUK6LZMUG4YGEQ3TOJJYOBXXQ23UNQAQU/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - STOCKHOLM",01:30PM| ATP - STOCKHOLM : Sonego L. vs Kovacevic A. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDAICQRAAGRM7L7CMHBAY27LY3DEP3FDZVHKJRWOIACUL2QKFLEEWKTCBYX25L2N5ZBAMB6FM5TQZIKIVAFMVK5CANBU43EMV2WW/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - STOCKHOLM",02:00PM| ATP - STOCKHOLM : Etcheverry T. M. vs Kecmanovic M. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDAICQRAAGRM7L7CMHBA5KEKM5TAJRAEA3CY4ARPRVQQ5YRIRABI62VKNOTEOZ7GM5SO5I5NNZGC33ZMVLV2WSZIMIGGJZHGUSD6ZD7PJSWG7TVMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - STOCKHOLM",03:30PM| ATP - STOCKHOLM : Humbert U. vs Berrettini M. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDAICQRAAGRM7L7CMHBA6CFLUYTAIRROIIXW4BTEFVQOPCDIBLEARCZLZMXGGD6MV4G45IEEA6CKLBKCFQUORSVKFORA6L7OB2GO5DM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - STOCKHOLM",06:00PM| ATP - STOCKHOLM : Rune H. vs Fucsovics M. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDAICQRAAGRM7L7CMHBAYSFLY3HKGDLOIZCM4ADE4UDMNSHLNIEOED5DYIHS73QCE3SUOZZGZZBQMJLKRJV4FA2DIIACZTFNE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS ATP - STOCKHOLM",07:30PM| ATP - STOCKHOLM : Fearnley J. vs Ymer E. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/CIAQAZL7MQDAICQRAAGRM7L7CMHBA5SVKEQTWPBAFNSB67TFEQ4GKAC4K5ARI5I6CANHS5IEEA6CUPBDMUAT6NZ4KBPRGHQ2CAAQKY3M/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - OSAKA",04:30AM| WTA - OSAKA Galfi D. vs Fernandez L. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNAGBAZBJSR4UC6KVORA5A6CASSM4ADG43DWMJLGYXD66L5DQJR4GQQMRKT2OZZGZZBOIJCEAZSMZLTDMJAEAIAAE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - OSAKA",04:30AM| WTA - OSAKA Li A. vs Sramkova R. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNAGBAZBJSRKWASOINBARSDCAACOMJIHEVSGMLFABSWK4Y3CJTVCXS6LFBXGBREG43SKODQN54GW5DMAEAA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - OSAKA",06:00AM| WTA - OSAKA Mertens E. vs Valentova T. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNAGBAZBJSRIVCAI5IV4QYQOV6XKJRWOIJDIPBAHQ7SUL2QCJTRUEA2DIIAOMB6FM5TO5IDGEQC4JBUCEMBSFABAUAAC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - OSAKA",06:00AM| WTA - OSAKA Krueger A./Ruse G. vs Mladenovic K./Townsend T. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNAGBAZBJSREQ2HKZJVKQQQOF6XUARQEEQXKF3LOI6TM6L4LZJFAVK6L5DDUNTQBZ6GWAJ7GI6DQIBXKUJGOGQQDINBABZQHYVTWN3VAMYSALREGQIRQGIUAECQAAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - OSAKA",07:30AM| WTA - OSAKA Bouzkova M. vs Golubic V. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNAGBAZBJSRWXSHJFPV6RSRCAPHW4BTEFSBEPZJE4USYOQRMQORIGQ2CBSDMOZ6FQQWIBREG43SUKDZDMMBGBIFAAAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - OSAKA",07:30AM| WTA - OSAKA Hunter S./Krawczyk D. vs Kawaguchi N./Saito S. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNAGBAZBJSRCRC4I5IUEEDDDZ6B4IREEUTS6KJOOIHWW6KHIEJX6UKHKFLSMNRYFRZAU637CYZSEMJWCFQR2FA2DIIGINR3HYWCCZAGEQ3TOKRIPENRQEYFAUAAE/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",07:00AM| WTA - NINGBO : Kessler M. vs Samsonova L. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSPBIUGQ24KUQXKHLLOIZCM4AWGMTDMNS7LVCVKED4DYIHS73QCE3SUOZZGZZBQMJLKRJV4FA2DIIACZTHMQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",07:00AM| WTA - NINGBO : Kessler M. vs Samsonova L. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSPBIUGQ24KUQXKHLLOIZCM4AWGMTDMNS7LVCVKED4DYIHS73QCE3SUOZZGZZBQMJLKRJV4FA2DIIACZTFMM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",08:00AM| WTA - NINGBO : Eikeri U./Tang Q. vs Kichenok L./Perez E. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSOZOVWVKCLFZQA7TKAYSTWN3FANSWKL2CCJ4F2U2YKVPDYPTQBF6GWBJVG43TCZI4D4JBSHQQMRKV4PJ4ENSQCMBHGUSD623POMIQGBQEAQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",08:30AM| WTA - NINGBO : Kudermetova V. vs Paolini J. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSPBAVIVKCLU3CCPZTGNSAG7TFEQ4GKCKQLVPV2XSZCB5H25L2N5ZBAMB6FM5TQZIKIVAFMVK5CANBU43EMV3WM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",08:30AM| WTA - NINGBO : Kudermetova V. vs Paolini J. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSPBAVIVKCLU3CCPZTGNSAG7TFEQ4GKCKQLVPV2XSZCB5H25L2N5ZBAMB6FM5TQZIKIVAFMVK5CANBU43EMV2WC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",09:30AM| WTA - NINGBO : Mihalikova T./Nicholls O. vs Babos T./Stefani L. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSPZOVQUK4LE4DUJREOIIHW7YLHMUC2NS5LZABI7Y6CBDCA5ISEQYCWJTQCF6GIFRNKRKFEWSZCB6B4437PJSQMIJ3HYWCC2YWFVBVOUSZCANBUEDCMBQHC/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",10:30AM| WTA - NINGBO : Alexandrova E. vs Yuan Y. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSOJMFKSCRLY3SOPZTGNSBA7TFEQ4GKACEKNORI2I6CANHS5IEEA6CUPBDMUAT6NZ4KBPRGHQ2CAAQKYLB/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",10:30AM| WTA - NINGBO : Alexandrova E. vs Yuan Y. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSOJMFKSCRLY3SOPZTGNSBA7TFEQ4GKACEKNORI2I6CANHS5IEEA6CUPBDMUAT6NZ4KBPRGHQ2CAAQKY3G/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",01:00PM| WTA - NINGBO : Yastremska D. vs Rybakina E. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSNJKUGRCCKU7CMOZEOIAHW4BTEFVROICTKNMF2XSRCB2X25L2N5ZBAMB6FM5TQZIKIVAFMVK5CANBU43EMV3WM/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS WTA - NINGBO",01:00PM| WTA - NINGBO : Yastremska D. vs Rybakina E. (10/17/25) [TENNIS STREAM]
+https://world-proxifier.xyz/daddylive/p/AQARCZL7MQNRSCYVBEFHSCYSNJKUGRCCKU7CMOZEOIAHW4BTEFVROICTKNMF2XSRCB2X25L2N5ZBAMB6FM5TQZIKIVAFMVK5CANBU43EMV2WC/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",11:30AM| Brussels-ATP Stockholm-ATP Almaty-ATP Osaka-WTA & Ningbo-WTA Early Rounds (10/17/25) [TENNIS CHANNEL]
 https://world-proxifier.xyz/daddylive/p/CETSKNRBEE4SG2ATD4KXSYSGLRLVWWC7LQ7HQEIRAJSBIPBIGM7TY5DQMZRRI72DKFNTE6AHCEJWI4ZRFARHAZIXLBOFIVS7DVTWIETVCUSCAKBMOALT2PRLHVBBEGI6CBSFKXR5HQRWKEJMGQ7CWNZHMVZRWEQHAQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/tennis-logo.png" group-title="EVENTS| TENNIS",11:30AM| Brussels-ATP Stockholm-ATP Almaty-ATP Osaka-WTA & Ningbo-WTA Early Rounds (10/17/25) [SKY SPORTS+]
@@ -2726,9 +2804,9 @@ https://world-proxifier.xyz/daddylive/p/DY5CIKTBMRXXABBHHAYSWUC6LJKV4EDXIIZDWNDF
 https://world-proxifier.xyz/daddylive/p/DY5CIKTBMRXXABBHHAYSWUC6LJKV4EDXIIZDWNDFAI3DYKDFAI4SIOSFLNIFCEA2DIIASPBXEI6WIBRAFIQD6ZLICF6H6FA2DIIAG2TG/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/motorsport-logo.png" group-title="EVENTS| MOTORSPORT",04:10AM| Moto3 : Australian Grand Prix Practice (10/17/25) [ESPN4 BR]
 https://world-proxifier.xyz/daddylive/p/DY5CIKTBMRXXABBHHAYSWUC6LJKV4EDXIIZDWNDFAI3DYKDFAI4SIOSFLNIFCEA2DIIBMBQABNTGIFYCMV4GCZLBAQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE",02:00AM| TNA iMPACT! (10/17/25) [AXS TV USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (TNA)",02:00AM| TNA iMPACT! (10/17/25) [AXS TV USA]
 https://world-proxifier.xyz/daddylive/p/A4NRCZJ3BECRCBQGNJSXGGYSOJWGGEDEMZZQAAYEOJXH64DSMZ4Q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE",02:00AM| TNA iMPACT! (10/17/25) [SPORTSNET 360]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/wwe-logo.png" group-title="EVENTS| WWE (TNA)",02:00AM| TNA iMPACT! (10/17/25) [SPORTSNET 360]
 https://world-proxifier.xyz/daddylive/p/A4NRCZJ3BECRCBQGNJSXGGYSMBCF6QSEIM6TAJDFMFZGK4DPPBVXC2II/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mma-logo.png" group-title="EVENTS| MMA",04:00AM| Battlefield Fight League (BFL 85) : Jeremy Kennedy vs Nic Ouellet (10/17/25) [UFC FIGHT PASS]
 https://world-proxifier.xyz/daddylive/p/CE2CIMJ6EEZTSIB6F5SR6WCVLNABA7CVKE2CANLFPIDBGHDFNJ7GY6ILCJ4VCQSVLVEXGHRVFM6CCMJJMUSDQZIXLBIRG62FKVOFYNRBOBXXQZAACYDHEDJMHZMUME3EKFBUGEDZP5YHAZY/index.m3u8
@@ -2778,73 +2856,73 @@ https://world-proxifier.xyz/daddylive/p/DICRCZIFFMTTYILSD4VCYQYSDYKGEVKJKUQHKEZQ
 https://world-proxifier.xyz/daddylive/p/CEYCIEZ3E4QT6N3SDATDMRKGLJDVQED7IA3DW4DXMJ3GA4AUE4VCSMCXLNLEMQYQDINHGEJZGYYSWIZVG4VWAZLTDMJAIAQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/snooker-logo.png" group-title="EVENTS| SNOOKER",08:00PM| BetVictor Scottish Open 2025 Qualifiers (10/17/25) [DISCOVERY+]
 https://world-proxifier.xyz/daddylive/p/CEYCIEZ3E4QT6N3SDATDMRKGLJDVQED7IA3DW4DXMJ3GA4AUE4VCSMCXLNLEMQYQDINHGEJZGYYSWIZVG4VWAZLTDMJAIAQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL",01:30AM| NCAAF : Tulsa vs East Carolina (10/18/25) [ESPN USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",01:30AM| NCAAF : Tulsa vs East Carolina (10/18/25) [ESPN USA]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEJHE43DQEKEIAKHKUKDIRZRMMJXHUUDYPREOJQW66LUMFRXUEDFMNYXG732MVTHA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/ncaaf-logo.png" group-title="EVENTS| AM. FOOTBALL",01:30AM| NCAAF : Tulsa vs East Carolina (10/18/25) [SPORTKLUB 3 CROATIA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",01:30AM| NCAAF : Tulsa vs East Carolina (10/18/25) [SPORTKLUB 3 CROATIA]
 https://world-proxifier.xyz/daddylive/p/DULBCBAUMRXXAEJHE43DQEKEIAKHKUKDIRZRMMJXHUUDYPREOJQW66LCIJOEMRC3LRCTC5LDMUITMORRGE5SUZLTDMJAEBAD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [NFL SUNDAY TICKET]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [NFL SUNDAY TICKET]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUOA2CLZMJDV2UCRJEIGIORWHMQCMZD7PJSWC/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [SKY SPORTS NFL UK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [SKY SPORTS NFL UK]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUASAPDZMJBFYRSEIMIH4FIZOAIBSZD7PJSWC7A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [SKY SPORTS MAIN EVENT UK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [SKY SPORTS MAIN EVENT UK]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUASAPDZMJBFYRSEIMIH2MR4HZSROMRQHYYXEHQOPENRQEYHBA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [NOVA SPORT 2 CZ]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [NOVA SPORT 2 CZ]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUOCIMZYCFQWG63CMQIAE4YWBJSXQ3TVMF2WA6I/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [RDS 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [RDS 2]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUAA6FTZAMJBSHQQBACAA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [TSN1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [TSN1]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUDBQC3ICEMBSFABAEAQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [DAZN ELEVEN 1 PORTUGAL]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [DAZN ELEVEN 1 PORTUGAL]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MULAUHYXCF3V6UKGKVPBAYTVAAVCAMBAG4SD423POMIQMBQB/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [BEIN SPORTS 1 FRANCE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [BEIN SPORTS 1 FRANCE]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUYC4DAXCFQUGW2CIRBRAYTVCY3TGKRWGVSXQYLFNAAAI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [ESPN 2 NL]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [ESPN 2 NL]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MULRQFIXCEABG6T4CANBU43GNBZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [ARENA 1 PREMIUM SERBIA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [ARENA 1 PREMIUM SERBIA]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUJTSIBXKAJAEFDAIJKV2ORAHVSQCIJHGIWDG23POMIQGAAA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [SPORTV 2 BR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [SPORTV 2 BR]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUATWKRLMVSBGBQQOJRBA6L7OBZGW/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [FOX SPORTS MX]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [FOX SPORTS MX]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUKAIHLZMJBFYRSEIMIH2C3VPJXXE7LHNE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [ARENA SPORT 1 CROATIA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [ARENA SPORT 1 CROATIA]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUJTSIBXKAJGARC7IJCBAYTVCM3T2JJBHESHEYLPPECQCAI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [BEIN SPORTS MENA 8]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [BEIN SPORTS MENA 8]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUYC4DAXCFQWG63CMRRRAHQQDYCHE7DVPJXXE4T5/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [BEIN SPORTS MENA ENGLISH 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [BEIN SPORTS MENA ENGLISH 1]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUYC4DAXCFQWG63CMRRRAHQQDYCHEAJ3G4UTWOBNPEABEGI6CADAC/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [SPORT 5 ISRAEL]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nfl-logo.png" group-title="EVENTS| AM. FOOTBALL (NFL)",02:15AM| NFL : Cincinnati Bengals vs Pittsburgh Steelers (10/17/25) [SPORT 5 ISRAEL]
 https://world-proxifier.xyz/daddylive/p/DUJRYZLIMQLDSKZREIVTOUCGLIKHEVK6K4ZDSI3FEQ3XKABMEY7TMO2EIBKFYEDDIRKTMOJVG4QWI732MUATWKRLIUJAMFDZINBFCNRZOBXXQZDEMRYQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [MLB LEAGUE PASS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [MLB LEAGUE PASS]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQMDSKJFFIYDEVCXCN3EEVKHKUQSM4BTEFSBSPZWOIFCWPSULZLEOEDUL5KDIMBCGZZG473QBAPASZIVKRJVIQKVCBQFCIBGOBXXQZDB/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [TBS USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [TBS USA]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQMDSKJFFIYDEVCXCN3EEVKHKUQSM4BTEFSBSPZWOIFCWPSULZLEOEDUL5KDIMBCGZZG473QCEIBQZIMMJZRGHQ2CABQGZI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [TRUTV USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [TRUTV USA]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQMDSKJFFIYDEVCXCN3EEVKHKUQSM4BTEFSBSPZWOIFCWPSULZLEOEDUL5KDIMBCGZZG473QGEQD4EIPCFTWA5IQDINBAYDBME/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [TNT SPORTS 3 UK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [TNT SPORTS 3 UK]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQMDSKJFFIYDEVCXCN3EEVKHKUQSM4BTEFSBSPZWOIFCWPSULZLEOEDUL5KDIMBCGZZG473QCEOB6ZIKIFOUCQCDCABRABQ6OBXXQZDGMM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [ARENA 4 PREMIUM SERBIA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [ARENA 4 PREMIUM SERBIA]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQMDSKJFFIYDEVCXCN3EEVKHKUQSM4BTEFSBSPZWOIFCWPSULZLEOEDUL5KDIMBCGZZG473QAQQC4KZYCEDBGZCCKVOVSJRYOALDONRXHESHEYLPPEBQI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [BEIN SPORTS 5 MAX FRANCE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [BEIN SPORTS 5 MAX FRANCE]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQMDSKJFFIYDEVCXCN3EEVKHKUQSM4BTEFSBSPZWOIFCWPSULZLEOEDUL5KDIMBCGZZG473QE43QEC3ZMJBFYRSEIMIAK4YYGE6XEARHGEVTCLTFOMNREBYNAU/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [UNIMÁS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",12:08AM| MLB : Milwaukee Brewers vs Los Angeles Dodgers (10/18/25) [UNIMÁS]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQMDSKJFFIYDEVCXCN3EEVKHKUQSM4BTEFSBSPZWOIFCWPSULZLEOEDUL5KDIMBCGZZG473QCA6CECE2SBARGHQ2CAAQGYA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [MLB LEAGUE PASS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [MLB LEAGUE PASS]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZASGISMUPC4JB6IRLRGZCRINBRA6L7OBYA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [FOX SPORTS 1 USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [FOX SPORTS 1 USA]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZAEGQIMUATWKRLIVARGBIQMVRXC437PJSWC7I/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [TVA SPORTS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [TVA SPORTS]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZBAAYRMUATWKRLIVARGHQ2CAEAGYA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [SPORTSNET EAST]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [SPORTSNET EAST]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZBOJJ7G4TDQKZ4IUJHMVKDIQIBU6LVMR2WU/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [SPORTSNET ONTARIO]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [SPORTSNET ONTARIO]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZBOJJ7G4TDQKZ4IUJHYWSEKFBFSPDVPJXXE4DFMY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [SPORTSNET WEST]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [SPORTSNET WEST]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZBOJJ7G4TDQKZ4IUJGIUKDIQIBU6LVMR2WK/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [TNT SPORTS 1 UK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [TNT SPORTS 1 UK]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZBAGYEMUATWKRLIVARGBIQMV5RA6L7OB3GG/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [FOX DEPORTES]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [FOX DEPORTES]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZAEORIMULC4NJWINDFMRYQDINBAZLBMM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [BEIN SPORTS 7 MAX FRANCE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/mlb-logo.png" group-title="EVENTS| BASEBALL (MLB)",02:33AM| MLB : Toronto Blue Jays vs Seattle Mariners (10/17/25) [BEIN SPORTS 7 MAX FRANCE]
 https://world-proxifier.xyz/daddylive/p/DYMREZLIMQAT6NZ5EUYTMELQL5AVKED2KEVCM4BTEFSAMNJEEY7SSPARP5JEMWK6KVBCA5L2N5ZCMMAZBNZBQNJWINDEAFAHCB6VCK3VCY3TGKRWGVSXQYLFNUEAK/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",06:00PM| : Euroleague : Dubai Basketball vs. FC Barcelona (10/17/25) [MAGENTA SPORT 302]
 https://world-proxifier.xyz/daddylive/p/NF2RKMBAFM4TKJBVHYQHSCYSO5AVEUKZCAITIIZOG4YDOMJJHZVTGKQ7CJ2XOEDSKFBDAMB4FI6CK5L2N5ZAMJB6KROEOVIQMNAF6IJBOB3GE5TVPJXXE7Y/index.m3u8
@@ -2946,31 +3024,31 @@ https://world-proxifier.xyz/daddylive/p/CYQCEKR6EE2DOMBXNN7XS7CTKBLVCUSZCADTAPDI
 https://world-proxifier.xyz/daddylive/p/CYQCEKR6EE2DOMBXNN7XS7CTKBLVCUSZCADTAPDICMZDYJTFEQ4GW6LTOEJXWXCJLVADUNB3FIQWIBJZG4ZS4MBKCEMBSFDDIBPUEJ3VMVSRWNZHGEQD423POMIQGBYA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/basketball-logo.png" group-title="EVENTS| BASKETBALL",10:30PM| EuroCup Women : Uniao Sportiva W vs Elitzur Ramla W (10/17/25) [SPORT 5 PLUS ISRAEL]
 https://world-proxifier.xyz/daddylive/p/CYQCEKQRGESXAER5EYQDOEIICNQV4WKRL5ZQMIBKEAYDYJREOIOGKL2CCJ3FQWKEJJCSC5ICEQ7SQNDQCJZGC33ZMJBFYRSECACRAAZZEU3HEDJGEISDOJ3FOMNREAQAAU/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:00AM| NBA : Orlando Magic vs New Orleans Pelicans (10/18/25) [NBA LEAGUE PASS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Orlando Magic vs New Orleans Pelicans (10/18/25) [NBA LEAGUE PASS]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQNCEKJTEUQTMEL7KJJVSUYQIYQHKHRAEVSBUIRJG4VCWKQRMJLFQWKTKFPCA5L2N5ZAUFYRMUPC4JB6IRLRGZCRINBRA6L7OBZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:00AM| NBA : Detroit Pistons vs Washington Wizards (10/18/25) [NBA LEAGUE PASS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Detroit Pistons vs Washington Wizards (10/18/25) [NBA LEAGUE PASS]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQITKMJAEQWC2ELCLJDUIX26INZSGI3FAUSSMOBMHQWDCNS7CJSF2SSRIJKCA5L2N5ZAUFYRMUPC4JB6IRLRGZCRINBRA6L7OBZA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:00AM| NBA : Detroit Pistons vs Washington Wizards (10/18/25) [MONUMENTAL SPORTS NETWORK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:00AM| NBA : Detroit Pistons vs Washington Wizards (10/18/25) [MONUMENTAL SPORTS NETWORK]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQITKMJAEQWC2ELCLJDUIX26INZSGI3FAUSSMOBMHQWDCNS7CJSF2SSRIJKCA5L2N5ZASOR6GA7S4KZNKBPBGZ2AL5BEIIDVDYQCMMZ2EIXHEYLPPEDAKCY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [NBA LEAGUE PASS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [NBA LEAGUE PASS]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQKCIKJTEUYTQEL2KJBVWQYQIYQHKGBKE43SCPZLOIMSUOS2K5DUOEA2DIIB2FYRMUPCCNBXGA3WWFJYIJARGHQ2CAEA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN2 USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN2 USA]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQKCIKJTEUYTQEL2KJBVWQYQIYQHKGBKE43SCPZLOIMSUOS2K5DUOEA2DIIBMBQABNQGIAADARZGC33ZAUDQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [SPACE CITY HOME NETWORK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [SPACE CITY HOME NETWORK]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQKCIKJTEUYTQEL2KJBVWQYQIYQHKGBKE43SCPZLOIMSUOS2K5DUOEA2DIIAAJJREY3WIFRZGEVWWDJWLRLRG6SVIRDV6IJ6OBXXQZDMMJ2A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN DEPORTES]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN DEPORTES]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQKCIKJTEUYTQEL2KJBVWQYQIYQHKGBKE43SCPZLOIMSUOS2K5DUOEA2DIIBMBQABNZAAMBAFIQD6IBKCEMBSFADA4CQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN MEXICO]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN MEXICO]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQKCIKJTEUYTQEL2KJBVWQYQIYQHKGBKE43SCPZLOIMSUOS2K5DUOEA2DIIBMBQABNZASMBIFQYSIZLTDMJAUBQF/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN2 BR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN2 BR]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQKCIKJTEUYTQEL2KJBVWQYQIYQHKGBKE43SCPZLOIMSUOS2K5DUOEA2DIIBMBQABNQGIFYCMV4GCZLBAM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN 3 ARGENTINA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",01:30AM| NBA : Atlanta Hawks vs Houston Rockets (10/18/25) [ESPN 3 ARGENTINA]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQKCIKJTEUYTQEL2KJBVWQYQIYQHKGBKE43SCPZLOIMSUOS2K5DUOEA2DIIBMBQABNZHO5IRG42S4KZNLBOFEFA2DIIAO2TN/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",02:00AM| NBA : Chicago Bulls vs Minnesota Timberwolves (10/17/25) [NBA LEAGUE PASS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",02:00AM| NBA : Chicago Bulls vs Minnesota Timberwolves (10/17/25) [NBA LEAGUE PASS]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDQLBRFIRDMELQIZMFYQYQIYQHKHJMHQVDAIZKEYVGKDKYL5IVCQSHL5OCKMBDMV4G45I6A4JWWCJ4KBKUMUIQMBIUGIDVPJXXE7I/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",02:00AM| NBA : Chicago Bulls vs Minnesota Timberwolves (10/17/25) [CHICAGO SPORTS NETWORK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",02:00AM| NBA : Chicago Bulls vs Minnesota Timberwolves (10/17/25) [CHICAGO SPORTS NETWORK]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQLDQLBRFIRDMELQIZMFYQYQIYQHKHJMHQVDAIZKEYVGKDKYL5IVCQSHL5OCKMBDMV4G45ITFU5SQJB6LYJGARC7IJCEG4Y3GUYSKKZHHNSXQYLFNYDAI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| BASKETBALL",03:00AM| NBA : Utah Jazz vs Portland Trail Blazers (10/17/25) [NBA LEAGUE PASS]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nba-logo.png" group-title="EVENTS| NBA",03:00AM| NBA : Utah Jazz vs Portland Trail Blazers (10/17/25) [NBA LEAGUE PASS]
 https://world-proxifier.xyz/daddylive/p/DULRCZLIMQACIJB2NMHTQS2ICNBEGEDAL4QSCPBEHQQHKBBXGMRCS6LTLZJE4VKCIMIHS73QBMIAK5I4EAZSYMB4CFRFER2DCANBU43EMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/sailing-logo.png" group-title="EVENTS| SAILING / BOATING",12:00PM| Surfing: WCT Challenger Circuit - Rio de Janeiro (10/17/25) [SPORT TV6 PORTUGAL]
 https://world-proxifier.xyz/daddylive/p/AAQCEIZ3FIZGUZIFBAIXS4S2KJMFYVK6K43CO4AGHM3DMJJMEZVWQ6LDLNOBIVCVCB5DEOZVFQQCW5L2N5ZBQNJWINDBGYDGAYIGAPBHEQYDKJJZOBXXQ23XMAAA/index.m3u8
@@ -3116,93 +3194,93 @@ https://world-proxifier.xyz/daddylive/p/AAORYZLIMQOQMZLFPJSS6QQSO5PEKQSXKEQTCNJL
 https://world-proxifier.xyz/daddylive/p/AAORYZLIMQJTCNZYFY3C2UCWIAKHE6YQIYQHW4AJE4UDAMLFDISCMMSUJMJR4GQQMRTHGZDCMUATGMBUEA6GW33TCECAU/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/hockey-logo.png" group-title="EVENTS| ICE HOCKEY",07:00PM| SHL : Brynas vs Leksands (10/17/25) [TV4 HOCKEY SWEDEN]
 https://world-proxifier.xyz/daddylive/p/AAORYZLIMQLSEPB4FI3HSR2BCN4FKW2DKE6TCI3FPBXHKBATMZVQ2NSSLFLE2EDDI5KTOMB6MV4G45LHOVRA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : New York Rangers vs Toronto Maple Leafs (10/18/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : New York Rangers vs Toronto Maple Leafs (10/18/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIIDUIRKHQ7SU6L4KNBVQVIQPRKTEMZDMV4G45I6BUPGWARYLRLVAUK6IRKUE437PJSWG5I/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : New York Rangers vs Toronto Maple Leafs (10/18/25) [TSN4]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : New York Rangers vs Toronto Maple Leafs (10/18/25) [TSN4]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIIDUIRKHQ7SU6L4KNBVQVIQPRKTEMZDMV4G45IECYOH6ZLTDMJAEBIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : New York Rangers vs Toronto Maple Leafs (10/18/25) [MSG USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : New York Rangers vs Toronto Maple Leafs (10/18/25) [MSG USA]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIIDUIRKHQ7SU6L4KNBVQVIQPRKTEMZDMV4G45I5CYKWWEAKOAJBSHQQA4DAK/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : New York Rangers vs Toronto Maple Leafs (10/18/25) [V SPORT VINTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : New York Rangers vs Toronto Maple Leafs (10/18/25) [V SPORT VINTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTKMTSCIVCWWQSMFKV4V2VIIQHKJRWOIIDUIRKHQ7SU6L4KNBVQVIQPRKTEMZDMV4G45IGMUATWKRLIUJGKXK6IRKUE437PJSWA5Q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTCNR2HUWDKXKXCNSEEVKUKETTUIRWOIZCM4AIHUSTCK7STNJFQEDTKFPDEMJZEA6DO5L2N5ZAKDIVCF2VEWKVKNKV4JZQEJSXQ3TVMF3Q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [TSN2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [TSN2]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTCNR2HUWDKXKXCNSEEVKUKETTUIRWOIZCM4AIHUSTCK7STNJFQEDTKFPDEMJZEA6DO5L2N5ZB6FQXAMJBSHQQAEAQE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [RDS CA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [RDS CA]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTCNR2HUWDKXKXCNSEEVKUKETTUIRWOIZCM4AIHUSTCK7STNJFQEDTKFPDEMJZEA6DO5L2N5ZBSAIKCFYXEFA2DIIAQYDM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [BEIN SPORTS 6 MAX FRANCE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [BEIN SPORTS 6 MAX FRANCE]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTCNR2HUWDKXKXCNSEEVKUKETTUIRWOIZCM4AIHUSTCK7STNJFQEDTKFPDEMJZEA6DO5L2N5ZCSIAQP4JGARC7IJCEG43DOAEDGPDVCY3TGJJGHQIRQGIUAQEQM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [V SPORT LIVE 3 SWEDEN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Nashville Predators vs Montréal Canadiens (10/18/25) [V SPORT LIVE 3 SWEDEN]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQNTCNR2HUWDKXKXCNSEEVKUKETTUIRWOIZCM4AIHUSTCK7STNJFQEDTKFPDEMJZEA6DO5L2N5ZB2ZIKIFOUCQAQPRMUMNTVMNSQCMZQGQQDY23POMIQABA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Seattle Kraken vs Ottawa Senators (10/18/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Seattle Kraken vs Ottawa Senators (10/18/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQDDKJBGH4UTYELZIFKVWVK6CASSM4AKEYYDIJZEOIMCAN2QIZOEMQYQDINHGGYYBFZAGNB5EAYS4KZNKRABGHQ2CAAQG/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Seattle Kraken vs Ottawa Senators (10/18/25) [TSN5]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Seattle Kraken vs Ottawa Senators (10/18/25) [TSN5]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQDDKJBGH4UTYELZIFKVWVK6CASSM4AKEYYDIJZEOIMCAN2QIZOEMQYQDINHGAIDBNTWI732MVRXU4A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Seattle Kraken vs Ottawa Senators (10/18/25) [V SPORT LIVE 2 SWEDEN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Seattle Kraken vs Ottawa Senators (10/18/25) [V SPORT LIVE 2 SWEDEN]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQDDKJBGH4UTYELZIFKVWVK6CASSM4AKEYYDIJZEOIMCAN2QIZOEMQYQDINHGA3QCYRCWJZEMUPCEMZ4CEABGZ2HKVKFKPLVPJXXE5TNME/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Seattle Kraken vs Ottawa Senators (10/18/25) [TV3 SPORT DENMARK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Seattle Kraken vs Ottawa Senators (10/18/25) [TV3 SPORT DENMARK]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQDDKJBGH4UTYELZIFKVWVK6CASSM4AKEYYDIJZEOIMCAN2QIZOEMQYQDINHGAIGOZZBOJJ7G4TGWAJ4L5PVERS3CANBU43NMB6A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Florida Panthers vs New Jersey Devils (10/18/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Florida Panthers vs New Jersey Devils (10/18/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIFDAJ3FDAXDOKSUJMJXAVKGLFOCA5L2N5ZAUHI4MUKSUKB4KJLV2QCVIIIBU6LVMFYQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Florida Panthers vs New Jersey Devils (10/18/25) [NOVA SPORT 1 CZ]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Florida Panthers vs New Jersey Devils (10/18/25) [NOVA SPORT 1 CZ]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIFDAJ3FDAXDOKSUJMJXAVKGLFOCA5L2N5ZAUORGERZBQNJWINDBGBIQONVBA6L7OB2GE5TE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Florida Panthers vs New Jersey Devils (10/18/25) [V SPORT PREMIUM SWEDEN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Florida Panthers vs New Jersey Devils (10/18/25) [V SPORT PREMIUM SWEDEN]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIFDAJ3FDAXDOKSUJMJXAVKGLFOCA5L2N5ZBE5IDGU6TSMLZMFAFMWKZIVORAABCGUQTOKTVPJXXE6LW/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Florida Panthers vs New Jersey Devils (10/18/25) [SPORT 5 STARS ISRAEL]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Florida Panthers vs New Jersey Devils (10/18/25) [SPORT 5 STARS ISRAEL]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQJTYKRAEIQTQELCKJNEIWCVIIQHKJRWOIFDAJ3FDAXDOKSUJMJXAVKGLFOCA5L2N5ZBOJJ7G4TGW4DZMJDFERSDCB4UGIJUGUUXE3T7OB2GM7A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Winnipeg Jets vs Philadelphia Flyers (10/18/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Winnipeg Jets vs Philadelphia Flyers (10/18/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBDSKZ4EI2TYVQSPFIUIQYQIYQHKABNHMUDINBAHY5S2MCQCJ2VQSKVIJBXG732MUOAYGLQAIZSMIB2KROEOUKCCANBU43EMU/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Winnipeg Jets vs Philadelphia Flyers (10/18/25) [NBCS PHILADELPHIA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Winnipeg Jets vs Philadelphia Flyers (10/18/25) [NBCS PHILADELPHIA]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBDSKZ4EI2TYVQSPFIUIQYQIYQHKABNHMUDINBAHY5S2MCQCJ2VQSKVIJBXG732MUOAMFQDMUBCGLBVKBLFMWCALBMVC437PJSWK43C/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Winnipeg Jets vs Philadelphia Flyers (10/18/25) [TSN3]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Winnipeg Jets vs Philadelphia Flyers (10/18/25) [TSN3]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBDSKZ4EI2TYVQSPFIUIQYQIYQHKABNHMUDINBAHY5S2MCQCJ2VQSKVIJBXG732MUDBOG3DMV4GCZLIAAAQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Winnipeg Jets vs Philadelphia Flyers (10/18/25) [V SPORT LIVE 4 SWEDEN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Winnipeg Jets vs Philadelphia Flyers (10/18/25) [V SPORT LIVE 4 SWEDEN]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBDSKZ4EI2TYVQSPFIUIQYQIYQHKABNHMUDINBAHY5S2MCQCJ2VQSKVIJBXG732MUCGIBRAFIQD6ZIVLBCFMFAECBRUONRRGUVXE3T7OB3WW/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Colorado Avalanche vs Columbus Blue Jackets (10/18/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Colorado Avalanche vs Columbus Blue Jackets (10/18/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLD6KJ5HESD2XQSOJBFCXCRLYYD2NLFEQ3XKEZKHY7CQO2EIEJXMXCFKUIBSNBTFY3TAJTQN54GWCYRPUJHIVK5KVJVKPJBGU3XE3T7OB2GI/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Colorado Avalanche vs Columbus Blue Jackets (10/18/25) [ALTITUDE USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Colorado Avalanche vs Columbus Blue Jackets (10/18/25) [ALTITUDE USA]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLD6KJ5HESD2XQSOJBFCXCRLYYD2NLFEQ3XKEZKHY7CQO2EIEJXMXCFKUIBSNBTFY3TAJTQN54GWBBVIVNUOQKUKUIGKAAUOBXXQZDMMJ3A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:00AM| NHL : Colorado Avalanche vs Columbus Blue Jackets (10/18/25) [V SPORT EXTRA SWEDEN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:00AM| NHL : Colorado Avalanche vs Columbus Blue Jackets (10/18/25) [V SPORT EXTRA SWEDEN]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLD6KJ5HESD2XQSOJBFCXCRLYYD2NLFEQ3XKEZKHY7CQO2EIEJXMXCFKUIBSNBTFY3TAJTQN54GWE3ZMJBFYRSECB2UQJZHGFSQCMZQGQQDY23POMIQCAY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:30AM| NHL : Edmonton Oilers vs New York Islanders (10/18/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:30AM| NHL : Edmonton Oilers vs New York Islanders (10/18/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQIDIKB5EUYTMXYSPROVYVKCINZSGI3FDQQSE4A4HU4S46LYIFPVKXSUKVBCA5L2N5ZAUHI4MUKSUKB4KJLV2QCVIIIBU6LVMFZA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:30AM| NHL : Edmonton Oilers vs New York Islanders (10/18/25) [SPORTSNET 360 CA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:30AM| NHL : Edmonton Oilers vs New York Islanders (10/18/25) [SPORTSNET 360 CA]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQIDIKB5EUYTMXYSPROVYVKCINZSGI3FDQQSE4A4HU4S46LYIFPVKXSUKVBCA5L2N5ZBOJJ7G4TDQKZ4IUJAAAQACBZXC437PJSWM5DM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",01:30AM| NHL : Edmonton Oilers vs New York Islanders (10/18/25) [V SPORT LIVE 1 SWEDEN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",01:30AM| NHL : Edmonton Oilers vs New York Islanders (10/18/25) [V SPORT LIVE 1 SWEDEN]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQIDIKB5EUYTMXYSPROVYVKCINZSGI3FDQQSE4A4HU4S46LYIFPVKXSUKVBCA5L2N5ZBE5IDGU6TSMLZPVNUKUIQAEIGGJBQGQQDYZD7PJSWO4Q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBTCKZREQYC6VCACN3VCXSFKM4CM4BTEFSBCMJJHYVDM6LCIZJEMQYQDINHGGYYBFZAGNB5EAYS4KZNKRABGHQ2CAAQQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [SPORTSNET ONE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [SPORTSNET ONE]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBTCKZREQYC6VCACN3VCXSFKM4CM4BTEFSBCMJJHYVDM6LCIZJEMQYQDINHGBRAFIQDAJR6EATGWCRXKQJBSHQQAQAQC/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [VIAPLAY SPORTS 1 UK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [VIAPLAY SPORTS 1 UK]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBTCKZREQYC6VCACN3VCXSFKM4CM4BTEFSBCMJJHYVDM6LCIZJEMQYQDINHGAZZEQRCQNBJMUATWKRLIVARGBIQMV5RA6L7OBYWO5I/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [SPORT TV3 PORTUGAL]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [SPORT TV3 PORTUGAL]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBTCKZREQYC6VCACN3VCXSFKM4CM4BTEFSBCMJJHYVDM6LCIZJEMQYQDINHGBRAFIQDA5IECNQWWFJWINDEMU2RLQIBU6LVMRYGM/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [MAX SPORT 2 BULGARIA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [MAX SPORT 2 BULGARIA]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBTCKZREQYC6VCACN3VCXSFKM4CM4BTEFSBCMJJHYVDM6LCIZJEMQYQDINHGGBRHVZBOJJ7G4TGW53ZONDV6U2RIJMVC437PJSWM43G/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [V SPORT 1 SWEDEN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [V SPORT 1 SWEDEN]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBTCKZREQYC6VCACN3VCXSFKM4CM4BTEFSBCMJJHYVDM6LCIZJEMQYQDINHGA3QCYRCWJZEMVRWWFROKRLFMWQQDINBAZLN/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [MAX SPORT 2 BULGARIA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",02:00AM| NHL : Vancouver Canucks vs Dallas Stars (10/17/25) [MAX SPORT 2 BULGARIA]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQBTCKZREQYC6VCACN3VCXSFKM4CM4BTEFSBCMJJHYVDM6LCIZJEMQYQDINHGGARDVZBOJJ7G4TGW53ZONDV6U2RIJMVC437PJSWM43G/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLT6NRGEQVXS42AIZOV4QYQIYQHKBRAGUSSM4ACHUTSCPC7CJ4FUWKXLBCCA5L2N5ZAUHI4MUKSUKB4KJLV2QCVIIIBU6LVMF6A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [NESN USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [NESN USA]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLT6NRGEQVXS42AIZOV4QYQIYQHKBRAGUSSM4ACHUTSCPC7CJ4FUWKXLBCCA5L2N5ZAUEADBNZB4FQYCEMBSFAHAYBA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [NOVA SPORT 1 CZ]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [NOVA SPORT 1 CZ]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLT6NRGEQVXS42AIZOV4QYQIYQHKBRAGUSSM4ACHUTSCPC7CJ4FUWKXLBCCA5L2N5ZAUORGERZBQNJWINDBGBIQONVBA6L7OB2GE5TE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [SKY SPORT TOP EVENT DE]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [SKY SPORT TOP EVENT DE]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLT6NRGEQVXS42AIZOV4QYQIYQHKBRAGUSSM4ACHUTSCPC7CJ4FUWKXLBCCA5L2N5ZBOPRJMUATWKRLIUJGOW2ACB2UMNR3ERSRMALVPJXXE7TQN4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [V SPORT VINTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Boston Bruins vs Vegas Golden Knights (10/17/25) [V SPORT VINTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLT6NRGEQVXS42AIZOV4QYQIYQHKBRAGUSSM4ACHUTSCPC7CJ4FUWKXLBCCA5L2N5ZBE5IDGU6TSMLZM5NV2QCVIIIBU6LVMJ3Q/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Carolina Hurricanes vs Anaheim Ducks (10/17/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Carolina Hurricanes vs Anaheim Ducks (10/17/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLDCNZ5E4WDOUASPNAUEQSZKMZDWNJWOIZCM4AEHQVC2PCYL4JXARKTLNBXG732MUOAYGLQAIZSMIB2KROEOUKCCANBU43HMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Carolina Hurricanes vs Anaheim Ducks (10/17/25) [V SPORT PREMIUM SWEDEN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Carolina Hurricanes vs Anaheim Ducks (10/17/25) [V SPORT PREMIUM SWEDEN]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQLDCNZ5E4WDOUASPNAUEQSZKMZDWNJWOIZCM4AEHQVC2PCYL4JXARKTLNBXG732MUCGIBRAFIQD6ZIJINLV4XKFLUIGGJBQGQQDYZD7PJSWA6A/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Pittsburgh Penguins vs Los Angeles Kings (10/17/25) [NHL GAMECENTER]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Pittsburgh Penguins vs Los Angeles Kings (10/17/25) [NHL GAMECENTER]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQCTSMJGHATSYQ2VLMKGAVK6K4TDYPRWOIZCM4AJHU4GKGC7KVLFQVKDCB5TUOZXGZZG473QBMNAOZI6KBPVMV2VLZCFKILVPJXXE5TE/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Pittsburgh Penguins vs Los Angeles Kings (10/17/25) [SPORTSNET PITTSBURGH]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Pittsburgh Penguins vs Los Angeles Kings (10/17/25) [SPORTSNET PITTSBURGH]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQCTSMJGHATSYQ2VLMKGAVK6K4TDYPRWOIZCM4AJHU4GKGC7KVLFQVKDCB5TUOZXGZZG473QCYRCINZNIJ6FMQAQMBMUIJZGGIYCAIZ5OBXXQ234NMBQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| ICE HOCKEY",04:00AM| NHL : Pittsburgh Penguins vs Los Angeles Kings (10/17/25) [V SPORT EXTRA SWEDEN]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/nhl-logo.png" group-title="EVENTS| NHL",04:00AM| NHL : Pittsburgh Penguins vs Los Angeles Kings (10/17/25) [V SPORT EXTRA SWEDEN]
 https://world-proxifier.xyz/daddylive/p/DUORYZLIMQCTSMJGHATSYQ2VLMKGAVK6K4TDYPRWOIZCM4AJHU4GKGC7KVLFQVKDCB5TUOZXGZZG473QCNZBQNJWINDBG4KIIRBFC4YGE4QDMIJ3OBXXQ23WNE/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/rugby-logo.png" group-title="EVENTS| RUGBY UNION",09:00PM| Pro D2 : Vannes vs Union Sportive Oyonnax (10/17/25) [CANAL+ SPORT FRANCE]
 https://world-proxifier.xyz/daddylive/p/AMTT6ZIWOZ2WUZIEFIVTOVCBCNBEGEDFLY5DUPTFAE2DUIRRHM6SA6L6JNOFUXSRJAIHS73QAYZSUNB4NZZBQNJWINDBG4SCKFPFGNTVPJXXE5LHMI/index.m3u8
@@ -3212,7 +3290,7 @@ https://world-proxifier.xyz/daddylive/p/DQTTYIB4MQMTSIRTNMJDMXCXLUKAUEDCKE3TUPJO
 https://world-proxifier.xyz/daddylive/p/AA4T6MZTF46DCZIXGMYSWUC6LJJVCEDHL47DAPTFNBSB2OJROIPCMNARMZAVUUKGKEICKJT6MUCC65IDFE6T2JBXCFYECVKELFBVYMRDGFSXQ3TVDIFBQ2YWFFPEARYUMNOF6RRSHY4SI4TWOUMAC4TBN54QABA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",08:30PM| I. Liga : Astra Nowa Sol vs. BKS Visla Bydgoszcz (10/17/25) [POLSAT SPORT 1 POLAND]
 https://world-proxifier.xyz/daddylive/p/DJ5XACJ3EM2HA73SBI3C2Q2TCN5F6R2RCAADUPDFEQ3XW4AHDEMGKD2YIFPVKEDSJFKDIORDH4YT45L2N5ZBWKRVIJJUOFDDIBPUEJ3VMFSQEKZZGEVTM23POMIQMBA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",01:00AM| Women's College Volleyball : Purdue vs. Indiana (10/18/25) [BTN USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| NCAA WOMEN'S VOLLEYBALL",01:00AM| Women's College Volleyball : Purdue vs. Indiana (10/18/25) [BTN USA]
 https://world-proxifier.xyz/daddylive/p/AQ5D2IB4MMTHABR5E4UTYVSXCNRF6XC4KUVDOMJJHZSG64AVE44SCLCUCJCUOHQQPFPDOPBRFMZWI732MUIB6C3ZMRQXEFA2DIIAG2TC/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| VOLLEYBALL",03:00AM| Women's College Volleyball : Michigan at Northwestern (10/17/25) [BTN USA]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/imgs/volleyball-logo.png" group-title="EVENTS| NCAA WOMEN'S VOLLEYBALL",03:00AM| Women's College Volleyball : Michigan at Northwestern (10/17/25) [BTN USA]
 https://world-proxifier.xyz/daddylive/p/AQ5D2IB4MMTHABR5E4UTYVSXCNRF6XC4KUVDOMJJHZSG64AIHMUC2MCWKNORIUKECB7DYJZEFUSSCJREEAQCKZLTDMJHCYD6CBSWGETVPJXXE53MM4/index.m3u8
