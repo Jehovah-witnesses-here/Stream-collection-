@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 15, 2025 at 18:43 UTC
+    **Last Updated:** October 16, 2025 at 01:53 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 93.1% of streams are working  
-    **Current FL Server:** fl7  
-    **Changes Made:** 46 streams updated  
-    **Issues Found:** 15 streams need attention  
+    **Overall Health:** 93.5% of streams are working  
+    **Current FL Server:** fl1  
+    **Changes Made:** 45 streams updated  
+    **Issues Found:** 14 streams need attention  
     
     ---
     
@@ -15,23 +15,18 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 150 | 1 | 15 | 165 |
+    | Regular Channels | 151 | 0 | 14 | 165 |
     | Event Channels | N/A | 45 | 0 | 51 |
-    | **TOTAL** | **201** | **46** | **15** | **216** |
+    | **TOTAL** | **202** | **45** | **14** | **216** |
     
-    ## ✅ Successfully Fixed (1 channels)
     
-    These channels were broken but are now working:
-    
-    **fl1 → fl7:** BET GOSPEL  
-
     ## 🔄 Event Channels Updated (45 channels)
     
     These event channels were updated to stay current (they're expected to be offline unless there's a live event):
     
-    **fl1 → fl7:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+    **fl7 → fl1:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
 
-    ## ❌ Channels Still Having Issues (15 channels)
+    ## ❌ Channels Still Having Issues (14 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -41,7 +36,6 @@
 • **DISNEY CHANNEL** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
-• **MGM+** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **NewsNation** - No working fl server found  
@@ -55,7 +49,7 @@
     
     ## 🎉 Success!
     
-    **46 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    **45 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
