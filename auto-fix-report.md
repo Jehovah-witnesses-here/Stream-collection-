@@ -1,6 +1,6 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 17, 2025 at 01:53 UTC
+    **Last Updated:** October 17, 2025 at 06:40 UTC
     
     ## 📊 Quick Summary
     
@@ -33,7 +33,7 @@
 • **mtvU** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **QVC** - No working fl server found  
+• **SMITHSONIAN CHANNEL** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
