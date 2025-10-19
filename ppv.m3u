@@ -1,13 +1,13 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-19 15:15:10 UTC
+# Last updated: 2025-10-19 16:18:32 UTC
 
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",07:00AM | 24/7 COWS | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8
-#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family​‌​‌​‌​‌‌​‌‌‌‌‌​‌‌‌‌​​​​‌‌​‌‌‌‌​ Guy | 01/18/25
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family‌​‌‌​​​​​‌‌​‌‌‌‌​​‌‌‌‌​‌​​‌‌‌​‌‌ Guy | 01/18/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
@@ -32,11 +32,6 @@ https://gg.poocloud.in/seriea_atalanta/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/670fc5a062c22935ed91f8938edc9bb3-thumbnail.jpg" group-title="FOOTBALL",03:00PM | Cagliari vs. Bologna | 10/19/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/seriea_cagliari/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/9526ed15a6be385ba852847d38a5db1a-thumbnail.jpg" group-title="AMERICAN FOOTBALL",07:00PM | Carolina Panthers vs. New York Jets | 10/19/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -72,11 +67,6 @@ https://gg.poocloud.in/ligue1_fc-nantes/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/bundesliga_freiburg/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d4227bce80f2bfaed64d8a00e50a2b8a-thumbnail.jpg" group-title="FOOTBALL",03:00PM | Genoa vs. Parma | 10/19/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/seriea_genoa/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/32bc1f8ee6d16ee7c6ed334a81859278-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Getafe CF vs. Real Madrid | 10/19/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -157,11 +147,6 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/minnesotavikings/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/49ef3ff2952e387ebafdac621641650b-thumbnail.jpg" group-title="FOOTBALL",03:00PM | RC Lens vs. Paris FC | 10/19/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/ligue1_rc-lens/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/8710eabaf8b01909df9247c397f1cc51-thumbnail.jpg" group-title="FOOTBALL",05:15PM | Rennes vs. AJ Auxerre | 10/19/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -182,11 +167,6 @@ https://gg.poocloud.in/bundesliga_st-pauli/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://gg.poocloud.in/detroitlions/index.m3u8
-#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/9a23fc985fda18ccdc50d334a6793037-thumbnail.jpg" group-title="FOOTBALL",03:00PM | Tottenham Hotspur vs. Aston Villa | 10/19/25
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://gg.poocloud.in/epl_spurs/index.m3u8
 #EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b160610a37287bf8dd15e0c1412c80a5-thumbnail.jpg" group-title="FOOTBALL",05:15PM | Toulouse FC vs. FC Metz | 10/19/25
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
