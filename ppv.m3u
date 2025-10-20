@@ -1,7 +1,494 @@
 #EXTM3U
 # PPV Playlist
-# Last updated: 2025-10-20 08:25:20 UTC
+# Last updated: 2025-10-20 09:20:30 UTC
 
-A server error has occurred
-INTERNAL_FUNCTION_INVOCATION_FAILED
-cle1::8lpg8-1760948641542-46e74b6856b2
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 STREAMS",07:00AM | 24/7 COWS | 01/18/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/cows/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 STREAMS",10:00AM | 24/7 Family​​‌​​‌‌​​​​​​​​​​​​‌​‌‌‌​​​​​​​​​​‌​​‌​‌​‌​​​​​​‌​‌‌‌​‌‌​​‌​​​​​​​​​‌‌​​‌​​‌​‌​‌‌‌​​‌​‌‌​​​​‌​‌​‌‌​‌​​​​‌‌​​‌‌‌​‌​‌​​​​​​​‌‌​​‌​ Guy | 01/18/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/familyguy/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 STREAMS", | 24/7 South Park |
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/southpark/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 STREAMS",12:28PM | 24/7 The Simpsons | 01/18/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/thesimpsons/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/35baa61387b9f48cf57947c81f9118a9-thumbnail.jpg" group-title="FOOTBALL",06:45PM | AEK Athens vs. Aberdeen | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_aek-athens/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1a5a204167dad53eae5187a449da3af5-thumbnail.jpg" group-title="FOOTBALL",07:00PM | AS Monaco vs. Toulouse FC | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ligue1_as-monaco/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/712a7b194d419246b6c6cc482c01fe2e-thumbnail.jpg" group-title="FOOTBALL",09:00PM | AZ Alkmaar vs. S. Bratislava | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_az-alkmaar/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/31c94002a4bb00343187ffc985b7155a-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Arsenal vs. Atleti | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_arsenal/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b0bf8233d2d2e4a65e7d3fe9a457376e-thumbnail.jpg" group-title="FOOTBALL",04:00PM | Arsenal vs. Crystal Palace | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_arsenal/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0cd714627942eea49e428a0c161a4ad1-thumbnail.jpg" group-title="FOOTBALL",04:00PM | Aston Villa vs. Manchester City | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_aston-villa/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b6af1afff092505e39d7df3955bedbe2-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Atalanta vs. Slavia Praha | 10/22/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_atalanta/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/2b4719c42551cdf520e2656d77bf6e55-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Athletic Club vs. Qarabağ | 10/22/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_athletic-club/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c61945ac140ad9045ae0a353252c26b8-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Augsburg vs. RB Leipzig | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bundesliga_augsburg/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a94438736f863162b819807b25264ebc-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Barcelona vs. Olympiacos | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_barcelona/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/7f7b580f88ec3fb7d05b643b3d2fb9e8-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Bayern München vs. Club Brugge | 10/22/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_bayern-munchen/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d0cb1754fe8f82aa58c449111a8acda6-thumbnail.jpg" group-title="FOOTBALL",04:00PM | Bournemouth vs. Nottingham Forest | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_bournemouth/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cde5a84d1cc42f243b7cde539f2b55d0-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Braga vs. Crvena Zvezda | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_braga/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3c9fe29d6772ced57df38d7324a56201-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Brann vs. Rangers | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_brann/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bfdd7d7fd78fd33ce115aec71ae851ae-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Breiðablik vs. KuPS Kuopio | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_breiðablik/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4f842e62a1cbc9375a9fa0878f771b78-thumbnail.jpg" group-title="FOOTBALL",08:30PM | Bremen vs. Union Berlin | 10/24/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bundesliga_bremen/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/86c22e6b582110bf5e2bed3ccea20cf5-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Brentford vs. Liverpool | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_brentford/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e2b3701f83157fa0d62a593c678ae210-thumbnail.jpg" group-title="FOOTBALL",05:00PM | Brest vs. PSG | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ligue1_brest/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/da1168411f3d0dfd15f92979fafbe43d-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Celta vs. Nice | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_celta/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/339b327f3c74b9487e374a47b3777ce8-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Celtic vs. Sturm Graz | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_celtic/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/b860233ca03a9eb921986bb43edbcbf4-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Chelsea vs. Ajax | 10/22/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_chelsea/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5edb4cfe6d8fd6e86c690207a3043cf7-thumbnail.jpg" group-title="FOOTBALL",04:00PM | Chelsea vs. Sunderland | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_chelsea/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6958cf86d5be5e5fa21dbc12c302b933-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Copenhagen vs. B. Dortmund | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_copenhagen/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f2e6ce708e20b82b2c2f23923c0fd907-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Cremonese vs. Atalanta | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_cremonese/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/97d3db09fcd2489c8dc0648b0a0b68fd-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Cremonese vs. Udinese | 10/20/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_cremonese/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d3eaa5473c828ce38458ac8a483275b5-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Crystal Palace vs. AEK Larnaca | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_crystal-palace/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/90d75b9ac2637a4496d9878ca1172ac2-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Deportivo Alavés vs. Valencia CF | 10/20/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/laliga_d-alaves/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/03af6ddf1e682e623813f72523624932-thumbnail.jpg" group-title="FOOTBALL",06:30PM | Dortmund vs. Cologne | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bundesliga_dortmund/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e254d0aafe04df14aef5dc82be24f213-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Drita vs. Omonoia | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_drita/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c01d1ae46e3b507d8b0552955c1362d8-thumbnail.jpg" group-title="FOOTBALL",06:30PM | Everton vs. Tottenham Hotspur | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_everton/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4d295abce6d4083c26f7fc06a0d97b07-thumbnail.jpg" group-title="FOOTBALL",06:45PM | FCSB vs. Bologna | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_fcsb/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/754b53e1f64fd70f77c5d73ba8606a8c-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Fenerbahçe vs. Stuttgart | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_fenerbahce/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cd880d22c7e5202a506081312b6ebb93-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Feyenoord vs. Panathinaikos | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_feyenoord/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/9d7dd8d5314dd63e0124ec88e758083a-thumbnail.jpg" group-title="FOOTBALL",07:00PM | Fiorentina vs. Bologna | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_fiorentina/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/16c23f3e87d8d6591e1d206daa47afc1-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Frankfurt vs. Liverpool | 10/22/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_frankfurt/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ce068d463b0d87c47324d9a8a15b7e74-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Frankfurt vs. St. Pauli | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bundesliga_frankfurt/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4930abd3d1401a33e86241687ad06484-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Freiburg vs. Utrecht | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_freiburg/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cb6c4b77a37f0f7ed73477d8ba214181-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Galatasaray vs. Bodø/Glimt | 10/22/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_galatasaray/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6ab07959cdcb77034968612869d8f37f-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Genk vs. Real Betis | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_genk/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a7d2f7e427542b621365abd4cb93ea46-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Gladbach vs. Bayern | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bundesliga_gladbach/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cbd22b2edc0825f3b7acf7bffa9b6b67-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Go Ahead Eagles vs. Aston Villa | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_go-ahead-eagles/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/126c34d1139dda3a24b654c4d1377cc8-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Hamburg vs. Wolfsburg | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bundesliga_hamburg/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ae76dbd620d9560e2bf4c3a0c6318c40-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Hamrun Spartans  vs. Lausanne-Sport | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_hamrun-spartans-/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/766daac4ad7021b434aea667142b273b-thumbnail.jpg" group-title="FOOTBALL",04:00PM | Hellas Verona vs. Cagliari | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_hellas-verona/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/bca80ee1fe90c4447812143ec5c78af5-thumbnail.jpg" group-title="FOOTBALL",03:30PM | Hoffenheim vs. Heidenheim | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bundesliga_hoffenheim/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ae321c5614161e1634dd4f6f541ca914-thumbnail.jpg" group-title="AMERICAN FOOTBALL",04:00AM | Houston Texans vs. Seattle Seahawks | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seattleseahawks/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/266f844b2716a8796c43fbafdda2c190-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Häcken vs. Rayo Vallecano | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_hacken/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d72e50b7a85b8841d40d5a7a52780df6-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Kairat Almaty vs. Pafos | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_kairat-almaty/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dba362444aad24cd714e1ff7e4b5beaa-thumbnail.jpg" group-title="FOOTBALL",09:00PM | L. Red Imps vs. Lech Poznań | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_l.-red-imps/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/da4f7970e7b658c1e6ff3635a760c11e-thumbnail.jpg" group-title="FOOTBALL",09:45PM | Lazio vs. Juventus | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_lazio/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3a21d78721e7b79971ef9170b3c64a84-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Leeds United vs. West Ham United | 10/24/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_leeds/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/73c4ce170cd7f745a2d592e62901fbd6-thumbnail.jpg" group-title="FOOTBALL",04:30PM | Leverkusen vs. Freiburg | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bundesliga_leverkusen/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a7863fd41e0d0c0ba3c7ddcc2b1f08f4-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Leverkusen vs. Paris | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_leverkusen/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/fcc28b3448032fee1abcfad0c0f52564-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Lille vs. PAOK | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_lille/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1cb9110323ae962571cef2687002d901-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Lyon vs. Basel | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_lyon/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c62dbc0a7ddbc6aa7d65925d146ce07a-thumbnail.jpg" group-title="FOOTBALL",09:00PM | M. Tel-Aviv vs. Midtjylland | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_m.-tel-aviv/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a3c138dde0c51c624e9d2abeff3c7c1d-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Mainz vs. Zrinjski | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_mainz/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4bf443e2414dba8bf4c1d9e0f72e1ad0-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Malmö vs. GNK Dinamo | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_malmo/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/544fcf3f6d51e511c6002f5320592d18-thumbnail.jpg" group-title="FOOTBALL",06:30PM | Manchester United vs. Brighton and Hove Albion | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_man-utd/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c7caf570cf3494e7f9ad1ae3f3122242-thumbnail.jpg" group-title="24/7 STREAMS",08:00AM | Master stream test | 08/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/6f1d52640daaa17a019a41768bed5447-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Milan vs. Pisa | 10/24/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_milan/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/badbdf122e87630f81973ba1a3857f77-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Monaco vs. Tottenham | 10/22/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_monaco/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/98638e94f650dede648f11fa327fe00b-thumbnail.jpg" group-title="FOOTBALL",06:00PM | Napoli vs. Inter | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_napoli/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/4235f1d840877cfba78ac30c5e22614f-thumbnail.jpg" group-title="FOOTBALL",04:00PM | Newcastle United vs. Fulham | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_newcastle/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1064663bcbc06b6c2c57b0721f8876d2-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Newcastle vs. Benfica | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_newcastle/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e26435ec16de114d5d511d74cfd6c6b9-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Nott'm Forest vs. Porto | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_nottm-forest/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/776705def4f5e1d6fa127b3bcd6463d8-thumbnail.jpg" group-title="FOOTBALL",09:00PM | PSV vs. Napoli | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_psv/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/74f58a9828c9f453f4b8c7a163bf70ba-thumbnail.jpg" group-title="FOOTBALL",08:45PM | Paris FC vs. FC Nantes | 10/24/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ligue1_paris-fc/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cd9f75061ce113c23828ba530846af79-thumbnail.jpg" group-title="FOOTBALL",03:00PM | Parma vs. Como | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_parma/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/e464001738817ed336815c0423ef09d6-thumbnail.jpg" group-title="FOOTBALL",09:05PM | RC Lens vs. OM | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ligue1_rc-lens/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/5ffd213396132d52f3a91d791d22dd6f-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Real Madrid vs. Juventus | 10/22/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_real-madrid/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/fbd7071e6c244da80d72de9b7592a42e-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Rijeka vs. Sparta Praha | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_rijeka/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/240b08f733cb8dd183e90da8e816805c-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Roma vs. Viktoria Plzeň | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_roma/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c9fdf7376688f0304fb84c4d7a1d8dac-thumbnail.jpg" group-title="FOOTBALL",06:45PM | SK Rapid vs. Fiorentina | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_sk-rapid/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/1dd2ac761257e7297ff5b6e8b4f09b5b-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Salzburg vs. Ferencváros | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_salzburg/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/c0c4be84cd487bbd7abaa8de98920d53-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Samsunspor vs. Dynamo Kyiv | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_samsunspor/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d4f8893d877cb4ca5ab9d435973f2552-thumbnail.jpg" group-title="FOOTBALL",04:00PM | Sassuolo vs. Roma | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_sassuolo/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/dde154fba2e1dc8869d95d942b84afd3-thumbnail.jpg" group-title="BASEBALL",02:08AM | Seattle Mariners vs. Toronto Blue Jays | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bluejays/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/40b34f9c8fe4c28ba594a1e1c5304b22-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Shakhtar vs. Legia Warszawa | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_shakhtar/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/d976395ba3ab0c7d4b7c220949c80916-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Shamrock Rovers vs. Celje | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_shamrock-rovers/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/ad3a4866e41b74bb18a3de9bacd83fef-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Shkëndija vs. Shelbourne | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_shkendija/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/75ad282c91a1b71f7811658da22f577a-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Sigma Olomouc vs. Raków | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_sigma-olomouc/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/602d3b5580acede5f8fbd49638c53b46-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Sporting CP vs. Marseille | 10/22/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_sporting-cp/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/67286d5217a7fdbc7cb555f1a8707360-thumbnail.jpg" group-title="FOOTBALL",06:45PM | Strasbourg vs. Jagiellonia | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_strasbourg/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f9da9754f10a21e0c5e7ed7187c06185-thumbnail.jpg" group-title="FOOTBALL",06:30PM | Stuttgart vs. Mainz | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/bundesliga_stuttgart/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f9d7ef3f23f6d251ad6f208a283932ac-thumbnail.jpg" group-title="AMERICAN FOOTBALL",01:00AM | Tampa Bay Buccaneers vs. Detroit Lions | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/detroitlions/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/0f3d5e807fe4819b1457d286dd9a4b3f-thumbnail.jpg" group-title="FOOTBALL",01:30PM | Torino vs. Genoa | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_torino/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/3130002ba033da4e7fbd4130853b186b-thumbnail.jpg" group-title="FOOTBALL",09:00PM | U. Craiova vs. Noah | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uecl_u.-craiova/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/94aa539acc81bde7b2e27a9645791ca6-thumbnail.jpg" group-title="FOOTBALL",03:00PM | Udinese vs. Lecce | 10/25/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/seriea_udinese/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/a1441bc27e8c28e6eb5255ac91adbf51-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Union SG vs. Inter | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_union-sg/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/952234f3ad82e5bfb07ec5b8edd55925-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Villarreal vs. Man City | 10/21/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/ucl_villarreal/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/cf838fcc32328685568c748b2794474c-thumbnail.jpg" group-title="FOOTBALL",09:00PM | West Ham United vs. Brentford | 10/20/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_west-ham/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/187d77447ead4e144cf655cdd2e68d2c-thumbnail.jpg" group-title="FOOTBALL",04:00PM | Wolverhampton Wanderers vs. Burnley | 10/26/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/epl_wolves/index.m3u8
+#EXTINF:-1 tvg-logo="https://ppv.to/assets/thumb/f69a64b2bfff91fdf66b5166f49bb559-thumbnail.jpg" group-title="FOOTBALL",09:00PM | Young Boys vs. Ludogorets | 10/23/25
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://gg.poocloud.in/uel_young-boys/index.m3u8
