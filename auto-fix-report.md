@@ -1,6 +1,6 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 21, 2025 at 06:39 UTC
+    **Last Updated:** October 21, 2025 at 12:55 UTC
     
     ## 📊 Quick Summary
     
@@ -28,7 +28,6 @@
 • **CINEMAX MOREMAX** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
-• **ESPN U** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
 • **mtvU** - No working fl server found  
@@ -38,6 +37,7 @@
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
+• **WGN** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
