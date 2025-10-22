@@ -138,7 +138,7 @@ https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="MOJ Sports" tvg-id="Fox.Sports.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2",FS2
 https://fl7.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="Fuse",Fuse
-https://fl51.moveonjoy.com/FUSE/index.m3u8
+https://fl1.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="FX",FX
 https://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="FX.Movie.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" tvg-name="FXM",FXM
