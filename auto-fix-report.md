@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 23, 2025 at 12:55 UTC
+    **Last Updated:** October 23, 2025 at 18:38 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 90.7% of streams are working  
+    **Overall Health:** 90.3% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 20 streams need attention  
+    **Issues Found:** 21 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 145 | 0 | 20 | 165 |
+    | Regular Channels | 144 | 0 | 21 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **196** | **0** | **20** | **216** |
+    | **TOTAL** | **195** | **0** | **21** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (20 channels)
+    ## ❌ Channels Still Having Issues (21 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -34,6 +34,7 @@
 • **Curiosity Stream** - No working fl server found  
 • **Discovery Channel** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
+• **FOX Business Network** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
 • **MSG** - No working fl server found  
