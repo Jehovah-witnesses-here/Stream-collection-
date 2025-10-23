@@ -162,7 +162,7 @@ https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO",HBO
 https://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy
-https://fl25.moveonjoy.com/HBO_COMEDY/index.m3u8
+https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO Family
 https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO Zone
@@ -172,7 +172,7 @@ https://fl41.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV
 https://fl1.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
-https://fl31.moveonjoy.com/HLN/index.m3u8
+https://fl1.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" tvg-name="HSN",HSN
 https://fl1.moveonjoy.com/HSN/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" tvg-name="ID (Investigation Discovery)",ID (Investigation Discovery)
@@ -412,7 +412,7 @@ https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLand",TVLand
 https://fl7.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
-https://fl31.moveonjoy.com/TV_ONE/index.m3u8
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="USA.Network.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
 https://fl7.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1

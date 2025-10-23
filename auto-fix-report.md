@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 22, 2025 at 18:43 UTC
+    **Last Updated:** October 23, 2025 at 01:48 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 93.1% of streams are working  
+    **Overall Health:** 90.7% of streams are working  
     **Current FL Server:** fl1  
-    **Changes Made:** 0 streams updated  
-    **Issues Found:** 15 streams need attention  
+    **Changes Made:** 3 streams updated  
+    **Issues Found:** 20 streams need attention  
     
     ---
     
@@ -15,26 +15,37 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 150 | 0 | 15 | 165 |
+    | Regular Channels | 145 | 3 | 20 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **201** | **0** | **15** | **216** |
+    | **TOTAL** | **196** | **3** | **20** | **216** |
     
+    ## ✅ Successfully Fixed (3 channels)
     
-    ## ❌ Channels Still Having Issues (15 channels)
+    These channels were broken but are now working:
+    
+    **fl25 → fl1:** HBO Comedy  
+**fl31 → fl1:** HLN, TVOne  
+
+    ## ❌ Channels Still Having Issues (20 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
     • **Antenna** - No working fl server found  
+• **Bounce** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
+• **COMEDY CENTRAL** - No working fl server found  
+• **COMET** - No working fl server found  
+• **COURT TV** - No working fl server found  
+• **COZI TV** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
+• **Discovery Channel** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
-• **FOX SOUL** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **MSG** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **Start TV** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
@@ -42,9 +53,9 @@
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
-    ## 👍 All Good!
+    ## 🎉 Success!
     
-    No updates were needed - your streams are already current and working well.
+    **3 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
