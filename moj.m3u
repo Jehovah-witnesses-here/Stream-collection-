@@ -294,29 +294,29 @@ https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MOJ Sports" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone",NFL RedZone
 https://fl30.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 1",NHL 1
-https://fl30.moveonjoy.com/NHL_1/index.m3u8
+https://fl1.moveonjoy.com/NHL_1/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 10",NHL 10
-https://fl30.moveonjoy.com/NHL_10/index.m3u8
+https://fl1.moveonjoy.com/NHL_10/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 11",NHL 11
-https://fl30.moveonjoy.com/NHL_11/index.m3u8
+https://fl1.moveonjoy.com/NHL_11/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 13",NHL 13
-https://fl30.moveonjoy.com/NHL_13/index.m3u8
+https://fl1.moveonjoy.com/NHL_13/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 2",NHL 2
-https://fl30.moveonjoy.com/NHL_2/index.m3u8
+https://fl1.moveonjoy.com/NHL_2/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 3",NHL 3
-https://fl30.moveonjoy.com/NHL_3/index.m3u8
+https://fl1.moveonjoy.com/NHL_3/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 4",NHL 4
-https://fl30.moveonjoy.com/NHL_4/index.m3u8
+https://fl1.moveonjoy.com/NHL_4/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 5",NHL 5
-https://fl30.moveonjoy.com/NHL_5/index.m3u8
+https://fl1.moveonjoy.com/NHL_5/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 6",NHL 6
-https://fl30.moveonjoy.com/NHL_6/index.m3u8
+https://fl1.moveonjoy.com/NHL_6/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 7",NHL 7
-https://fl30.moveonjoy.com/NHL_7/index.m3u8
+https://fl1.moveonjoy.com/NHL_7/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 8",NHL 8
-https://fl30.moveonjoy.com/NHL_8/index.m3u8
+https://fl1.moveonjoy.com/NHL_8/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 9",NHL 9
-https://fl30.moveonjoy.com/NHL_9/index.m3u8
+https://fl1.moveonjoy.com/NHL_9/index.m3u8
 #EXTINF:-1 group-title="MOJ Sports" tvg-id="NHL.Network.USA.Alternate.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-name="NHL Network",NHL Network
 https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",Nickelodeon
