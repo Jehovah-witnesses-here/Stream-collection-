@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 26, 2025 at 06:39 UTC
+    **Last Updated:** October 26, 2025 at 12:52 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 84.7% of streams are working  
-    **Current FL Server:** fl1  
-    **Changes Made:** 0 streams updated  
-    **Issues Found:** 33 streams need attention  
+    **Overall Health:** 81.9% of streams are working  
+    **Current FL Server:** fl30  
+    **Changes Made:** 13 streams updated  
+    **Issues Found:** 39 streams need attention  
     
     ---
     
@@ -15,12 +15,23 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 132 | 0 | 33 | 165 |
-    | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **183** | **0** | **33** | **216** |
+    | Regular Channels | 126 | 1 | 39 | 165 |
+    | Event Channels | N/A | 12 | 0 | 51 |
+    | **TOTAL** | **177** | **13** | **39** | **216** |
     
+    ## ✅ Successfully Fixed (1 channels)
     
-    ## ❌ Channels Still Having Issues (33 channels)
+    These channels were broken but are now working:
+    
+    **fl1 → fl30:** NFL RedZone  
+
+    ## 🔄 Event Channels Updated (12 channels)
+    
+    These event channels were updated to stay current (they're expected to be offline unless there's a live event):
+    
+    **fl1 → fl30:** NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+
+    ## ❌ Channels Still Having Issues (39 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -49,20 +60,26 @@
 • **Nickelodeon** - No working fl server found  
 • **NickToons** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
+• **Showtime 2** - No working fl server found  
+• **Showtime Extreme** - No working fl server found  
+• **SMITHSONIAN CHANNEL** - No working fl server found  
+• **Start TV** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TBS** - No working fl server found  
 • **TCM** - No working fl server found  
 • **truTV** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
+• **Vice** - No working fl server found  
 • **Weather Channel** - No working fl server found  
 • **WeTV** - No working fl server found  
+• **WGN** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
-    ## 👍 All Good!
+    ## 🎉 Success!
     
-    No updates were needed - your streams are already current and working well.
+    **13 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
