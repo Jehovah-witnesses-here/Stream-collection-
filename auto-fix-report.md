@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 28, 2025 at 06:44 UTC
+    **Last Updated:** October 28, 2025 at 12:55 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 84.7% of streams are working  
+    **Overall Health:** 83.3% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 33 streams need attention  
+    **Issues Found:** 36 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 132 | 0 | 33 | 165 |
+    | Regular Channels | 129 | 0 | 36 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **183** | **0** | **33** | **216** |
+    | **TOTAL** | **180** | **0** | **36** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (33 channels)
+    ## ❌ Channels Still Having Issues (36 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -36,6 +36,7 @@
 • **COZI TV** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **Discovery Channel** - No working fl server found  
+• **Discovery Science** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **DIY** - No working fl server found  
 • **ESPN 2** - No working fl server found  
@@ -45,6 +46,7 @@
 • **LOVE NATURE** - No working fl server found  
 • **MSG** - No working fl server found  
 • **mtvU** - No working fl server found  
+• **MUCH** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **Nickelodeon** - No working fl server found  
 • **NickToons** - No working fl server found  
@@ -55,6 +57,7 @@
 • **truTV** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
+• **Vice** - No working fl server found  
 • **Weather Channel** - No working fl server found  
 • **WeTV** - No working fl server found  
 
