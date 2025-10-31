@@ -334,7 +334,7 @@ https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",OUTER MAX
 https://fl7.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" tvg-name="OUTSIDE TV",OUTSIDE TV
-https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+https://fl30.moveonjoy.com/OUTSIDE_TV/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Ovation.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" tvg-name="Ovation",Ovation
 https://fl1.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen",Oxygen
