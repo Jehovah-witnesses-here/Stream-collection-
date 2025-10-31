@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** October 31, 2025 at 01:56 UTC
+    **Last Updated:** October 31, 2025 at 06:47 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 83.8% of streams are working  
-    **Current FL Server:** fl30  
-    **Changes Made:** 1 streams updated  
-    **Issues Found:** 35 streams need attention  
+    **Overall Health:** 82.9% of streams are working  
+    **Current FL Server:** fl1  
+    **Changes Made:** 0 streams updated  
+    **Issues Found:** 37 streams need attention  
     
     ---
     
@@ -15,17 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 130 | 1 | 35 | 165 |
+    | Regular Channels | 128 | 0 | 37 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **181** | **1** | **35** | **216** |
+    | **TOTAL** | **179** | **0** | **37** | **216** |
     
-    ## ✅ Successfully Fixed (1 channels)
     
-    These channels were broken but are now working:
-    
-    **fl1 → fl30:** OUTSIDE TV  
-
-    ## ❌ Channels Still Having Issues (35 channels)
+    ## ❌ Channels Still Having Issues (37 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -49,6 +44,7 @@
 • **GAME SHOW NETWORK** - No working fl server found  
 • **INSP TV** - No working fl server found  
 • **LOVE NATURE** - No working fl server found  
+• **MAVTV** - No working fl server found  
 • **MSG** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
@@ -56,6 +52,7 @@
 • **Nickelodeon** - No working fl server found  
 • **NickToons** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
+• **QVC** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TBS** - No working fl server found  
 • **TCM** - No working fl server found  
@@ -67,9 +64,9 @@
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
-    ## 🎉 Success!
+    ## 👍 All Good!
     
-    **1 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    No updates were needed - your streams are already current and working well.
     
     
     ---
