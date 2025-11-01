@@ -1,6 +1,6 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 01, 2025 at 06:40 UTC
+    **Last Updated:** November 01, 2025 at 12:51 UTC
     
     ## 📊 Quick Summary
     
@@ -40,6 +40,7 @@
 • **DIY** - No working fl server found  
 • **ESPN 2** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
+• **FOX SOUL** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
 • **INSP TV** - No working fl server found  
@@ -51,7 +52,6 @@
 • **Nickelodeon** - No working fl server found  
 • **NickToons** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **QVC** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TBS** - No working fl server found  
 • **TCM** - No working fl server found  
