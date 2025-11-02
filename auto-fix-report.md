@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 02, 2025 at 06:42 UTC
+    **Last Updated:** November 02, 2025 at 12:49 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 83.8% of streams are working  
+    **Overall Health:** 82.9% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 35 streams need attention  
+    **Issues Found:** 37 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 130 | 0 | 35 | 165 |
+    | Regular Channels | 128 | 0 | 37 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **181** | **0** | **35** | **216** |
+    | **TOTAL** | **179** | **0** | **37** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (35 channels)
+    ## ❌ Channels Still Having Issues (37 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -44,6 +44,7 @@
 • **GAME SHOW NETWORK** - No working fl server found  
 • **INSP TV** - No working fl server found  
 • **LOVE NATURE** - No working fl server found  
+• **MGM+** - No working fl server found  
 • **MSG** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
@@ -56,6 +57,7 @@
 • **TCM** - No working fl server found  
 • **truTV** - No working fl server found  
 • **TVLand** - No working fl server found  
+• **TVOne** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
 • **WeTV** - No working fl server found  
