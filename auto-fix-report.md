@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 03, 2025 at 13:01 UTC
+    **Last Updated:** November 03, 2025 at 18:36 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 82.9% of streams are working  
-    **Current FL Server:** fl7  
-    **Changes Made:** 46 streams updated  
-    **Issues Found:** 37 streams need attention  
+    **Overall Health:** 92.6% of streams are working  
+    **Current FL Server:** fl1  
+    **Changes Made:** 47 streams updated  
+    **Issues Found:** 16 streams need attention  
     
     ---
     
@@ -15,69 +15,49 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 128 | 1 | 37 | 165 |
+    | Regular Channels | 149 | 2 | 16 | 165 |
     | Event Channels | N/A | 45 | 0 | 51 |
-    | **TOTAL** | **179** | **46** | **37** | **216** |
+    | **TOTAL** | **200** | **47** | **16** | **216** |
     
-    ## ✅ Successfully Fixed (1 channels)
+    ## ✅ Successfully Fixed (2 channels)
     
     These channels were broken but are now working:
     
-    **fl1 → fl7:** HLN  
+    **fl41 → fl1:** COMET  
+**fl31 → fl1:** COURT TV  
 
     ## 🔄 Event Channels Updated (45 channels)
     
     These event channels were updated to stay current (they're expected to be offline unless there's a live event):
     
-    **fl1 → fl7:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+    **fl7 → fl1:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
 
-    ## ❌ Channels Still Having Issues (37 channels)
+    ## ❌ Channels Still Having Issues (16 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
     • **Antenna** - No working fl server found  
-• **BBC AMERICA** - No working fl server found  
-• **BBC WORLD NEWS** - No working fl server found  
-• **BET GOSPEL** - No working fl server found  
-• **Bounce** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
-• **COMEDY CENTRAL** - No working fl server found  
-• **COMET** - No working fl server found  
-• **COURT TV** - No working fl server found  
-• **COZI TV** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
-• **Discovery Channel** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
-• **DIY** - No working fl server found  
-• **ESPN 2** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
-• **INSP TV** - No working fl server found  
-• **LOVE NATURE** - No working fl server found  
-• **MSG** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
-• **Nickelodeon** - No working fl server found  
-• **NickToons** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
 • **Starz Encore** - No working fl server found  
-• **TBS** - No working fl server found  
-• **TCM** - No working fl server found  
-• **truTV** - No working fl server found  
 • **TVLand** - No working fl server found  
-• **TVOne** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
-• **WeTV** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
     ## 🎉 Success!
     
-    **46 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    **47 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
