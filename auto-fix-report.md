@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 03, 2025 at 02:00 UTC
+    **Last Updated:** November 03, 2025 at 06:47 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 82.9% of streams are working  
+    **Overall Health:** 82.4% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 37 streams need attention  
+    **Issues Found:** 38 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 128 | 0 | 37 | 165 |
+    | Regular Channels | 127 | 0 | 38 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **179** | **0** | **37** | **216** |
+    | **TOTAL** | **178** | **0** | **38** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (37 channels)
+    ## ❌ Channels Still Having Issues (38 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -52,6 +52,7 @@
 • **Nickelodeon** - No working fl server found  
 • **NickToons** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
+• **QVC** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TBS** - No working fl server found  
 • **TCM** - No working fl server found  
