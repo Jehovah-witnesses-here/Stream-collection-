@@ -56,7 +56,7 @@ https://fl1.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Buzzr.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="Buzzr",Buzzr
 https://fl1.moveonjoy.com/Buzzr/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN",C-SPAN
-https://fl30.moveonjoy.com/C-SPAN/index.m3u8
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="CARTOON NETWORK",CARTOON NETWORK
 https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS
@@ -144,7 +144,7 @@ https://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="FX.Movie.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" tvg-name="FXM",FXM
 https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX",FXX
-https://fl30.moveonjoy.com/FXX/index.m3u8
+https://fl1.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="FYI.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-name="FYI FHD",FYI FHD
 https://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" tvg-name="GAME SHOW NETWORK",GAME SHOW NETWORK
@@ -156,9 +156,9 @@ https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" tvg-name="Hallmark Channel",Hallmark Channel
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Hallmark.Family.HDTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" tvg-name="Hallmark Family",Hallmark Family
-https://fl25.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" tvg-name="Hallmark Mystery",Hallmark Mystery
-https://fl25.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO",HBO
 https://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy
@@ -174,7 +174,7 @@ https://fl1.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
 https://fl7.moveonjoy.com/HLN/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" tvg-name="HSN",HSN
-https://fl30.moveonjoy.com/HSN/index.m3u8
+https://fl1.moveonjoy.com/HSN/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" tvg-name="ID (Investigation Discovery)",ID (Investigation Discovery)
 https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="INSP.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/insp-us.png?raw=true" tvg-name="INSP TV",INSP TV
@@ -216,7 +216,7 @@ https://fl1.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="MTV.Live.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live",MTV Live
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="MTV.2.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" tvg-name="MTV2",MTV2
-https://fl25.moveonjoy.com/MTV_2/index.m3u8
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU",mtvU
 https://fl1.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH",MUCH
@@ -334,7 +334,7 @@ https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",OUTER MAX
 https://fl7.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" tvg-name="OUTSIDE TV",OUTSIDE TV
-https://fl30.moveonjoy.com/OUTSIDE_TV/index.m3u8
+https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Ovation.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" tvg-name="Ovation",Ovation
 https://fl1.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen",Oxygen
@@ -356,7 +356,7 @@ https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" tvg-name="Showtime Extreme",Showtime Extreme
 https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" tvg-name="Showtime Next",Showtime Next
-https://fl30.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" tvg-name="Showtime Women",Showtime Women
 https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" tvg-name="SMITHSONIAN CHANNEL",SMITHSONIAN CHANNEL
@@ -396,7 +396,7 @@ https://fl1.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
 https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
-https://fl30.moveonjoy.com/Travel_Channel/index.m3u8
+https://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",truTV
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8
 #EXTINF:-1 group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1

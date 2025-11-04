@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 04, 2025 at 12:57 UTC
+    **Last Updated:** November 04, 2025 at 18:38 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 92.6% of streams are working  
+    **Overall Health:** 92.1% of streams are working  
     **Current FL Server:** fl1  
-    **Changes Made:** 0 streams updated  
-    **Issues Found:** 16 streams need attention  
+    **Changes Made:** 9 streams updated  
+    **Issues Found:** 17 streams need attention  
     
     ---
     
@@ -15,12 +15,18 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 149 | 0 | 16 | 165 |
+    | Regular Channels | 148 | 9 | 17 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **200** | **0** | **16** | **216** |
+    | **TOTAL** | **199** | **9** | **17** | **216** |
     
+    ## ✅ Successfully Fixed (9 channels)
     
-    ## ❌ Channels Still Having Issues (16 channels)
+    These channels were broken but are now working:
+    
+    **fl30 → fl1:** C-SPAN, FXX, HSN, OUTSIDE TV, Showtime Next, Travel Channel  
+**fl25 → fl1:** Hallmark Family, Hallmark Mystery, MTV2  
+
+    ## ❌ Channels Still Having Issues (17 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -32,6 +38,7 @@
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
 • **mtvU** - No working fl server found  
+• **MUCH** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
@@ -43,9 +50,9 @@
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
-    ## 👍 All Good!
+    ## 🎉 Success!
     
-    No updates were needed - your streams are already current and working well.
+    **9 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
