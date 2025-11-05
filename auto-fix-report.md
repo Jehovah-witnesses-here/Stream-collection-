@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 04, 2025 at 18:38 UTC
+    **Last Updated:** November 05, 2025 at 01:52 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 92.1% of streams are working  
-    **Current FL Server:** fl1  
-    **Changes Made:** 9 streams updated  
-    **Issues Found:** 17 streams need attention  
+    **Overall Health:** 91.7% of streams are working  
+    **Current FL Server:** fl61  
+    **Changes Made:** 46 streams updated  
+    **Issues Found:** 18 streams need attention  
     
     ---
     
@@ -15,18 +15,23 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 148 | 9 | 17 | 165 |
-    | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **199** | **9** | **17** | **216** |
+    | Regular Channels | 147 | 1 | 18 | 165 |
+    | Event Channels | N/A | 45 | 0 | 51 |
+    | **TOTAL** | **198** | **46** | **18** | **216** |
     
-    ## ✅ Successfully Fixed (9 channels)
+    ## ✅ Successfully Fixed (1 channels)
     
     These channels were broken but are now working:
     
-    **fl30 → fl1:** C-SPAN, FXX, HSN, OUTSIDE TV, Showtime Next, Travel Channel  
-**fl25 → fl1:** Hallmark Family, Hallmark Mystery, MTV2  
+    **fl1 → fl61:** COURT TV  
 
-    ## ❌ Channels Still Having Issues (17 channels)
+    ## 🔄 Event Channels Updated (45 channels)
+    
+    These event channels were updated to stay current (they're expected to be offline unless there's a live event):
+    
+    **fl1 → fl61:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+
+    ## ❌ Channels Still Having Issues (18 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -38,12 +43,13 @@
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
 • **mtvU** - No working fl server found  
-• **MUCH** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
 • **Starz Encore** - No working fl server found  
+• **TNT** - No working fl server found  
+• **truTV** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
@@ -52,7 +58,7 @@
     
     ## 🎉 Success!
     
-    **9 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    **46 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
