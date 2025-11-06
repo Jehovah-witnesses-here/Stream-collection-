@@ -346,7 +346,7 @@ https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="QVC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/qvc-us.png" tvg-name="QVC",QVC
 https://fl1.moveonjoy.com/QVC/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="ReelzChannel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" tvg-name="ReelzChannel",ReelzChannel
-https://fl1.moveonjoy.com/REELZ/index.m3u8
+https://fl7.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Revolt.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" tvg-name="Revolt",Revolt
 https://fl1.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-name="Showtime",Showtime
