@@ -412,7 +412,7 @@ https://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLand",TVLand
 https://fl7.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVOne
-https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+https://fl61.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="USA.Network.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
 https://fl7.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1
