@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 10, 2025 at 06:46 UTC
+    **Last Updated:** November 10, 2025 at 13:03 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 91.7% of streams are working  
+    **Overall Health:** 88.9% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 18 streams need attention  
+    **Issues Found:** 24 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 147 | 0 | 18 | 165 |
+    | Regular Channels | 141 | 0 | 24 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **198** | **0** | **18** | **216** |
+    | **TOTAL** | **192** | **0** | **24** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (18 channels)
+    ## ❌ Channels Still Having Issues (24 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -31,14 +31,20 @@
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **getTV** - No working fl server found  
+• **HBO Zone** - No working fl server found  
+• **MAVTV** - No working fl server found  
+• **MTV Live** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
+• **NewsNation** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **OUTSIDE TV** - No working fl server found  
-• **QVC** - No working fl server found  
+• **Pursuit Channel** - No working fl server found  
 • **Starz Encore** - No working fl server found  
+• **Starz Encore Action** - No working fl server found  
+• **TBS** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
