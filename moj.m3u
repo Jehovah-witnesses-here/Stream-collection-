@@ -392,7 +392,7 @@ https://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 group-title="MOJ Sports" tvg-id="Tennis.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
 https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC",TLC
-https://fl1.moveonjoy.com/TLC/index.m3u8
+https://fl61.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
 https://fl1.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
