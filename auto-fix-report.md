@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 15, 2025 at 06:42 UTC
+    **Last Updated:** November 15, 2025 at 12:51 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 92.1% of streams are working  
-    **Current FL Server:** fl1  
-    **Changes Made:** 0 streams updated  
-    **Issues Found:** 17 streams need attention  
+    **Overall Health:** 92.6% of streams are working  
+    **Current FL Server:** fl41  
+    **Changes Made:** 46 streams updated  
+    **Issues Found:** 16 streams need attention  
     
     ---
     
@@ -15,12 +15,23 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 148 | 0 | 17 | 165 |
-    | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **199** | **0** | **17** | **216** |
+    | Regular Channels | 149 | 1 | 16 | 165 |
+    | Event Channels | N/A | 45 | 0 | 51 |
+    | **TOTAL** | **200** | **46** | **16** | **216** |
     
+    ## ✅ Successfully Fixed (1 channels)
     
-    ## ❌ Channels Still Having Issues (17 channels)
+    These channels were broken but are now working:
+    
+    **fl1 → fl41:** HBO Family  
+
+    ## 🔄 Event Channels Updated (45 channels)
+    
+    These event channels were updated to stay current (they're expected to be offline unless there's a live event):
+    
+    **fl1 → fl41:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+
+    ## ❌ Channels Still Having Issues (16 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -36,7 +47,6 @@
 • **NBC Golf** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **QVC** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
@@ -44,9 +54,9 @@
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
-    ## 👍 All Good!
+    ## 🎉 Success!
     
-    No updates were needed - your streams are already current and working well.
+    **46 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
