@@ -1,6 +1,6 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 18, 2025 at 06:38 UTC
+    **Last Updated:** November 18, 2025 at 12:54 UTC
     
     ## 📊 Quick Summary
     
@@ -24,15 +24,15 @@
     
     These channels couldn't be fixed and may need manual attention:
     
-    • **Animal Planet** - No working fl server found  
-• **Antenna** - No working fl server found  
+    • **Antenna** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
-• **CMT** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
+• **FOX SOUL** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **HLN** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
