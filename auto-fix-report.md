@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 20, 2025 at 12:51 UTC
+    **Last Updated:** November 20, 2025 at 19:02 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 92.6% of streams are working  
+    **Overall Health:** 75.9% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 16 streams need attention  
+    **Issues Found:** 52 streams need attention  
     
     ---
     
@@ -15,31 +15,67 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 149 | 0 | 16 | 165 |
+    | Regular Channels | 113 | 0 | 52 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **200** | **0** | **16** | **216** |
+    | **TOTAL** | **164** | **0** | **52** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (16 channels)
+    ## ❌ Channels Still Having Issues (52 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
-    • **Antenna** - No working fl server found  
+    • **ACC NETWORK** - No working fl server found  
+• **Antenna** - No working fl server found  
+• **BBC AMERICA** - No working fl server found  
+• **BBC WORLD NEWS** - No working fl server found  
+• **BET** - No working fl server found  
+• **CBS SPORTS NETWORK** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
+• **CNBC FHD** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
+• **Discovery Channel** - No working fl server found  
+• **DISCOVERY FAMILY CHANNEL** - No working fl server found  
+• **DISCOVERY LIFE** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
+• **ESPN NEWS** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
+• **FOX Business Network** - No working fl server found  
 • **FS2** - No working fl server found  
+• **FYI FHD** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **getTV** - No working fl server found  
+• **GRIT TV** - No working fl server found  
+• **MGM+** - No working fl server found  
+• **MGM+ Drive-In** - No working fl server found  
+• **MLB Network** - No working fl server found  
 • **mtvU** - No working fl server found  
+• **National Geographic** - No working fl server found  
+• **NBA TV** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
+• **Nickelodeon** - No working fl server found  
+• **NickMusic USA** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
+• **OUTSIDE TV** - No working fl server found  
+• **Paramount Network** - No working fl server found  
+• **Showtime Women** - No working fl server found  
+• **SMITHSONIAN CHANNEL** - No working fl server found  
 • **Starz Encore** - No working fl server found  
+• **STARZ ENCORE CLASSIC** - No working fl server found  
+• **STARZ WEST** - No working fl server found  
+• **SYFY** - No working fl server found  
+• **TBS** - No working fl server found  
+• **Tennis Channel** - No working fl server found  
+• **Travel Channel** - No working fl server found  
+• **TSN 2** - No working fl server found  
+• **TSN 3** - No working fl server found  
+• **TSN 5** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
+• **WeTV** - No working fl server found  
+• **YES Network** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
