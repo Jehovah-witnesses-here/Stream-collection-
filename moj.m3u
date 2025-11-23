@@ -14,7 +14,7 @@ https://fl1.moveonjoy.com/PPV_5/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="MOJ Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" tvg-name="PPV6",PPV6
 https://fl1.moveonjoy.com/PPV_6/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC).CA.us",ABC (WABC)
-https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+https://fl61.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="MOJ Sports" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
 https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
@@ -70,15 +70,15 @@ https://fl7.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
 https://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",Cleo TV
-https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+https://fl31.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT",CMT
-https://fl1.moveonjoy.com/CMT/index.m3u8
+https://fl61.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC FHD
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-name="CNN INTERNATIONAL",CNN INTERNATIONAL
 https://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
-https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+https://fl61.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Comet.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" tvg-name="COMET",COMET
 https://fl1.moveonjoy.com/COMET/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING",COOKING
@@ -124,7 +124,7 @@ https://fl31.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="MOJ Sports" tvg-id="ESPN.U.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" tvg-name="ESPN U",ESPN U
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK",FOOD NETWORK
-https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
+https://fl31.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Fox.Business.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
@@ -222,9 +222,9 @@ https://fl1.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH",MUCH
 https://fl7.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
-https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+https://fl31.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild",National Geographic Wild
-https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+https://fl31.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 1",NBA 1
 https://fl31.moveonjoy.com/NBA_1/index.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="MOJ Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-name="NBA 10",NBA 10
