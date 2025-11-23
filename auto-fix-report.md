@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 23, 2025 at 12:45 UTC
+    **Last Updated:** November 23, 2025 at 18:35 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 91.7% of streams are working  
-    **Current FL Server:** fl1  
-    **Changes Made:** 27 streams updated  
-    **Issues Found:** 18 streams need attention  
+    **Overall Health:** 91.2% of streams are working  
+    **Current FL Server:** fl31  
+    **Changes Made:** 2 streams updated  
+    **Issues Found:** 19 streams need attention  
     
     ---
     
@@ -15,18 +15,17 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 147 | 0 | 18 | 165 |
-    | Event Channels | N/A | 27 | 0 | 51 |
-    | **TOTAL** | **198** | **27** | **18** | **216** |
+    | Regular Channels | 146 | 2 | 19 | 165 |
+    | Event Channels | N/A | 0 | 0 | 51 |
+    | **TOTAL** | **197** | **2** | **19** | **216** |
     
+    ## ✅ Successfully Fixed (2 channels)
     
-    ## 🔄 Event Channels Updated (27 channels)
+    These channels were broken but are now working:
     
-    These event channels were updated to stay current (they're expected to be offline unless there's a live event):
-    
-    **fl31 → fl1:** NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+    **fl1 → fl31:** NickMusic USA, Starz Encore Westerns  
 
-    ## ❌ Channels Still Having Issues (18 channels)
+    ## ❌ Channels Still Having Issues (19 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -47,13 +46,14 @@
 • **Starz Encore** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
+• **VH1** - No working fl server found  
 • **Weather Channel** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
     ## 🎉 Success!
     
-    **27 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    **2 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
