@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 23, 2025 at 02:06 UTC
+    **Last Updated:** November 23, 2025 at 06:36 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 92.1% of streams are working  
+    **Overall Health:** 92.6% of streams are working  
     **Current FL Server:** fl31  
-    **Changes Made:** 7 streams updated  
-    **Issues Found:** 17 streams need attention  
+    **Changes Made:** 19 streams updated  
+    **Issues Found:** 16 streams need attention  
     
     ---
     
@@ -15,23 +15,27 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 148 | 7 | 17 | 165 |
-    | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **199** | **7** | **17** | **216** |
+    | Regular Channels | 149 | 1 | 16 | 165 |
+    | Event Channels | N/A | 18 | 0 | 51 |
+    | **TOTAL** | **200** | **19** | **16** | **216** |
     
-    ## ✅ Successfully Fixed (7 channels)
+    ## ✅ Successfully Fixed (1 channels)
     
     These channels were broken but are now working:
     
-    **fl1 → fl61:** ABC (WABC), CMT, COMEDY CENTRAL  
-**fl1 → fl31:** Cleo TV, FOOD NETWORK, National Geographic, National Geographic Wild  
+    **fl1 → fl31:** NewsNation  
 
-    ## ❌ Channels Still Having Issues (17 channels)
+    ## 🔄 Event Channels Updated (18 channels)
+    
+    These event channels were updated to stay current (they're expected to be offline unless there's a live event):
+    
+    **fl31 → fl1:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9  
+
+    ## ❌ Channels Still Having Issues (16 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
-    • **AMC** - No working fl server found  
-• **Antenna** - No working fl server found  
+    • **Antenna** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
@@ -52,7 +56,7 @@
     
     ## 🎉 Success!
     
-    **7 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    **19 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
