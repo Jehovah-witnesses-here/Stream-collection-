@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 24, 2025 at 06:43 UTC
+    **Last Updated:** November 24, 2025 at 12:56 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 91.2% of streams are working  
+    **Overall Health:** 90.3% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 19 streams need attention  
+    **Issues Found:** 21 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 146 | 0 | 19 | 165 |
+    | Regular Channels | 144 | 0 | 21 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **197** | **0** | **19** | **216** |
+    | **TOTAL** | **195** | **0** | **21** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (19 channels)
+    ## ❌ Channels Still Having Issues (21 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -30,6 +30,7 @@
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
+• **FOX Business Network** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
 • **HBO Family** - No working fl server found  
@@ -38,8 +39,9 @@
 • **NBC Golf** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **QVC** - No working fl server found  
 • **Starz Encore** - No working fl server found  
+• **TSN 2** - No working fl server found  
+• **TSN 3** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
