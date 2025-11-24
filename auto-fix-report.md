@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 24, 2025 at 02:00 UTC
+    **Last Updated:** November 24, 2025 at 06:43 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 91.7% of streams are working  
+    **Overall Health:** 91.2% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 18 streams need attention  
+    **Issues Found:** 19 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 147 | 0 | 18 | 165 |
+    | Regular Channels | 146 | 0 | 19 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **198** | **0** | **18** | **216** |
+    | **TOTAL** | **197** | **0** | **19** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (18 channels)
+    ## ❌ Channels Still Having Issues (19 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -38,6 +38,7 @@
 • **NBC Golf** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
+• **QVC** - No working fl server found  
 • **Starz Encore** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
