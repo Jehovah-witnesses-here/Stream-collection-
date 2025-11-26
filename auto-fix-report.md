@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** November 25, 2025 at 19:04 UTC
+    **Last Updated:** November 26, 2025 at 02:18 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 75.9% of streams are working  
+    **Overall Health:** 75.0% of streams are working  
     **Current FL Server:** fl1  
-    **Changes Made:** 5 streams updated  
-    **Issues Found:** 52 streams need attention  
+    **Changes Made:** 0 streams updated  
+    **Issues Found:** 54 streams need attention  
     
     ---
     
@@ -15,17 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 113 | 5 | 52 | 165 |
+    | Regular Channels | 111 | 0 | 54 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **164** | **5** | **52** | **216** |
+    | **TOTAL** | **162** | **0** | **54** | **216** |
     
-    ## ✅ Successfully Fixed (5 channels)
     
-    These channels were broken but are now working:
-    
-    **fl31 → fl1:** Cleo TV, FOOD NETWORK, National Geographic Wild, NewsNation, Starz Encore Westerns  
-
-    ## ❌ Channels Still Having Issues (52 channels)
+    ## ❌ Channels Still Having Issues (54 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -34,6 +29,7 @@
 • **BBC AMERICA** - No working fl server found  
 • **BBC WORLD NEWS** - No working fl server found  
 • **BET** - No working fl server found  
+• **BLOOMBERG** - No working fl server found  
 • **CBS SPORTS NETWORK** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CNBC FHD** - No working fl server found  
@@ -50,6 +46,7 @@
 • **GAME SHOW NETWORK** - No working fl server found  
 • **getTV** - No working fl server found  
 • **GRIT TV** - No working fl server found  
+• **HBO Family** - No working fl server found  
 • **MGM+** - No working fl server found  
 • **MGM+ Drive-In** - No working fl server found  
 • **MLB Network** - No working fl server found  
@@ -84,9 +81,9 @@
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
-    ## 🎉 Success!
+    ## 👍 All Good!
     
-    **5 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    No updates were needed - your streams are already current and working well.
     
     
     ---
