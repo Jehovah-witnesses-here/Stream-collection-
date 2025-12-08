@@ -1,12 +1,12 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** December 07, 2025 at 18:49 UTC
+    **Last Updated:** December 08, 2025 at 02:14 UTC
     
     ## 📊 Quick Summary
     
     **Overall Health:** 87.5% of streams are working  
-    **Current FL Server:** fl31  
-    **Changes Made:** 43 streams updated  
+    **Current FL Server:** fl1  
+    **Changes Made:** 40 streams updated  
     **Issues Found:** 27 streams need attention  
     
     ---
@@ -15,22 +15,16 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 138 | 3 | 27 | 165 |
+    | Regular Channels | 138 | 0 | 27 | 165 |
     | Event Channels | N/A | 40 | 0 | 51 |
-    | **TOTAL** | **189** | **43** | **27** | **216** |
+    | **TOTAL** | **189** | **40** | **27** | **216** |
     
-    ## ✅ Successfully Fixed (3 channels)
     
-    These channels were broken but are now working:
-    
-    **fl41 → fl1:** HBO Family, HBO2  
-**fl1 → fl31:** MLB Network  
-
     ## 🔄 Event Channels Updated (40 channels)
     
     These event channels were updated to stay current (they're expected to be offline unless there's a live event):
     
-    **fl1 → fl31:** NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+    **fl31 → fl1:** NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
 
     ## ❌ Channels Still Having Issues (27 channels)
     
@@ -68,7 +62,7 @@
     
     ## 🎉 Success!
     
-    **43 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    **40 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
