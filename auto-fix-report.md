@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** December 09, 2025 at 13:14 UTC
+    **Last Updated:** December 09, 2025 at 18:54 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 85.6% of streams are working  
+    **Overall Health:** 84.7% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 31 streams need attention  
+    **Issues Found:** 33 streams need attention  
     
     ---
     
@@ -15,17 +15,20 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 134 | 0 | 31 | 165 |
+    | Regular Channels | 132 | 0 | 33 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **185** | **0** | **31** | **216** |
+    | **TOTAL** | **183** | **0** | **33** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (31 channels)
+    ## ❌ Channels Still Having Issues (33 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
     • **Antenna** - No working fl server found  
 • **BBC AMERICA** - No working fl server found  
+• **BET GOSPEL** - No working fl server found  
+• **BET Jams** - No working fl server found  
+• **BET SOUL** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
 • **CNN INTERNATIONAL** - No working fl server found  
@@ -47,7 +50,6 @@
 • **Pursuit Channel** - No working fl server found  
 • **Start TV** - No working fl server found  
 • **Starz Encore** - No working fl server found  
-• **TBS** - No working fl server found  
 • **TSN 2** - No working fl server found  
 • **TSN 3** - No working fl server found  
 • **TVLand** - No working fl server found  
