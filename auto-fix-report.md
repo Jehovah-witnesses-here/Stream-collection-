@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** December 16, 2025 at 19:00 UTC
+    **Last Updated:** December 17, 2025 at 02:03 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 81.9% of streams are working  
-    **Current FL Server:** fl7  
-    **Changes Made:** 46 streams updated  
-    **Issues Found:** 39 streams need attention  
+    **Overall Health:** 90.3% of streams are working  
+    **Current FL Server:** fl1  
+    **Changes Made:** 45 streams updated  
+    **Issues Found:** 21 streams need attention  
     
     ---
     
@@ -15,62 +15,39 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 126 | 1 | 39 | 165 |
+    | Regular Channels | 144 | 0 | 21 | 165 |
     | Event Channels | N/A | 45 | 0 | 51 |
-    | **TOTAL** | **177** | **46** | **39** | **216** |
+    | **TOTAL** | **195** | **45** | **21** | **216** |
     
-    ## ✅ Successfully Fixed (1 channels)
     
-    These channels were broken but are now working:
-    
-    **fl1 → fl7:** BET Jams  
-
     ## 🔄 Event Channels Updated (45 channels)
     
     These event channels were updated to stay current (they're expected to be offline unless there's a live event):
     
-    **fl1 → fl7:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+    **fl7 → fl1:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
 
-    ## ❌ Channels Still Having Issues (39 channels)
+    ## ❌ Channels Still Having Issues (21 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
-    • **American Heroes Channel** - No working fl server found  
-• **Animal Planet** - No working fl server found  
-• **Antenna** - No working fl server found  
-• **BET** - No working fl server found  
+    • **Antenna** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
 • **CNN INTERNATIONAL** - No working fl server found  
-• **COOKING** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
-• **Destination America** - No working fl server found  
-• **DISCOVERY FAMILY CHANNEL** - No working fl server found  
-• **DISCOVERY LIFE** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
-• **DIY** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
-• **FOX Business Network** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
-• **HLN** - No working fl server found  
-• **ID (Investigation Discovery)** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
-• **NickJr** - No working fl server found  
 • **NickMusic USA** - No working fl server found  
-• **Oprah Winfrey Network** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **Oxygen** - No working fl server found  
 • **Pursuit Channel** - No working fl server found  
 • **Start TV** - No working fl server found  
 • **Starz Encore** - No working fl server found  
-• **SYFY** - No working fl server found  
-• **TLC** - No working fl server found  
-• **TNT** - No working fl server found  
-• **Travel Channel** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
@@ -79,7 +56,7 @@
     
     ## 🎉 Success!
     
-    **46 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    **45 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
