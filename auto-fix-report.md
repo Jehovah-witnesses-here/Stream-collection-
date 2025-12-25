@@ -1,12 +1,12 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** December 25, 2025 at 13:03 UTC
+    **Last Updated:** December 25, 2025 at 18:47 UTC
     
     ## 📊 Quick Summary
     
     **Overall Health:** 89.4% of streams are working  
-    **Current FL Server:** fl1  
-    **Changes Made:** 0 streams updated  
+    **Current FL Server:** fl31  
+    **Changes Made:** 46 streams updated  
     **Issues Found:** 23 streams need attention  
     
     ---
@@ -15,11 +15,22 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 142 | 0 | 23 | 165 |
-    | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **193** | **0** | **23** | **216** |
+    | Regular Channels | 142 | 1 | 23 | 165 |
+    | Event Channels | N/A | 45 | 0 | 51 |
+    | **TOTAL** | **193** | **46** | **23** | **216** |
     
+    ## ✅ Successfully Fixed (1 channels)
     
+    These channels were broken but are now working:
+    
+    **fl1 → fl31:** BBC WORLD NEWS  
+
+    ## 🔄 Event Channels Updated (45 channels)
+    
+    These event channels were updated to stay current (they're expected to be offline unless there's a live event):
+    
+    **fl1 → fl31:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+
     ## ❌ Channels Still Having Issues (23 channels)
     
     These channels couldn't be fixed and may need manual attention:
@@ -50,9 +61,9 @@
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
-    ## 👍 All Good!
+    ## 🎉 Success!
     
-    No updates were needed - your streams are already current and working well.
+    **46 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
