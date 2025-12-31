@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** December 31, 2025 at 06:54 UTC
+    **Last Updated:** December 31, 2025 at 13:11 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 87.5% of streams are working  
+    **Overall Health:** 83.3% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 27 streams need attention  
+    **Issues Found:** 36 streams need attention  
     
     ---
     
@@ -15,24 +15,28 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 138 | 0 | 27 | 165 |
+    | Regular Channels | 129 | 0 | 36 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **189** | **0** | **27** | **216** |
+    | **TOTAL** | **180** | **0** | **36** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (27 channels)
+    ## ❌ Channels Still Having Issues (36 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
     • **Antenna** - No working fl server found  
+• **Bounce** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
 • **CNN INTERNATIONAL** - No working fl server found  
+• **COURT TV** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **HBO** - No working fl server found  
+• **HBO Family** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
@@ -40,9 +44,13 @@
 • **NickMusic USA** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
 • **Pursuit Channel** - No working fl server found  
-• **QVC** - No working fl server found  
+• **Showtime Next** - No working fl server found  
 • **Start TV** - No working fl server found  
+• **Starz Comedy** - No working fl server found  
 • **Starz Encore** - No working fl server found  
+• **Starz Encore Action** - No working fl server found  
+• **STARZ ENCORE CLASSIC** - No working fl server found  
+• **Starz Encore Westerns** - No working fl server found  
 • **TNT** - No working fl server found  
 • **truTV** - No working fl server found  
 • **TSN 2** - No working fl server found  
@@ -51,6 +59,7 @@
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
+• **WGN** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
