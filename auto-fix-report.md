@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 05, 2026 at 13:11 UTC
+    **Last Updated:** January 06, 2026 at 02:16 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 86.1% of streams are working  
+    **Overall Health:** 85.6% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 30 streams need attention  
+    **Issues Found:** 31 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 135 | 0 | 30 | 165 |
+    | Regular Channels | 134 | 0 | 31 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **186** | **0** | **30** | **216** |
+    | **TOTAL** | **185** | **0** | **31** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (30 channels)
+    ## ❌ Channels Still Having Issues (31 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -28,6 +28,7 @@
 • **Antenna** - No working fl server found  
 • **BEIN SPORTS** - No working fl server found  
 • **BET** - No working fl server found  
+• **BET Jams** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
 • **CNN INTERNATIONAL** - No working fl server found  
