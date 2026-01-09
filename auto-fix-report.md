@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 08, 2026 at 18:56 UTC
+    **Last Updated:** January 09, 2026 at 02:23 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 84.3% of streams are working  
+    **Overall Health:** 83.3% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 34 streams need attention  
+    **Issues Found:** 36 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 131 | 0 | 34 | 165 |
+    | Regular Channels | 129 | 0 | 36 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **182** | **0** | **34** | **216** |
+    | **TOTAL** | **180** | **0** | **36** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (34 channels)
+    ## ❌ Channels Still Having Issues (36 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -29,6 +29,7 @@
 • **Antenna** - No working fl server found  
 • **BEIN SPORTS** - No working fl server found  
 • **BET** - No working fl server found  
+• **BET GOSPEL** - No working fl server found  
 • **CBS** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
@@ -54,6 +55,7 @@
 • **truTV** - No working fl server found  
 • **TSN 2** - No working fl server found  
 • **TSN 3** - No working fl server found  
+• **TSN 4** - No working fl server found  
 • **TSN 5** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
