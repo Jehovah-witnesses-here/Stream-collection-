@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 11, 2026 at 07:00 UTC
+    **Last Updated:** January 11, 2026 at 13:14 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 82.9% of streams are working  
+    **Overall Health:** 81.0% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 37 streams need attention  
+    **Issues Found:** 41 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 128 | 0 | 37 | 165 |
+    | Regular Channels | 124 | 0 | 41 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **179** | **0** | **37** | **216** |
+    | **TOTAL** | **175** | **0** | **41** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (37 channels)
+    ## ❌ Channels Still Having Issues (41 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -36,6 +36,9 @@
 • **CNN INTERNATIONAL** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
+• **ESPN 2** - No working fl server found  
+• **ESPN NEWS** - No working fl server found  
+• **ESPN U** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
@@ -59,6 +62,7 @@
 • **TSN 4** - No working fl server found  
 • **TSN 5** - No working fl server found  
 • **TVLand** - No working fl server found  
+• **TVOne** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
 
