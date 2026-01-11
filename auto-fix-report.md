@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 11, 2026 at 13:14 UTC
+    **Last Updated:** January 11, 2026 at 18:57 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 81.0% of streams are working  
+    **Overall Health:** 82.4% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 41 streams need attention  
+    **Issues Found:** 38 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 124 | 0 | 41 | 165 |
+    | Regular Channels | 127 | 0 | 38 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **175** | **0** | **41** | **216** |
+    | **TOTAL** | **178** | **0** | **38** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (41 channels)
+    ## ❌ Channels Still Having Issues (38 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -36,9 +36,6 @@
 • **CNN INTERNATIONAL** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
-• **ESPN 2** - No working fl server found  
-• **ESPN NEWS** - No working fl server found  
-• **ESPN U** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
