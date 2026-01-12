@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 11, 2026 at 18:57 UTC
+    **Last Updated:** January 12, 2026 at 02:34 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 82.4% of streams are working  
+    **Overall Health:** 78.7% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 38 streams need attention  
+    **Issues Found:** 46 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 127 | 0 | 38 | 165 |
+    | Regular Channels | 119 | 0 | 46 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **178** | **0** | **38** | **216** |
+    | **TOTAL** | **170** | **0** | **46** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (38 channels)
+    ## ❌ Channels Still Having Issues (46 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -33,12 +33,17 @@
 • **CBS** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
+• **Cleo TV** - No working fl server found  
 • **CNN INTERNATIONAL** - No working fl server found  
+• **COMEDY CENTRAL** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
+• **E ENTERTAINMENT TELEVISION** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
+• **Fuse** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **Lifetime Movies Network** - No working fl server found  
 • **MAVTV** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
@@ -49,8 +54,11 @@
 • **NickMusic USA** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
 • **Pursuit Channel** - No working fl server found  
+• **Revolt** - No working fl server found  
 • **Start TV** - No working fl server found  
 • **Starz Encore** - No working fl server found  
+• **SundanceTV** - No working fl server found  
+• **TCM** - No working fl server found  
 • **TNT** - No working fl server found  
 • **truTV** - No working fl server found  
 • **TSN 1** - No working fl server found  
