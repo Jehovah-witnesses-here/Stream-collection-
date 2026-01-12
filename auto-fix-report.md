@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 12, 2026 at 13:21 UTC
+    **Last Updated:** January 12, 2026 at 19:03 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 80.6% of streams are working  
+    **Overall Health:** 82.4% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 42 streams need attention  
+    **Issues Found:** 38 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 123 | 0 | 42 | 165 |
+    | Regular Channels | 127 | 0 | 38 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **174** | **0** | **42** | **216** |
+    | **TOTAL** | **178** | **0** | **38** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (42 channels)
+    ## ❌ Channels Still Having Issues (38 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -38,13 +38,9 @@
 • **DISNEY CHANNEL** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
-• **FXX** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
-• **ID (Investigation Discovery)** - No working fl server found  
-• **LOVE NATURE** - No working fl server found  
 • **MAVTV** - No working fl server found  
 • **mtvU** - No working fl server found  
-• **National Geographic** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **NFL Network** - No working fl server found  
