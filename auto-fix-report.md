@@ -1,6 +1,6 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 12, 2026 at 07:06 UTC
+    **Last Updated:** January 12, 2026 at 13:21 UTC
     
     ## 📊 Quick Summary
     
@@ -26,25 +26,25 @@
     
     • **Sky Sports Football** - No working fl server found  
 • **ABC (WABC)** - No working fl server found  
-• **AMC** - No working fl server found  
 • **Antenna** - No working fl server found  
 • **BEIN SPORTS** - No working fl server found  
 • **BET** - No working fl server found  
 • **BET GOSPEL** - No working fl server found  
-• **C-SPAN** - No working fl server found  
 • **CBS** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
-• **Cleo TV** - No working fl server found  
 • **CNN INTERNATIONAL** - No working fl server found  
-• **COMEDY CENTRAL** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
+• **FXX** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **ID (Investigation Discovery)** - No working fl server found  
+• **LOVE NATURE** - No working fl server found  
 • **MAVTV** - No working fl server found  
 • **mtvU** - No working fl server found  
+• **National Geographic** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **NFL Network** - No working fl server found  
