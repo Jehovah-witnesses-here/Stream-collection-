@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 19, 2026 at 02:27 UTC
+    **Last Updated:** January 19, 2026 at 07:07 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 83.3% of streams are working  
+    **Overall Health:** 82.9% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 36 streams need attention  
+    **Issues Found:** 37 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 129 | 0 | 36 | 165 |
+    | Regular Channels | 128 | 0 | 37 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **180** | **0** | **36** | **216** |
+    | **TOTAL** | **179** | **0** | **37** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (36 channels)
+    ## ❌ Channels Still Having Issues (37 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -60,6 +60,7 @@
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
 • **Weather Channel** - No working fl server found  
+• **WGN** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
