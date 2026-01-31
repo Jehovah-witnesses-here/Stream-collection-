@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 31, 2026 at 02:38 UTC
+    **Last Updated:** January 31, 2026 at 07:07 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 81.5% of streams are working  
+    **Overall Health:** 81.9% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 40 streams need attention  
+    **Issues Found:** 39 streams need attention  
     
     ---
     
@@ -15,19 +15,18 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 125 | 0 | 40 | 165 |
+    | Regular Channels | 126 | 0 | 39 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **176** | **0** | **40** | **216** |
+    | **TOTAL** | **177** | **0** | **39** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (40 channels)
+    ## ❌ Channels Still Having Issues (39 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
     • **Sky Sports Football** - No working fl server found  
 • **ABC (WABC)** - No working fl server found  
 • **Antenna** - No working fl server found  
-• **BBC WORLD NEWS** - No working fl server found  
 • **BEIN SPORTS** - No working fl server found  
 • **BET** - No working fl server found  
 • **BET GOSPEL** - No working fl server found  
