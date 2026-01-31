@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** January 30, 2026 at 19:14 UTC
+    **Last Updated:** January 31, 2026 at 02:38 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 81.9% of streams are working  
+    **Overall Health:** 81.5% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 39 streams need attention  
+    **Issues Found:** 40 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 126 | 0 | 39 | 165 |
+    | Regular Channels | 125 | 0 | 40 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **177** | **0** | **39** | **216** |
+    | **TOTAL** | **176** | **0** | **40** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (39 channels)
+    ## ❌ Channels Still Having Issues (40 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -35,11 +35,12 @@
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
 • **CNN INTERNATIONAL** - No working fl server found  
+• **CRAVE 2** - No working fl server found  
+• **CRAVE 4** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
-• **FXX** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
 • **MAVTV** - No working fl server found  
 • **mtvU** - No working fl server found  
