@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** February 01, 2026 at 03:10 UTC
+    **Last Updated:** February 01, 2026 at 07:19 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 80.1% of streams are working  
+    **Overall Health:** 81.5% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 43 streams need attention  
+    **Issues Found:** 40 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 122 | 0 | 43 | 165 |
+    | Regular Channels | 125 | 0 | 40 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **173** | **0** | **43** | **216** |
+    | **TOTAL** | **176** | **0** | **40** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (43 channels)
+    ## ❌ Channels Still Having Issues (40 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -30,7 +30,6 @@
 • **BEIN SPORTS** - No working fl server found  
 • **BET** - No working fl server found  
 • **BET GOSPEL** - No working fl server found  
-• **Buzzr** - No working fl server found  
 • **CBS** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
@@ -44,7 +43,6 @@
 • **GAME SHOW NETWORK** - No working fl server found  
 • **HBO Family** - No working fl server found  
 • **MAVTV** - No working fl server found  
-• **MeTV** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
@@ -53,7 +51,6 @@
 • **NHL Network** - No working fl server found  
 • **NickMusic USA** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
-• **Ovation** - No working fl server found  
 • **Pursuit Channel** - No working fl server found  
 • **Start TV** - No working fl server found  
 • **Starz Encore** - No working fl server found  
