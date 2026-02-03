@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** February 02, 2026 at 13:31 UTC
+    **Last Updated:** February 03, 2026 at 02:54 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 81.9% of streams are working  
+    **Overall Health:** 81.5% of streams are working  
     **Current FL Server:** fl1  
     **Changes Made:** 0 streams updated  
-    **Issues Found:** 39 streams need attention  
+    **Issues Found:** 40 streams need attention  
     
     ---
     
@@ -15,12 +15,12 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 126 | 0 | 39 | 165 |
+    | Regular Channels | 125 | 0 | 40 | 165 |
     | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **177** | **0** | **39** | **216** |
+    | **TOTAL** | **176** | **0** | **40** | **216** |
     
     
-    ## ❌ Channels Still Having Issues (39 channels)
+    ## ❌ Channels Still Having Issues (40 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -41,6 +41,7 @@
 • **FOX (WNYW)** - No working fl server found  
 • **FS2** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **LOVE NATURE** - No working fl server found  
 • **MAVTV** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
