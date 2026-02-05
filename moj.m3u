@@ -2,17 +2,17 @@
 #EXTINF:-1 group-title="MOJ Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg" tvg-name="Sky Sports Football",Sky Sports Football
 https://fl1.moveonjoy.com/Sky_Sports_F1/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="MOJ Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" tvg-name="PPV1",PPV1
-https://fl1.moveonjoy.com/PPV_1/index.m3u8
+https://fl31.moveonjoy.com/PPV_1/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="MOJ Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" tvg-name="PPV2",PPV2
-https://fl1.moveonjoy.com/PPV_2/index.m3u8
+https://fl31.moveonjoy.com/PPV_2/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="MOJ Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" tvg-name="PPV3",PPV3
-https://fl1.moveonjoy.com/PPV_3/index.m3u8
+https://fl31.moveonjoy.com/PPV_3/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="MOJ Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" tvg-name="PPV4",PPV4
-https://fl1.moveonjoy.com/PPV_4/index.m3u8
+https://fl31.moveonjoy.com/PPV_4/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="MOJ Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" tvg-name="PPV5",PPV5
-https://fl1.moveonjoy.com/PPV_5/index.m3u8
+https://fl31.moveonjoy.com/PPV_5/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" group-title="MOJ Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" tvg-name="PPV6",PPV6
-https://fl1.moveonjoy.com/PPV_6/index.m3u8
+https://fl31.moveonjoy.com/PPV_6/index.m3u8
 #EXTINF:-1 group-title="MOJ Entertainment" tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC).CA.us",ABC (WABC)
 https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="MOJ Sports" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
