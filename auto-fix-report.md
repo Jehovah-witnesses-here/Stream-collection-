@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** February 10, 2026 at 07:34 UTC
+    **Last Updated:** February 11, 2026 at 03:59 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 81.0% of streams are working  
+    **Overall Health:** 81.5% of streams are working  
     **Current FL Server:** fl31  
-    **Changes Made:** 0 streams updated  
-    **Issues Found:** 41 streams need attention  
+    **Changes Made:** 82 streams updated  
+    **Issues Found:** 40 streams need attention  
     
     ---
     
@@ -15,12 +15,28 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 124 | 0 | 41 | 165 |
-    | Event Channels | N/A | 0 | 0 | 51 |
-    | **TOTAL** | **175** | **0** | **41** | **216** |
+    | Regular Channels | 125 | 77 | 40 | 165 |
+    | Event Channels | N/A | 5 | 0 | 51 |
+    | **TOTAL** | **176** | **82** | **40** | **216** |
     
+    ## ✅ Successfully Fixed (77 channels)
     
-    ## ❌ Channels Still Having Issues (41 channels)
+    These channels were broken but are now working:
+    
+    **fl1 → fl61:** AMC, Bounce, CARTOON NETWORK, CINEMAX EAST, COOKING, DISNEY JR, E ENTERTAINMENT TELEVISION, FX, FXM, INSP TV, MeTV, MTV, MTV Live, MTV2, Outdoor Channel, Oxygen, SundanceTV, VH1  
+**fl1 → fl31:** Aspire, Buzzr, CBS SPORTS NETWORK, Cleo TV, Destination America, Discovery Channel, DISCOVERY LIFE, Discovery Science, ESPN U, FYI FHD, GRIT TV, HBO Zone, HBO2, National Geographic Wild, NBA TV, NewsNation, Nickelodeon, Ovation, Showtime 2, Showtime Extreme, Showtime Women, SMITHSONIAN CHANNEL, SYFY, Tennis Channel, Travel Channel, WORLD FISHING NETWORK, YES Network  
+**fl1 → fl2:** BET GOSPEL, BLOOMBERG, DIY, ESPN 2, MSG, NickToons, QVC, Sportsman Channel, Starz, Starz Comedy, Starz Edge, Starz Encore Action, STARZ WEST, TCM  
+**fl1 → fl7:** BET SOUL, BRAVO, C-SPAN, FOX SOUL, Freeform, FS1, Fuse, ID (Investigation Discovery), ION, Oprah Winfrey Network, Revolt, TVOne, Vice, Weather Channel  
+**fl1 → fl41:** HGTV, Lifetime, Starz Encore Westerns  
+**fl7 → fl2:** Starz Encore  
+
+    ## 🔄 Event Channels Updated (5 channels)
+    
+    These event channels were updated to stay current (they're expected to be offline unless there's a live event):
+    
+    **fl31 → fl61:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3  
+
+    ## ❌ Channels Still Having Issues (40 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -29,20 +45,21 @@
 • **Antenna** - No working fl server found  
 • **BEIN SPORTS** - No working fl server found  
 • **BET** - No working fl server found  
-• **BET Jams** - No working fl server found  
 • **CBS** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
+• **CNBC FHD** - No working fl server found  
 • **CNN INTERNATIONAL** - No working fl server found  
 • **CRAVE 2** - No working fl server found  
 • **CRAVE 4** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
+• **FOOD NETWORK** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
-• **FOX SOUL** - No working fl server found  
 • **FS2** - No working fl server found  
 • **FXX** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **LOVE NATURE** - No working fl server found  
 • **MAVTV** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **NBC** - No working fl server found  
@@ -54,7 +71,6 @@
 • **OUTER MAX** - No working fl server found  
 • **Pursuit Channel** - No working fl server found  
 • **Start TV** - No working fl server found  
-• **Starz Encore** - No working fl server found  
 • **TNT** - No working fl server found  
 • **truTV** - No working fl server found  
 • **TSN 1** - No working fl server found  
@@ -64,13 +80,12 @@
 • **TSN 5** - No working fl server found  
 • **TVLand** - No working fl server found  
 • **USA Network** - No working fl server found  
-• **Weather Channel** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
-    ## 👍 All Good!
+    ## 🎉 Success!
     
-    No updates were needed - your streams are already current and working well.
+    **82 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
