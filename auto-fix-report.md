@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** February 13, 2026 at 07:47 UTC
+    **Last Updated:** February 13, 2026 at 19:39 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 63.9% of streams are working  
-    **Current FL Server:** fl41  
+    **Overall Health:** 61.6% of streams are working  
+    **Current FL Server:** fl31  
     **Changes Made:** 50 streams updated  
-    **Issues Found:** 78 streams need attention  
+    **Issues Found:** 83 streams need attention  
     
     ---
     
@@ -15,24 +15,24 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 87 | 5 | 78 | 165 |
+    | Regular Channels | 82 | 5 | 83 | 165 |
     | Event Channels | N/A | 45 | 0 | 51 |
-    | **TOTAL** | **138** | **50** | **78** | **216** |
+    | **TOTAL** | **133** | **50** | **83** | **216** |
     
     ## ✅ Successfully Fixed (5 channels)
     
     These channels were broken but are now working:
     
-    **fl61 → fl2:** CARTOON NETWORK, COMEDY CENTRAL, COMET, COOKING  
-**fl61 → fl41:** HBO  
+    **fl41 → fl31:** Discovery Science, NewsNation, W NETWORK  
+**fl61 → fl2:** Outdoor Channel, SundanceTV  
 
     ## 🔄 Event Channels Updated (45 channels)
     
     These event channels were updated to stay current (they're expected to be offline unless there's a live event):
     
-    **fl2 → fl41:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+    **fl41 → fl31:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
 
-    ## ❌ Channels Still Having Issues (78 channels)
+    ## ❌ Channels Still Having Issues (83 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -77,14 +77,18 @@
 • **FXM** - No working fl server found  
 • **FXX** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **HBO** - No working fl server found  
+• **HGTV** - No working fl server found  
 • **HLN** - No working fl server found  
 • **HSN** - No working fl server found  
 • **ID (Investigation Discovery)** - No working fl server found  
 • **INSP TV** - No working fl server found  
 • **ION** - No working fl server found  
+• **Lifetime** - No working fl server found  
 • **Lifetime Movies Network** - No working fl server found  
 • **MAVTV** - No working fl server found  
 • **MotorTrend** - No working fl server found  
+• **MTV** - No working fl server found  
 • **MTV2** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **MUCH** - No working fl server found  
@@ -100,6 +104,7 @@
 • **Revolt** - No working fl server found  
 • **Showtime Next** - No working fl server found  
 • **Start TV** - No working fl server found  
+• **Starz Encore Westerns** - No working fl server found  
 • **TLC** - No working fl server found  
 • **TNT** - No working fl server found  
 • **truTV** - No working fl server found  
