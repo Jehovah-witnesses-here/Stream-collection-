@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** February 13, 2026 at 19:39 UTC
+    **Last Updated:** February 14, 2026 at 03:26 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 61.6% of streams are working  
-    **Current FL Server:** fl31  
+    **Overall Health:** 47.7% of streams are working  
+    **Current FL Server:** fl2  
     **Changes Made:** 50 streams updated  
-    **Issues Found:** 83 streams need attention  
+    **Issues Found:** 113 streams need attention  
     
     ---
     
@@ -15,29 +15,30 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 82 | 5 | 83 | 165 |
+    | Regular Channels | 52 | 5 | 113 | 165 |
     | Event Channels | N/A | 45 | 0 | 51 |
-    | **TOTAL** | **133** | **50** | **83** | **216** |
+    | **TOTAL** | **103** | **50** | **113** | **216** |
     
     ## ✅ Successfully Fixed (5 channels)
     
     These channels were broken but are now working:
     
-    **fl41 → fl31:** Discovery Science, NewsNation, W NETWORK  
-**fl61 → fl2:** Outdoor Channel, SundanceTV  
+    **fl61 → fl2:** Bounce, DISNEY JR, Hallmark Channel, Hallmark Family  
+**fl31 → fl2:** STARZ ENCORE CLASSIC  
 
     ## 🔄 Event Channels Updated (45 channels)
     
     These event channels were updated to stay current (they're expected to be offline unless there's a live event):
     
-    **fl41 → fl31:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+    **fl31 → fl2:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
 
-    ## ❌ Channels Still Having Issues (83 channels)
+    ## ❌ Channels Still Having Issues (113 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
     • **Sky Sports Football** - No working fl server found  
 • **ABC (WABC)** - No working fl server found  
+• **ACC NETWORK** - No working fl server found  
 • **AMC** - No working fl server found  
 • **American Heroes Channel** - No working fl server found  
 • **Animal Planet** - No working fl server found  
@@ -65,19 +66,30 @@
 • **CRAVE 3** - No working fl server found  
 • **CRAVE 4** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
+• **DISCOVERY FAMILY CHANNEL** - No working fl server found  
+• **DISCOVERY LIFE** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **DISNEY XD** - No working fl server found  
 • **E ENTERTAINMENT TELEVISION** - No working fl server found  
+• **ESPN NEWS** - No working fl server found  
+• **ESPN U** - No working fl server found  
 • **FOOD NETWORK** - No working fl server found  
 • **FOX (WNYW)** - No working fl server found  
+• **FOX Business Network** - No working fl server found  
 • **FOX SOUL** - No working fl server found  
 • **Freeform** - No working fl server found  
 • **FS2** - No working fl server found  
 • **Fuse** - No working fl server found  
+• **FX** - No working fl server found  
 • **FXM** - No working fl server found  
 • **FXX** - No working fl server found  
+• **FYI FHD** - No working fl server found  
 • **GAME SHOW NETWORK** - No working fl server found  
+• **getTV** - No working fl server found  
+• **GRIT TV** - No working fl server found  
+• **Hallmark Mystery** - No working fl server found  
 • **HBO** - No working fl server found  
+• **HBO Family** - No working fl server found  
 • **HGTV** - No working fl server found  
 • **HLN** - No working fl server found  
 • **HSN** - No working fl server found  
@@ -87,11 +99,16 @@
 • **Lifetime** - No working fl server found  
 • **Lifetime Movies Network** - No working fl server found  
 • **MAVTV** - No working fl server found  
+• **MGM+** - No working fl server found  
+• **MGM+ Drive-In** - No working fl server found  
+• **MLB Network** - No working fl server found  
 • **MotorTrend** - No working fl server found  
 • **MTV** - No working fl server found  
 • **MTV2** - No working fl server found  
 • **mtvU** - No working fl server found  
 • **MUCH** - No working fl server found  
+• **National Geographic** - No working fl server found  
+• **National Geographic Wild** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
 • **NFL Network** - No working fl server found  
@@ -100,13 +117,22 @@
 • **NickMusic USA** - No working fl server found  
 • **Oprah Winfrey Network** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
+• **OUTSIDE TV** - No working fl server found  
+• **Ovation** - No working fl server found  
+• **Paramount Network** - No working fl server found  
 • **Pursuit Channel** - No working fl server found  
 • **Revolt** - No working fl server found  
+• **Showtime** - No working fl server found  
 • **Showtime Next** - No working fl server found  
+• **Showtime Women** - No working fl server found  
+• **SMITHSONIAN CHANNEL** - No working fl server found  
 • **Start TV** - No working fl server found  
 • **Starz Encore Westerns** - No working fl server found  
+• **SYFY** - No working fl server found  
+• **Tennis Channel** - No working fl server found  
 • **TLC** - No working fl server found  
 • **TNT** - No working fl server found  
+• **Travel Channel** - No working fl server found  
 • **truTV** - No working fl server found  
 • **TSN 1** - No working fl server found  
 • **TSN 2** - No working fl server found  
@@ -118,7 +144,11 @@
 • **USA Network** - No working fl server found  
 • **VH1** - No working fl server found  
 • **Vice** - No working fl server found  
+• **W NETWORK** - No working fl server found  
 • **Weather Channel** - No working fl server found  
+• **WGN** - No working fl server found  
+• **WORLD FISHING NETWORK** - No working fl server found  
+• **YES Network** - No working fl server found  
 
     > 💡 **Tip:** These channels might be temporarily down, using different servers, or may need different fixes.
     
