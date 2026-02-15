@@ -1,13 +1,13 @@
 # 🔧 M3U Stream Status Report
     
-    **Last Updated:** February 14, 2026 at 03:26 UTC
+    **Last Updated:** February 15, 2026 at 03:51 UTC
     
     ## 📊 Quick Summary
     
-    **Overall Health:** 47.7% of streams are working  
+    **Overall Health:** 40.7% of streams are working  
     **Current FL Server:** fl2  
-    **Changes Made:** 50 streams updated  
-    **Issues Found:** 113 streams need attention  
+    **Changes Made:** 10 streams updated  
+    **Issues Found:** 128 streams need attention  
     
     ---
     
@@ -15,24 +15,23 @@
     
     | Category | Working | Fixed | Failed | Total |
     |----------|---------|-------|--------|-------|
-    | Regular Channels | 52 | 5 | 113 | 165 |
-    | Event Channels | N/A | 45 | 0 | 51 |
-    | **TOTAL** | **103** | **50** | **113** | **216** |
+    | Regular Channels | 37 | 4 | 128 | 165 |
+    | Event Channels | N/A | 6 | 0 | 51 |
+    | **TOTAL** | **88** | **10** | **128** | **216** |
     
-    ## ✅ Successfully Fixed (5 channels)
+    ## ✅ Successfully Fixed (4 channels)
     
     These channels were broken but are now working:
     
-    **fl61 → fl2:** Bounce, DISNEY JR, Hallmark Channel, Hallmark Family  
-**fl31 → fl2:** STARZ ENCORE CLASSIC  
+    **fl31 → fl2:** BBC AMERICA, BBC WORLD NEWS, NBA TV, Nickelodeon  
 
-    ## 🔄 Event Channels Updated (45 channels)
+    ## 🔄 Event Channels Updated (6 channels)
     
     These event channels were updated to stay current (they're expected to be offline unless there's a live event):
     
-    **fl31 → fl2:** MLB 1, MLB 10, MLB 11, MLB 2, MLB 3, NBA 1, NBA 10, NBA 11, NBA 12, NBA 13, NBA 2, NBA 3, NBA 4, NBA 5, NBA 6, NBA 7, NBA 8, NBA 9, NFL 1, NFL 10, NFL 11, NFL 12, NFL 13, NFL 14, NFL 15, NFL 2, NFL 3, NFL 4, NFL 5, NFL 6, NFL 7, NFL 8, NFL 9, NHL 1, NHL 10, NHL 11, NHL 13, NHL 2, NHL 3, NHL 4, NHL 5, NHL 6, NHL 7, NHL 8, NHL 9  
+    **fl31 → fl2:** PPV1, PPV2, PPV3, PPV4, PPV5, PPV6  
 
-    ## ❌ Channels Still Having Issues (113 channels)
+    ## ❌ Channels Still Having Issues (128 channels)
     
     These channels couldn't be fixed and may need manual attention:
     
@@ -43,6 +42,7 @@
 • **American Heroes Channel** - No working fl server found  
 • **Animal Planet** - No working fl server found  
 • **Antenna** - No working fl server found  
+• **Aspire** - No working fl server found  
 • **BEIN SPORTS** - No working fl server found  
 • **BET** - No working fl server found  
 • **BET HER** - No working fl server found  
@@ -51,12 +51,14 @@
 • **Big Ten Network HD** - No working fl server found  
 • **Boomerang** - No working fl server found  
 • **BRAVO** - No working fl server found  
+• **Buzzr** - No working fl server found  
 • **C-SPAN** - No working fl server found  
 • **CBS** - No working fl server found  
 • **CBS SPORTS NETWORK** - No working fl server found  
 • **CINEMAX EAST** - No working fl server found  
 • **CINEMAX MOREMAX** - No working fl server found  
 • **CINEMAX WEST** - No working fl server found  
+• **Cleo TV** - No working fl server found  
 • **CNBC FHD** - No working fl server found  
 • **CNN INTERNATIONAL** - No working fl server found  
 • **COURT TV** - No working fl server found  
@@ -66,8 +68,11 @@
 • **CRAVE 3** - No working fl server found  
 • **CRAVE 4** - No working fl server found  
 • **Curiosity Stream** - No working fl server found  
+• **Destination America** - No working fl server found  
+• **Discovery Channel** - No working fl server found  
 • **DISCOVERY FAMILY CHANNEL** - No working fl server found  
 • **DISCOVERY LIFE** - No working fl server found  
+• **Discovery Science** - No working fl server found  
 • **DISNEY CHANNEL** - No working fl server found  
 • **DISNEY XD** - No working fl server found  
 • **E ENTERTAINMENT TELEVISION** - No working fl server found  
@@ -78,6 +83,7 @@
 • **FOX Business Network** - No working fl server found  
 • **FOX SOUL** - No working fl server found  
 • **Freeform** - No working fl server found  
+• **FS1** - No working fl server found  
 • **FS2** - No working fl server found  
 • **Fuse** - No working fl server found  
 • **FX** - No working fl server found  
@@ -89,7 +95,10 @@
 • **GRIT TV** - No working fl server found  
 • **Hallmark Mystery** - No working fl server found  
 • **HBO** - No working fl server found  
+• **HBO Comedy** - No working fl server found  
 • **HBO Family** - No working fl server found  
+• **HBO Zone** - No working fl server found  
+• **HBO2** - No working fl server found  
 • **HGTV** - No working fl server found  
 • **HLN** - No working fl server found  
 • **HSN** - No working fl server found  
@@ -111,9 +120,11 @@
 • **National Geographic Wild** - No working fl server found  
 • **NBC** - No working fl server found  
 • **NBC Golf** - No working fl server found  
+• **NewsNation** - No working fl server found  
 • **NFL Network** - No working fl server found  
 • **NFL RedZone** - No working fl server found  
 • **NHL Network** - No working fl server found  
+• **NickJr** - No working fl server found  
 • **NickMusic USA** - No working fl server found  
 • **Oprah Winfrey Network** - No working fl server found  
 • **OUTER MAX** - No working fl server found  
@@ -123,6 +134,8 @@
 • **Pursuit Channel** - No working fl server found  
 • **Revolt** - No working fl server found  
 • **Showtime** - No working fl server found  
+• **Showtime 2** - No working fl server found  
+• **Showtime Extreme** - No working fl server found  
 • **Showtime Next** - No working fl server found  
 • **Showtime Women** - No working fl server found  
 • **SMITHSONIAN CHANNEL** - No working fl server found  
@@ -146,6 +159,7 @@
 • **Vice** - No working fl server found  
 • **W NETWORK** - No working fl server found  
 • **Weather Channel** - No working fl server found  
+• **WeTV** - No working fl server found  
 • **WGN** - No working fl server found  
 • **WORLD FISHING NETWORK** - No working fl server found  
 • **YES Network** - No working fl server found  
@@ -154,7 +168,7 @@
     
     ## 🎉 Success!
     
-    **50 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
+    **10 streams were automatically updated** and should now be working properly. The playlist has been saved with the new URLs.
     
     
     ---
